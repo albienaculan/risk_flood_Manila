@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d16" for="edge" attr.name="name" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="service" attr.type="string"/>
+<key id="d9" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:20:15</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="159447062">
+  <data key="d4">14.5820724</data>
+  <data key="d5">120.9934303</data>
+  <data key="d6">4</data>
+  <data key="d7">3.575</data>
+</node>
+<node id="8383174526">
+  <data key="d4">14.5822998</data>
+  <data key="d5">120.9933181</data>
+  <data key="d6">1</data>
+  <data key="d7">4.112</data>
+</node>
+<node id="8383174527">
+  <data key="d4">14.5817664</data>
+  <data key="d5">120.993581</data>
+  <data key="d6">1</data>
+  <data key="d7">3.404</data>
+</node>
+<node id="8598597607">
+  <data key="d4">14.5822881</data>
+  <data key="d5">120.9939431</data>
+  <data key="d6">1</data>
+  <data key="d7">4.619</data>
+</node>
+<node id="9824705647">
+  <data key="d4">14.5818384</data>
+  <data key="d5">120.9939665</data>
+  <data key="d6">1</data>
+  <data key="d7">4.682</data>
+</node>
+<node id="9824705648">
+  <data key="d4">14.5822309</data>
+  <data key="d5">120.9937942</data>
+  <data key="d6">3</data>
+  <data key="d7">4.194</data>
+</node>
+<edge source="159447062" target="8383174527" id="0">
+  <data key="d8">902574673</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">37.693</data>
+  <data key="d14">-0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="159447062" target="8383174526" id="0">
+  <data key="d8">902574673</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">28.021</data>
+  <data key="d14">0.019</data>
+  <data key="d15">0.019</data>
+</edge>
+<edge source="159447062" target="9824705648" id="0">
+  <data key="d8">926642264</data>
+  <data key="d16">Calixto Dyco Street</data>
+  <data key="d9">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">42.944</data>
+  <data key="d14">0.014</data>
+  <data key="d15">0.014</data>
+</edge>
+<edge source="8383174526" target="159447062" id="0">
+  <data key="d8">902574673</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">28.021</data>
+  <data key="d14">-0.019</data>
+  <data key="d15">0.019</data>
+</edge>
+<edge source="8383174527" target="159447062" id="0">
+  <data key="d8">902574673</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">37.693</data>
+  <data key="d14">0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="8598597607" target="9824705648" id="0">
+  <data key="d8">926642264</data>
+  <data key="d16">Calixto Dyco Street</data>
+  <data key="d9">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">17.24</data>
+  <data key="d14">-0.025</data>
+  <data key="d15">0.025</data>
+</edge>
+<edge source="9824705647" target="9824705648" id="0">
+  <data key="d8">1070551777</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">47.419</data>
+  <data key="d14">-0.01</data>
+  <data key="d15">0.01</data>
+</edge>
+<edge source="9824705648" target="159447062" id="0">
+  <data key="d8">926642264</data>
+  <data key="d16">Calixto Dyco Street</data>
+  <data key="d9">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">42.944</data>
+  <data key="d14">-0.014</data>
+  <data key="d15">0.014</data>
+</edge>
+<edge source="9824705648" target="8598597607" id="0">
+  <data key="d8">926642264</data>
+  <data key="d16">Calixto Dyco Street</data>
+  <data key="d9">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">17.24</data>
+  <data key="d14">0.025</data>
+  <data key="d15">0.025</data>
+</edge>
+<edge source="9824705648" target="9824705647" id="0">
+  <data key="d8">1070551777</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">47.419</data>
+  <data key="d14">0.01</data>
+  <data key="d15">0.01</data>
+</edge>
+</graph></graphml>

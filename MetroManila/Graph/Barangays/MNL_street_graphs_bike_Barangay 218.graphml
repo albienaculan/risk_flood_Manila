@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="name" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="service" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d13" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d12" for="edge" attr.name="length" attr.type="string"/>
+<key id="d11" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 12:39:25</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="5354055881">
+  <data key="d4">14.6216843</data>
+  <data key="d5">120.9728741</data>
+  <data key="d6">3</data>
+  <data key="d7">3.738</data>
+</node>
+<node id="5354055882">
+  <data key="d4">14.6221055</data>
+  <data key="d5">120.9729338</data>
+  <data key="d6">4</data>
+  <data key="d7">3.913</data>
+</node>
+<node id="5354055884">
+  <data key="d4">14.622066</data>
+  <data key="d5">120.9731338</data>
+  <data key="d6">4</data>
+  <data key="d7">3.807</data>
+</node>
+<node id="5354055885">
+  <data key="d4">14.6224325</data>
+  <data key="d5">120.9728046</data>
+  <data key="d6">1</data>
+  <data key="d7">3.996</data>
+</node>
+<node id="5354055886">
+  <data key="d4">14.6221428</data>
+  <data key="d5">120.9727452</data>
+  <data key="d6">4</data>
+  <data key="d7">3.636</data>
+</node>
+<node id="5354055887">
+  <data key="d4">14.6217087</data>
+  <data key="d5">120.9726864</data>
+  <data key="d6">3</data>
+  <data key="d7">3.323</data>
+</node>
+<node id="5354055936">
+  <data key="d4">14.622011</data>
+  <data key="d5">120.9734123</data>
+  <data key="d6">4</data>
+  <data key="d7">3.366</data>
+</node>
+<edge source="5354055881" target="5354055887" id="0">
+  <data key="d8">179949817</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">20.377</data>
+  <data key="d13">-0.02</data>
+  <data key="d14">0.02</data>
+</edge>
+<edge source="5354055881" target="5354055882" id="0">
+  <data key="d8">554806930</data>
+  <data key="d9">service</data>
+  <data key="d15">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">47.274</data>
+  <data key="d13">0.004</data>
+  <data key="d14">0.004</data>
+</edge>
+<edge source="5354055882" target="5354055886" id="0">
+  <data key="d8">16267830</data>
+  <data key="d16">2</data>
+  <data key="d17">Maria Guizon Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">20.712</data>
+  <data key="d13">-0.013</data>
+  <data key="d14">0.013</data>
+</edge>
+<edge source="5354055882" target="5354055884" id="0">
+  <data key="d8">16267830</data>
+  <data key="d16">2</data>
+  <data key="d17">Maria Guizon Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">21.962</data>
+  <data key="d13">-0.005</data>
+  <data key="d14">0.005</data>
+</edge>
+<edge source="5354055882" target="5354055881" id="0">
+  <data key="d8">554806930</data>
+  <data key="d9">service</data>
+  <data key="d15">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">47.274</data>
+  <data key="d13">-0.004</data>
+  <data key="d14">0.004</data>
+</edge>
+<edge source="5354055884" target="5354055882" id="0">
+  <data key="d8">16267830</data>
+  <data key="d16">2</data>
+  <data key="d17">Maria Guizon Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">21.962</data>
+  <data key="d13">0.005</data>
+  <data key="d14">0.005</data>
+</edge>
+<edge source="5354055884" target="5354055936" id="0">
+  <data key="d8">16267830</data>
+  <data key="d16">2</data>
+  <data key="d17">Maria Guizon Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">30.583</data>
+  <data key="d13">-0.014</data>
+  <data key="d14">0.014</data>
+</edge>
+<edge source="5354055885" target="5354055886" id="0">
+  <data key="d8">554806932</data>
+  <data key="d9">service</data>
+  <data key="d15">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">32.841</data>
+  <data key="d13">-0.011</data>
+  <data key="d14">0.011</data>
+</edge>
+<edge source="5354055886" target="5354055882" id="0">
+  <data key="d8">16267830</data>
+  <data key="d16">2</data>
+  <data key="d17">Maria Guizon Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">20.712</data>
+  <data key="d13">0.013</data>
+  <data key="d14">0.013</data>
+</edge>
+<edge source="5354055886" target="5354055885" id="0">
+  <data key="d8">554806932</data>
+  <data key="d9">service</data>
+  <data key="d15">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">32.841</data>
+  <data key="d13">0.011</data>
+  <data key="d14">0.011</data>
+</edge>
+<edge source="5354055886" target="5354055887" id="0">
+  <data key="d8">554806932</data>
+  <data key="d9">service</data>
+  <data key="d15">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">48.683</data>
+  <data key="d13">-0.006</data>
+  <data key="d14">0.006</data>
+</edge>
+<edge source="5354055887" target="5354055881" id="0">
+  <data key="d8">179949817</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">20.377</data>
+  <data key="d13">0.02</data>
+  <data key="d14">0.02</data>
+</edge>
+<edge source="5354055887" target="5354055886" id="0">
+  <data key="d8">554806932</data>
+  <data key="d9">service</data>
+  <data key="d15">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">48.683</data>
+  <data key="d13">0.006</data>
+  <data key="d14">0.006</data>
+</edge>
+<edge source="5354055936" target="5354055884" id="0">
+  <data key="d8">16267830</data>
+  <data key="d16">2</data>
+  <data key="d17">Maria Guizon Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">30.583</data>
+  <data key="d13">0.014</data>
+  <data key="d14">0.014</data>
+</edge>
+</graph></graphml>

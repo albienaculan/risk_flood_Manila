@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="access" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:01:36</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="244092745">
+  <data key="d4">14.5851378</data>
+  <data key="d5">120.9982116</data>
+  <data key="d6">3</data>
+  <data key="d7">3.215</data>
+</node>
+<node id="8318378263">
+  <data key="d4">14.5854356</data>
+  <data key="d5">120.9986808</data>
+  <data key="d6">1</data>
+  <data key="d7">2.782</data>
+</node>
+<node id="8318378265">
+  <data key="d4">14.5851886</data>
+  <data key="d5">120.9981782</data>
+  <data key="d6">3</data>
+  <data key="d7">3.127</data>
+</node>
+<node id="9813540117">
+  <data key="d4">14.5856445</data>
+  <data key="d5">120.998366</data>
+  <data key="d6">1</data>
+  <data key="d7">3.402</data>
+</node>
+<node id="9813540118">
+  <data key="d4">14.5855338</data>
+  <data key="d5">120.9980502</data>
+  <data key="d6">3</data>
+  <data key="d7">4.43</data>
+</node>
+<edge source="244092745" target="8318378265" id="0">
+  <data key="d8">22748963</data>
+  <data key="d9">Burgos Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">6.695</data>
+  <data key="d14">-0.013</data>
+  <data key="d15">0.013</data>
+</edge>
+<edge source="8318378263" target="8318378265" id="0">
+  <data key="d8">894902348</data>
+  <data key="d10">pedestrian</data>
+  <data key="d16">destination</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">60.669000000000004</data>
+  <data key="d17">LINESTRING (120.9986808 14.5854356, 120.9985166 14.5853499, 120.9981782 14.5851886)</data>
+  <data key="d14">0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="8318378265" target="244092745" id="0">
+  <data key="d8">22748963</data>
+  <data key="d9">Burgos Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">6.695</data>
+  <data key="d14">0.013</data>
+  <data key="d15">0.013</data>
+</edge>
+<edge source="8318378265" target="9813540118" id="0">
+  <data key="d8">22748963</data>
+  <data key="d9">Burgos Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">40.903</data>
+  <data key="d17">LINESTRING (120.9981782 14.5851886, 120.9980986 14.5853615, 120.9980699 14.5854636, 120.9980502 14.5855338)</data>
+  <data key="d14">0.032</data>
+  <data key="d15">0.032</data>
+</edge>
+<edge source="8318378265" target="8318378263" id="0">
+  <data key="d8">894902348</data>
+  <data key="d10">pedestrian</data>
+  <data key="d16">destination</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">60.669000000000004</data>
+  <data key="d17">LINESTRING (120.9981782 14.5851886, 120.9985166 14.5853499, 120.9986808 14.5854356)</data>
+  <data key="d14">-0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="9813540117" target="9813540118" id="0">
+  <data key="d8">1069110417</data>
+  <data key="d9">Pasaje Ong</data>
+  <data key="d10">pedestrian</data>
+  <data key="d16">destination</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">36.144</data>
+  <data key="d14">0.028</data>
+  <data key="d15">0.028</data>
+</edge>
+<edge source="9813540118" target="9813540117" id="0">
+  <data key="d8">1069110417</data>
+  <data key="d9">Pasaje Ong</data>
+  <data key="d10">pedestrian</data>
+  <data key="d16">destination</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">36.144</data>
+  <data key="d14">-0.028</data>
+  <data key="d15">0.028</data>
+</edge>
+<edge source="9813540118" target="8318378265" id="0">
+  <data key="d8">22748963</data>
+  <data key="d9">Burgos Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">40.903</data>
+  <data key="d17">LINESTRING (120.9980502 14.5855338, 120.9980699 14.5854636, 120.9980986 14.5853615, 120.9981782 14.5851886)</data>
+  <data key="d14">-0.032</data>
+  <data key="d15">0.032</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="bridge" attr.type="string"/>
+<key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 04:36:31</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="29487759">
+  <data key="d4">14.5994557</data>
+  <data key="d5">120.998021</data>
+  <data key="d6">4</data>
+  <data key="d7">6.861</data>
+</node>
+<node id="244128135">
+  <data key="d4">14.5987112</data>
+  <data key="d5">120.9987105</data>
+  <data key="d6">1</data>
+  <data key="d7">6.856</data>
+</node>
+<node id="244128143">
+  <data key="d4">14.5999629</data>
+  <data key="d5">120.998605</data>
+  <data key="d6">3</data>
+  <data key="d7">5.296</data>
+</node>
+<node id="244128154">
+  <data key="d4">14.5989278</data>
+  <data key="d5">120.9995949</data>
+  <data key="d6">1</data>
+  <data key="d7">5.901</data>
+</node>
+<node id="1357275923">
+  <data key="d4">14.5992841</data>
+  <data key="d5">120.9978818</data>
+  <data key="d6">3</data>
+  <data key="d7">7.257</data>
+</node>
+<node id="1944690550">
+  <data key="d4">14.6004156</data>
+  <data key="d5">120.9991262</data>
+  <data key="d6">3</data>
+  <data key="d7">4.952</data>
+</node>
+<node id="8317796141">
+  <data key="d4">14.6002284</data>
+  <data key="d5">120.9989029</data>
+  <data key="d6">3</data>
+  <data key="d7">4.759</data>
+</node>
+<node id="9805467910">
+  <data key="d4">14.6003259</data>
+  <data key="d5">120.9990206</data>
+  <data key="d6">3</data>
+  <data key="d7">4.838</data>
+</node>
+<edge source="29487759" target="244128135" id="0">
+  <data key="d8">9867184</data>
+  <data key="d9">Minerva Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">111.167</data>
+  <data key="d14">-0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="29487759" target="244128143" id="0">
+  <data key="d8">28788664</data>
+  <data key="d16">4</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">40</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">84.438</data>
+  <data key="d14">-0.019</data>
+  <data key="d15">0.019</data>
+</edge>
+<edge source="29487759" target="1357275923" id="0">
+  <data key="d8">22751304</data>
+  <data key="d16">2</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">40</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">24.291</data>
+  <data key="d18">LINESTRING (120.998021 14.5994557, 120.9979331 14.5993386, 120.9978818 14.5992841)</data>
+  <data key="d14">0.016</data>
+  <data key="d15">0.016</data>
+</edge>
+<edge source="244128135" target="29487759" id="0">
+  <data key="d8">9867184</data>
+  <data key="d9">Minerva Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">111.167</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="244128143" target="29487759" id="0">
+  <data key="d8">28788664</data>
+  <data key="d16">4</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">40</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">84.438</data>
+  <data key="d14">0.019</data>
+  <data key="d15">0.019</data>
+</edge>
+<edge source="244128143" target="244128154" id="0">
+  <data key="d8">22751307</data>
+  <data key="d16">2</data>
+  <data key="d9">Adela Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">156.82500000000002</data>
+  <data key="d18">LINESTRING (120.998605 14.5999629, 120.99941 14.5991245, 120.9995949 14.5989278)</data>
+  <data key="d14">0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="244128143" target="8317796141" id="0">
+  <data key="d8">28788664</data>
+  <data key="d16">4</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">40</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">43.579</data>
+  <data key="d18">LINESTRING (120.998605 14.5999629, 120.9987404 14.6000835, 120.9989029 14.6002284)</data>
+  <data key="d14">-0.012</data>
+  <data key="d15">0.012</data>
+</edge>
+<edge source="244128154" target="244128143" id="0">
+  <data key="d8">22751307</data>
+  <data key="d16">2</data>
+  <data key="d9">Adela Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">156.82500000000002</data>
+  <data key="d18">LINESTRING (120.9995949 14.5989278, 120.99941 14.5991245, 120.998605 14.5999629)</data>
+  <data key="d14">-0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="1357275923" target="29487759" id="0">
+  <data key="d8">22751304</data>
+  <data key="d16">2</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">40</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">24.291</data>
+  <data key="d18">LINESTRING (120.9978818 14.5992841, 120.9979331 14.5993386, 120.998021 14.5994557)</data>
+  <data key="d14">-0.016</data>
+  <data key="d15">0.016</data>
+</edge>
+<edge source="1944690550" target="9805467910" id="0">
+  <data key="d8">126342420</data>
+  <data key="d16">4</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">15.12</data>
+  <data key="d14">-0.008</data>
+  <data key="d15">0.008</data>
+</edge>
+<edge source="8317796141" target="244128143" id="0">
+  <data key="d8">28788664</data>
+  <data key="d16">4</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">40</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">43.579</data>
+  <data key="d18">LINESTRING (120.9989029 14.6002284, 120.9987404 14.6000835, 120.998605 14.5999629)</data>
+  <data key="d14">0.012</data>
+  <data key="d15">0.012</data>
+</edge>
+<edge source="8317796141" target="9805467910" id="0">
+  <data key="d8">[28788664, 38426188, 126342420]</data>
+  <data key="d16">4</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">40</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">16.71</data>
+  <data key="d19">yes</data>
+  <data key="d18">LINESTRING (120.9989029 14.6002284, 120.9989285 14.6002443, 120.9989992 14.6003078, 120.9990206 14.6003259)</data>
+  <data key="d14">0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="9805467910" target="1944690550" id="0">
+  <data key="d8">126342420</data>
+  <data key="d16">4</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">15.12</data>
+  <data key="d14">0.008</data>
+  <data key="d15">0.008</data>
+</edge>
+<edge source="9805467910" target="8317796141" id="0">
+  <data key="d8">[28788664, 126342420, 38426188]</data>
+  <data key="d16">4</data>
+  <data key="d9">Jose P. Laurel Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">16.71</data>
+  <data key="d19">yes</data>
+  <data key="d17">40</data>
+  <data key="d18">LINESTRING (120.9990206 14.6003259, 120.9989992 14.6003078, 120.9989285 14.6002443, 120.9989029 14.6002284)</data>
+  <data key="d14">-0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+</graph></graphml>

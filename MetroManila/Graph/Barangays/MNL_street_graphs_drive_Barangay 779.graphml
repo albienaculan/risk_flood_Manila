@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:21:58</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="141467005">
+  <data key="d4">14.5771169</data>
+  <data key="d5">121.0056212</data>
+  <data key="d6">4</data>
+  <data key="d7">3.926</data>
+</node>
+<node id="1669669749">
+  <data key="d4">14.5764943</data>
+  <data key="d5">121.006285</data>
+  <data key="d6">3</data>
+  <data key="d7">3.889</data>
+</node>
+<node id="1671447992">
+  <data key="d4">14.5761506</data>
+  <data key="d5">121.0059411</data>
+  <data key="d6">3</data>
+  <data key="d7">4.49</data>
+</node>
+<node id="8313925168">
+  <data key="d4">14.5774268</data>
+  <data key="d5">121.0059347</data>
+  <data key="d6">3</data>
+  <data key="d7">4.637</data>
+</node>
+<edge source="141467005" target="1669669749" id="0">
+  <data key="d8">14438737</data>
+  <data key="d9">2</data>
+  <data key="d10">Eloriaga Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">99.478</data>
+  <data key="d15">-0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="141467005" target="8313925168" id="0">
+  <data key="d8">14438738</data>
+  <data key="d9">2</data>
+  <data key="d10">M. Torres Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">48.225</data>
+  <data key="d15">0.015</data>
+  <data key="d16">0.015</data>
+</edge>
+<edge source="141467005" target="1671447992" id="0">
+  <data key="d8">[154644800, 14438738]</data>
+  <data key="d9">2</data>
+  <data key="d10">['Oro Extension', 'M. Torres Street']</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">147.06400000000002</data>
+  <data key="d17">LINESTRING (121.0056212 14.5771169, 121.0053149 14.5768142, 121.0059016 14.5761997, 121.0059411 14.5761506)</data>
+  <data key="d15">0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="1669669749" target="141467005" id="0">
+  <data key="d8">14438737</data>
+  <data key="d9">2</data>
+  <data key="d10">Eloriaga Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">99.478</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="1669669749" target="1671447992" id="0">
+  <data key="d8">921210769</data>
+  <data key="d9">2</data>
+  <data key="d10">Augusto Francisco Street</data>
+  <data key="d11">secondary</data>
+  <data key="d18">30</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">53.2</data>
+  <data key="d15">0.011</data>
+  <data key="d16">0.011</data>
+</edge>
+<edge source="1671447992" target="1669669749" id="0">
+  <data key="d8">921210769</data>
+  <data key="d9">2</data>
+  <data key="d10">Augusto Francisco Street</data>
+  <data key="d11">secondary</data>
+  <data key="d18">30</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">53.2</data>
+  <data key="d15">-0.011</data>
+  <data key="d16">0.011</data>
+</edge>
+<edge source="1671447992" target="141467005" id="0">
+  <data key="d8">[154644800, 14438738]</data>
+  <data key="d10">['Oro Extension', 'M. Torres Street']</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">147.064</data>
+  <data key="d9">2</data>
+  <data key="d17">LINESTRING (121.0059411 14.5761506, 121.0059016 14.5761997, 121.0053149 14.5768142, 121.0056212 14.5771169)</data>
+  <data key="d15">-0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="8313925168" target="141467005" id="0">
+  <data key="d8">14438738</data>
+  <data key="d9">2</data>
+  <data key="d10">M. Torres Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">48.225</data>
+  <data key="d15">-0.015</data>
+  <data key="d16">0.015</data>
+</edge>
+</graph></graphml>

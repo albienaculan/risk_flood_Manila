@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:30:24</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="79660529">
+  <data key="d4">14.5783986</data>
+  <data key="d5">121.0094315</data>
+  <data key="d6">3</data>
+  <data key="d7">3.442</data>
+</node>
+<node id="136894332">
+  <data key="d4">14.5789535</data>
+  <data key="d5">121.0087399</data>
+  <data key="d6">3</data>
+  <data key="d7">3.546</data>
+</node>
+<node id="156700226">
+  <data key="d4">14.5785668</data>
+  <data key="d5">121.0100462</data>
+  <data key="d6">4</data>
+  <data key="d7">3.279</data>
+</node>
+<node id="156700391">
+  <data key="d4">14.5787697</data>
+  <data key="d5">121.0089717</data>
+  <data key="d6">3</data>
+  <data key="d7">3.475</data>
+</node>
+<node id="156723646">
+  <data key="d4">14.5794295</data>
+  <data key="d5">121.0081574</data>
+  <data key="d6">3</data>
+  <data key="d7">3.558</data>
+</node>
+<node id="8374203796">
+  <data key="d4">14.578802</data>
+  <data key="d5">121.0090962</data>
+  <data key="d6">1</data>
+  <data key="d7">3.642</data>
+</node>
+<node id="8601950085">
+  <data key="d4">14.5786494</data>
+  <data key="d5">121.0100202</data>
+  <data key="d6">1</data>
+  <data key="d7">3.315</data>
+</node>
+<edge source="79660529" target="156700226" id="0">
+  <data key="d8">9868078</data>
+  <data key="d9">2</data>
+  <data key="d10">Jose Syquia Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">68.744</data>
+  <data key="d15">-0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="79660529" target="156700391" id="0">
+  <data key="d8">987591084</data>
+  <data key="d9">2</data>
+  <data key="d10">Tejeron Street</data>
+  <data key="d11">secondary</data>
+  <data key="d17">50</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">64.43</data>
+  <data key="d15">0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="136894332" target="156700391" id="0">
+  <data key="d8">987591081</data>
+  <data key="d9">2</data>
+  <data key="d10">Tejeron Street</data>
+  <data key="d11">secondary</data>
+  <data key="d17">50</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">32.248</data>
+  <data key="d15">-0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="136894332" target="156723646" id="0">
+  <data key="d8">987591083</data>
+  <data key="d9">2</data>
+  <data key="d10">Tejeron Street</data>
+  <data key="d11">secondary</data>
+  <data key="d17">50</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">82.042</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="156700226" target="79660529" id="0">
+  <data key="d8">9868078</data>
+  <data key="d9">2</data>
+  <data key="d10">Jose Syquia Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">68.744</data>
+  <data key="d15">0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="156700226" target="8601950085" id="0">
+  <data key="d8">1066156529</data>
+  <data key="d10">Cagayan Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">9.601</data>
+  <data key="d15">0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="156700391" target="136894332" id="0">
+  <data key="d8">987591081</data>
+  <data key="d9">2</data>
+  <data key="d10">Tejeron Street</data>
+  <data key="d11">secondary</data>
+  <data key="d17">50</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">32.248</data>
+  <data key="d15">0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="156700391" target="79660529" id="0">
+  <data key="d8">987591084</data>
+  <data key="d9">2</data>
+  <data key="d10">Tejeron Street</data>
+  <data key="d11">secondary</data>
+  <data key="d17">50</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">64.43</data>
+  <data key="d15">-0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="156700391" target="8374203796" id="0">
+  <data key="d8">1066156530</data>
+  <data key="d10">Paco Roman Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">13.871</data>
+  <data key="d15">0.012</data>
+  <data key="d16">0.012</data>
+</edge>
+<edge source="156723646" target="136894332" id="0">
+  <data key="d8">987591083</data>
+  <data key="d9">2</data>
+  <data key="d10">Tejeron Street</data>
+  <data key="d11">secondary</data>
+  <data key="d17">50</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">82.042</data>
+  <data key="d15">-0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="8374203796" target="156700391" id="0">
+  <data key="d8">1066156530</data>
+  <data key="d10">Paco Roman Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">13.871</data>
+  <data key="d15">-0.012</data>
+  <data key="d16">0.012</data>
+</edge>
+<edge source="8601950085" target="156700226" id="0">
+  <data key="d8">1066156529</data>
+  <data key="d10">Cagayan Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">9.601</data>
+  <data key="d15">-0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+</graph></graphml>

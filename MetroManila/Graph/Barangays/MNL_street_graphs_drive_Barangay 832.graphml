@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="access" attr.type="string"/>
+<key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="width" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:32:54</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="316161548">
+  <data key="d4">14.5918651</data>
+  <data key="d5">120.9993303</data>
+  <data key="d6">4</data>
+  <data key="d7">5.956</data>
+</node>
+<node id="4068442841">
+  <data key="d4">14.5910276</data>
+  <data key="d5">120.9985981</data>
+  <data key="d6">3</data>
+  <data key="d7">3.728</data>
+</node>
+<node id="4068442847">
+  <data key="d4">14.5912188</data>
+  <data key="d5">120.9979637</data>
+  <data key="d6">1</data>
+  <data key="d7">4.004</data>
+</node>
+<node id="4068442866">
+  <data key="d4">14.5925738</data>
+  <data key="d5">120.9986919</data>
+  <data key="d6">1</data>
+  <data key="d7">5.974</data>
+</node>
+<node id="9791018387">
+  <data key="d4">14.5920741</data>
+  <data key="d5">120.99951</data>
+  <data key="d6">2</data>
+  <data key="d7">5.766</data>
+</node>
+<edge source="316161548" target="9791018387" id="0">
+  <data key="d8">137055696</data>
+  <data key="d9">4</data>
+  <data key="d10">Paz Mendoza Guazon Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">40</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">30.233</data>
+  <data key="d17">-0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="316161548" target="4068442841" id="0">
+  <data key="d8">137055696</data>
+  <data key="d9">4</data>
+  <data key="d10">Paz Mendoza Guazon Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">40</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">121.99100000000001</data>
+  <data key="d19">LINESTRING (120.9993303 14.5918651, 120.999236 14.5917562, 120.9991704 14.5916807, 120.9991575 14.5916658, 120.9991291 14.5916331, 120.9987143 14.5911554, 120.9986931 14.591131, 120.9985981 14.5910276)</data>
+  <data key="d17">-0.018</data>
+  <data key="d18">0.018</data>
+</edge>
+<edge source="316161548" target="4068442866" id="0">
+  <data key="d8">838832629</data>
+  <data key="d9">2</data>
+  <data key="d10">Mendiola Extension</data>
+  <data key="d11">residential</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">104.57700000000001</data>
+  <data key="d19">LINESTRING (120.9993303 14.5918651, 120.9992699 14.5919414, 120.9988506 14.5924082, 120.9986919 14.5925738)</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="4068442841" target="316161548" id="0">
+  <data key="d8">137055696</data>
+  <data key="d9">4</data>
+  <data key="d10">Paz Mendoza Guazon Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">40</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">121.99100000000001</data>
+  <data key="d19">LINESTRING (120.9985981 14.5910276, 120.9986931 14.591131, 120.9987143 14.5911554, 120.9991291 14.5916331, 120.9991575 14.5916658, 120.9991704 14.5916807, 120.999236 14.5917562, 120.9993303 14.5918651)</data>
+  <data key="d17">0.018</data>
+  <data key="d18">0.018</data>
+</edge>
+<edge source="4068442841" target="4068442847" id="0">
+  <data key="d8">1069130216</data>
+  <data key="d9">2</data>
+  <data key="d11">unclassified</data>
+  <data key="d20">destination</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">71.502</data>
+  <data key="d19">LINESTRING (120.9985981 14.5910276, 120.9980318 14.5911983, 120.9979637 14.5912188)</data>
+  <data key="d17">0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="4068442847" target="4068442841" id="0">
+  <data key="d8">1069130216</data>
+  <data key="d9">2</data>
+  <data key="d11">unclassified</data>
+  <data key="d20">destination</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">71.502</data>
+  <data key="d19">LINESTRING (120.9979637 14.5912188, 120.9980318 14.5911983, 120.9985981 14.5910276)</data>
+  <data key="d17">-0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="4068442866" target="316161548" id="0">
+  <data key="d8">838832629</data>
+  <data key="d9">2</data>
+  <data key="d10">Mendiola Extension</data>
+  <data key="d11">residential</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">104.57700000000001</data>
+  <data key="d19">LINESTRING (120.9986919 14.5925738, 120.9988506 14.5924082, 120.9992699 14.5919414, 120.9993303 14.5918651)</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="9791018387" target="316161548" id="0">
+  <data key="d8">137055696</data>
+  <data key="d9">4</data>
+  <data key="d10">Paz Mendoza Guazon Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">40</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">30.233</data>
+  <data key="d17">0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+</graph></graphml>

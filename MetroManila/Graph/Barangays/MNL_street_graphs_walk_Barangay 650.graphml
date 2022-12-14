@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="access" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="highway" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:12:22</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="163749365">
+  <data key="d4">14.5888308</data>
+  <data key="d5">120.9685586</data>
+  <data key="d6">4</data>
+  <data key="d7">2.528</data>
+</node>
+<node id="163750232">
+  <data key="d4">14.5892185</data>
+  <data key="d5">120.9681693</data>
+  <data key="d6">3</data>
+  <data key="d7">3.101</data>
+</node>
+<node id="163750236">
+  <data key="d4">14.5900055</data>
+  <data key="d5">120.9690204</data>
+  <data key="d6">4</data>
+  <data key="d7">2.897</data>
+</node>
+<node id="193586498">
+  <data key="d4">14.5896277</data>
+  <data key="d5">120.9693874</data>
+  <data key="d6">4</data>
+  <data key="d7">2.623</data>
+</node>
+<node id="2726482563">
+  <data key="d4">14.5900551</data>
+  <data key="d5">120.9689693</data>
+  <data key="d6">1</data>
+  <data key="d7">3.017</data>
+</node>
+<node id="4481040490">
+  <data key="d4">14.5897068</data>
+  <data key="d5">120.9694706</data>
+  <data key="d8">crossing</data>
+  <data key="d6">4</data>
+  <data key="d7">2.835</data>
+</node>
+<node id="5759735270">
+  <data key="d4">14.5895079</data>
+  <data key="d5">120.9678924</data>
+  <data key="d6">1</data>
+  <data key="d7">2.315</data>
+</node>
+<node id="7006051815">
+  <data key="d4">14.5896432</data>
+  <data key="d5">120.9695276</data>
+  <data key="d6">1</data>
+  <data key="d7">2.732</data>
+</node>
+<node id="7006051816">
+  <data key="d4">14.5897266</data>
+  <data key="d5">120.9694511</data>
+  <data key="d6">1</data>
+  <data key="d7">2.778</data>
+</node>
+<node id="7006051817">
+  <data key="d4">14.5887127</data>
+  <data key="d5">120.9685788</data>
+  <data key="d6">1</data>
+  <data key="d7">2.369</data>
+</node>
+<node id="7006051818">
+  <data key="d4">14.5888003</data>
+  <data key="d5">120.9684933</data>
+  <data key="d6">1</data>
+  <data key="d7">2.569</data>
+</node>
+<node id="7006051819">
+  <data key="d4">14.5887854</data>
+  <data key="d5">120.9685097</data>
+  <data key="d8">crossing</data>
+  <data key="d6">4</data>
+  <data key="d7">2.505</data>
+</node>
+<node id="10081922726">
+  <data key="d4">14.589326</data>
+  <data key="d5">120.969093</data>
+  <data key="d6">3</data>
+  <data key="d7">2.689</data>
+</node>
+<edge source="163749365" target="10081922726" id="0">
+  <data key="d9">4304671</data>
+  <data key="d10">2</data>
+  <data key="d11">Robert S. Oca, Sr. Avenue</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">79.618</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="163749365" target="163750232" id="0">
+  <data key="d9">607837314</data>
+  <data key="d11">A. C. Delgado Street</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">60.112</data>
+  <data key="d17">0.01</data>
+  <data key="d18">0.01</data>
+</edge>
+<edge source="163749365" target="7006051819" id="0">
+  <data key="d9">889534625</data>
+  <data key="d10">2</data>
+  <data key="d11">Robert S. Oca, Sr. Avenue</data>
+  <data key="d12">service</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">7.292</data>
+  <data key="d17">-0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="163750232" target="163750236" id="0">
+  <data key="d9">16176684</data>
+  <data key="d11">12th Street</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">126.674</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="163750232" target="163749365" id="0">
+  <data key="d9">607837314</data>
+  <data key="d11">A. C. Delgado Street</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">60.112</data>
+  <data key="d17">-0.01</data>
+  <data key="d18">0.01</data>
+</edge>
+<edge source="163750232" target="5759735270" id="0">
+  <data key="d9">607837314</data>
+  <data key="d11">A. C. Delgado Street</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">43.857</data>
+  <data key="d17">-0.018</data>
+  <data key="d18">0.018</data>
+</edge>
+<edge source="163750236" target="163750232" id="0">
+  <data key="d9">16176684</data>
+  <data key="d11">12th Street</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">126.674</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="163750236" target="2726482563" id="0">
+  <data key="d9">607837317</data>
+  <data key="d11">Atlanta Street</data>
+  <data key="d12">service</data>
+  <data key="d19">no</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">7.788</data>
+  <data key="d17">0.015</data>
+  <data key="d18">0.015</data>
+</edge>
+<edge source="163750236" target="193586498" id="0">
+  <data key="d9">[607837317, 931570894]</data>
+  <data key="d11">Atlanta Street</data>
+  <data key="d12">service</data>
+  <data key="d19">no</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">57.682</data>
+  <data key="d20">LINESTRING (120.9690204 14.5900055, 120.9693317 14.5896931, 120.9693874 14.5896277)</data>
+  <data key="d17">-0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="193586498" target="10081922726" id="0">
+  <data key="d9">4304671</data>
+  <data key="d10">2</data>
+  <data key="d11">Robert S. Oca, Sr. Avenue</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">46.142</data>
+  <data key="d17">0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="193586498" target="4481040490" id="0">
+  <data key="d9">4304671</data>
+  <data key="d10">2</data>
+  <data key="d11">Robert S. Oca, Sr. Avenue</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">12.551</data>
+  <data key="d17">0.017</data>
+  <data key="d18">0.017</data>
+</edge>
+<edge source="193586498" target="163750236" id="0">
+  <data key="d9">[607837317, 931570894]</data>
+  <data key="d11">Atlanta Street</data>
+  <data key="d12">service</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">57.682</data>
+  <data key="d19">no</data>
+  <data key="d20">LINESTRING (120.9693874 14.5896277, 120.9693317 14.5896931, 120.9690204 14.5900055)</data>
+  <data key="d17">0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="2726482563" target="163750236" id="0">
+  <data key="d9">607837317</data>
+  <data key="d11">Atlanta Street</data>
+  <data key="d12">service</data>
+  <data key="d19">no</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">7.788</data>
+  <data key="d17">-0.015</data>
+  <data key="d18">0.015</data>
+</edge>
+<edge source="4481040490" target="193586498" id="0">
+  <data key="d9">4304671</data>
+  <data key="d10">2</data>
+  <data key="d11">Robert S. Oca, Sr. Avenue</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">12.551</data>
+  <data key="d17">-0.017</data>
+  <data key="d18">0.017</data>
+</edge>
+<edge source="4481040490" target="7006051815" id="0">
+  <data key="d9">749181385</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">9.361</data>
+  <data key="d17">-0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="4481040490" target="7006051816" id="0">
+  <data key="d9">749181385</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">3.041</data>
+  <data key="d17">-0.019</data>
+  <data key="d18">0.019</data>
+</edge>
+<edge source="5759735270" target="163750232" id="0">
+  <data key="d9">607837314</data>
+  <data key="d11">A. C. Delgado Street</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">43.857</data>
+  <data key="d17">0.018</data>
+  <data key="d18">0.018</data>
+</edge>
+<edge source="7006051815" target="4481040490" id="0">
+  <data key="d9">749181385</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">9.361</data>
+  <data key="d17">0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="7006051816" target="4481040490" id="0">
+  <data key="d9">749181385</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">3.041</data>
+  <data key="d17">0.019</data>
+  <data key="d18">0.019</data>
+</edge>
+<edge source="7006051817" target="7006051819" id="0">
+  <data key="d9">749181386</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">10.984</data>
+  <data key="d17">0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="7006051818" target="7006051819" id="0">
+  <data key="d9">749181386</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">2.421</data>
+  <data key="d17">-0.026</data>
+  <data key="d18">0.026</data>
+</edge>
+<edge source="7006051819" target="7006051817" id="0">
+  <data key="d9">749181386</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">10.984</data>
+  <data key="d17">-0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="7006051819" target="7006051818" id="0">
+  <data key="d9">749181386</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">2.421</data>
+  <data key="d17">0.026</data>
+  <data key="d18">0.026</data>
+</edge>
+<edge source="7006051819" target="163749365" id="0">
+  <data key="d9">889534625</data>
+  <data key="d10">2</data>
+  <data key="d11">Robert S. Oca, Sr. Avenue</data>
+  <data key="d12">service</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">7.292</data>
+  <data key="d17">0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="10081922726" target="163749365" id="0">
+  <data key="d9">4304671</data>
+  <data key="d10">2</data>
+  <data key="d11">Robert S. Oca, Sr. Avenue</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">79.618</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="10081922726" target="193586498" id="0">
+  <data key="d9">4304671</data>
+  <data key="d10">2</data>
+  <data key="d11">Robert S. Oca, Sr. Avenue</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">46.142</data>
+  <data key="d17">-0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+</graph></graphml>

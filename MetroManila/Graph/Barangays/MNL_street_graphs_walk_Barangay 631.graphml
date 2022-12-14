@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="width" attr.type="string"/>
+<key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 06:06:42</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="1335314423">
+  <data key="d4">14.6013582</data>
+  <data key="d5">121.0005833</data>
+  <data key="d6">3</data>
+  <data key="d7">10.16</data>
+</node>
+<node id="1335314424">
+  <data key="d4">14.6013409</data>
+  <data key="d5">121.000492</data>
+  <data key="d6">3</data>
+  <data key="d7">9.918</data>
+</node>
+<node id="1335342361">
+  <data key="d4">14.6011507</data>
+  <data key="d5">121.0004984</data>
+  <data key="d6">3</data>
+  <data key="d7">10.436</data>
+</node>
+<node id="1335374141">
+  <data key="d4">14.6014727</data>
+  <data key="d5">121.0015738</data>
+  <data key="d6">3</data>
+  <data key="d7">9.634</data>
+</node>
+<node id="1335374143">
+  <data key="d4">14.6013161</data>
+  <data key="d5">121.0003164</data>
+  <data key="d6">3</data>
+  <data key="d7">9.403</data>
+</node>
+<node id="1722586580">
+  <data key="d4">14.6012576</data>
+  <data key="d5">121.0014951</data>
+  <data key="d6">3</data>
+  <data key="d7">11.005</data>
+</node>
+<node id="8317831541">
+  <data key="d4">14.6014027</data>
+  <data key="d5">121.0009406</data>
+  <data key="d6">3</data>
+  <data key="d7">10.473</data>
+</node>
+<node id="8318281243">
+  <data key="d4">14.6020583</data>
+  <data key="d5">121.0013854</data>
+  <data key="d6">3</data>
+  <data key="d7">7.607</data>
+</node>
+<node id="8749922981">
+  <data key="d4">14.6011346</data>
+  <data key="d5">121.0003391</data>
+  <data key="d6">3</data>
+  <data key="d7">9.889</data>
+</node>
+<node id="9853688071">
+  <data key="d4">14.6014611</data>
+  <data key="d5">121.001469</data>
+  <data key="d6">3</data>
+  <data key="d7">9.991</data>
+</node>
+<node id="9853688072">
+  <data key="d4">14.601593</data>
+  <data key="d5">121.0015364</data>
+  <data key="d6">3</data>
+  <data key="d7">9.206</data>
+</node>
+<edge source="1335314423" target="1335314424" id="0">
+  <data key="d8">1035321071</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">False</data>
+  <data key="d15">10.011</data>
+  <data key="d16">-0.024</data>
+  <data key="d17">0.024</data>
+</edge>
+<edge source="1335314423" target="8317831541" id="0">
+  <data key="d8">1035321071</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">True</data>
+  <data key="d15">38.764</data>
+  <data key="d16">0.008</data>
+  <data key="d17">0.008</data>
+</edge>
+<edge source="1335314424" target="1335374143" id="0">
+  <data key="d8">118783734</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">False</data>
+  <data key="d15">19.095</data>
+  <data key="d16">-0.027</data>
+  <data key="d17">0.027</data>
+</edge>
+<edge source="1335314424" target="1335314423" id="0">
+  <data key="d8">1035321071</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">True</data>
+  <data key="d15">10.011</data>
+  <data key="d16">0.024</data>
+  <data key="d17">0.024</data>
+</edge>
+<edge source="1335314424" target="1335342361" id="0">
+  <data key="d8">118783739</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d12">primary_link</data>
+  <data key="d14">False</data>
+  <data key="d15">22.223</data>
+  <data key="d18">LINESTRING (121.000492 14.6013409, 121.0004756 14.6012847, 121.0004675 14.6012354, 121.0004769 14.6011835, 121.0004984 14.6011507)</data>
+  <data key="d16">0.023</data>
+  <data key="d17">0.023</data>
+</edge>
+<edge source="1335342361" target="8749922981" id="0">
+  <data key="d8">799741447</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">True</data>
+  <data key="d15">17.235</data>
+  <data key="d16">-0.032</data>
+  <data key="d17">0.032</data>
+</edge>
+<edge source="1335342361" target="1335314424" id="0">
+  <data key="d8">118783739</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d12">primary_link</data>
+  <data key="d14">True</data>
+  <data key="d15">22.223</data>
+  <data key="d18">LINESTRING (121.0004984 14.6011507, 121.0004769 14.6011835, 121.0004675 14.6012354, 121.0004756 14.6012847, 121.000492 14.6013409)</data>
+  <data key="d16">-0.023</data>
+  <data key="d17">0.023</data>
+</edge>
+<edge source="1335342361" target="1722586580" id="0">
+  <data key="d8">118784832</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">False</data>
+  <data key="d15">107.90899999999999</data>
+  <data key="d18">LINESTRING (121.0004984 14.6011507, 121.0010054 14.6012014, 121.0014951 14.6012576)</data>
+  <data key="d16">0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="1335374141" target="9853688072" id="0">
+  <data key="d8">825090434</data>
+  <data key="d10">2</data>
+  <data key="d11">M. De La Fuente Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">50</data>
+  <data key="d19">9</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">13.969</data>
+  <data key="d16">-0.031</data>
+  <data key="d17">0.031</data>
+</edge>
+<edge source="1335374141" target="9853688071" id="0">
+  <data key="d8">1035321071</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">False</data>
+  <data key="d15">11.35</data>
+  <data key="d16">0.031</data>
+  <data key="d17">0.031</data>
+</edge>
+<edge source="1335374143" target="1335314424" id="0">
+  <data key="d8">118783734</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">True</data>
+  <data key="d15">19.095</data>
+  <data key="d16">0.027</data>
+  <data key="d17">0.027</data>
+</edge>
+<edge source="1722586580" target="1335342361" id="0">
+  <data key="d8">118784832</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">True</data>
+  <data key="d15">107.90899999999999</data>
+  <data key="d18">LINESTRING (121.0014951 14.6012576, 121.0010054 14.6012014, 121.0004984 14.6011507)</data>
+  <data key="d16">-0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="8317831541" target="1335314423" id="0">
+  <data key="d8">1035321071</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">False</data>
+  <data key="d15">38.764</data>
+  <data key="d16">-0.008</data>
+  <data key="d17">0.008</data>
+</edge>
+<edge source="8317831541" target="9853688071" id="0">
+  <data key="d8">1035321071</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">True</data>
+  <data key="d15">57.227</data>
+  <data key="d16">-0.008</data>
+  <data key="d17">0.008</data>
+</edge>
+<edge source="8317831541" target="8318281243" id="0">
+  <data key="d8">[894891016, 894838989]</data>
+  <data key="d12">['pedestrian', 'residential']</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">112.887</data>
+  <data key="d18">LINESTRING (121.0009406 14.6014027, 121.0008957 14.6016946, 121.0008921 14.6019154, 121.0010816 14.6019551, 121.001325 14.6020348, 121.0013854 14.6020583)</data>
+  <data key="d16">-0.025</data>
+  <data key="d17">0.025</data>
+</edge>
+<edge source="8318281243" target="9853688072" id="0">
+  <data key="d8">825090434</data>
+  <data key="d10">2</data>
+  <data key="d11">M. De La Fuente Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">50</data>
+  <data key="d19">9</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">54.230000000000004</data>
+  <data key="d18">LINESTRING (121.0013854 14.6020583, 121.001439 14.6018938, 121.0015364 14.601593)</data>
+  <data key="d16">0.029</data>
+  <data key="d17">0.029</data>
+</edge>
+<edge source="8318281243" target="8317831541" id="0">
+  <data key="d8">[894891016, 894838989]</data>
+  <data key="d12">['pedestrian', 'residential']</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">112.887</data>
+  <data key="d18">LINESTRING (121.0013854 14.6020583, 121.001325 14.6020348, 121.0010816 14.6019551, 121.0008921 14.6019154, 121.0008957 14.6016946, 121.0009406 14.6014027)</data>
+  <data key="d16">0.025</data>
+  <data key="d17">0.025</data>
+</edge>
+<edge source="8749922981" target="1335342361" id="0">
+  <data key="d8">799741447</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">False</data>
+  <data key="d15">17.235</data>
+  <data key="d16">0.032</data>
+  <data key="d17">0.032</data>
+</edge>
+<edge source="9853688071" target="8317831541" id="0">
+  <data key="d8">1035321071</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">False</data>
+  <data key="d15">57.227</data>
+  <data key="d16">0.008</data>
+  <data key="d17">0.008</data>
+</edge>
+<edge source="9853688071" target="1335374141" id="0">
+  <data key="d8">1035321071</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d11">Magsaysay Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">True</data>
+  <data key="d15">11.35</data>
+  <data key="d16">-0.031</data>
+  <data key="d17">0.031</data>
+</edge>
+<edge source="9853688071" target="9853688072" id="0">
+  <data key="d8">1074262153</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d12">primary_link</data>
+  <data key="d14">True</data>
+  <data key="d15">16.484</data>
+  <data key="d18">LINESTRING (121.001469 14.6014611, 121.0015076 14.6015164, 121.0015364 14.601593)</data>
+  <data key="d16">-0.048</data>
+  <data key="d17">0.048</data>
+</edge>
+<edge source="9853688072" target="1335374141" id="0">
+  <data key="d8">825090434</data>
+  <data key="d10">2</data>
+  <data key="d11">M. De La Fuente Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">50</data>
+  <data key="d19">9</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">13.969</data>
+  <data key="d16">0.031</data>
+  <data key="d17">0.031</data>
+</edge>
+<edge source="9853688072" target="8318281243" id="0">
+  <data key="d8">825090434</data>
+  <data key="d10">2</data>
+  <data key="d11">M. De La Fuente Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">50</data>
+  <data key="d19">9</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">54.230000000000004</data>
+  <data key="d18">LINESTRING (121.0015364 14.601593, 121.001439 14.6018938, 121.0013854 14.6020583)</data>
+  <data key="d16">-0.029</data>
+  <data key="d17">0.029</data>
+</edge>
+<edge source="9853688072" target="9853688071" id="0">
+  <data key="d8">1074262153</data>
+  <data key="d9">False</data>
+  <data key="d10">1</data>
+  <data key="d12">primary_link</data>
+  <data key="d14">False</data>
+  <data key="d15">16.484</data>
+  <data key="d18">LINESTRING (121.0015364 14.601593, 121.0015076 14.6015164, 121.001469 14.6014611)</data>
+  <data key="d16">0.048</data>
+  <data key="d17">0.048</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:12:12</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="25526942">
+  <data key="d4">14.5650737</data>
+  <data key="d5">120.990083</data>
+  <data key="d6">3</data>
+  <data key="d7">3.322</data>
+</node>
+<node id="2013598720">
+  <data key="d4">14.5648723</data>
+  <data key="d5">120.9902909</data>
+  <data key="d6">4</data>
+  <data key="d7">3.618</data>
+</node>
+<node id="5867161255">
+  <data key="d4">14.5651334</data>
+  <data key="d5">120.9900173</data>
+  <data key="d6">3</data>
+  <data key="d7">3.262</data>
+</node>
+<node id="5867161256">
+  <data key="d4">14.5648319</data>
+  <data key="d5">120.9902022</data>
+  <data key="d6">3</data>
+  <data key="d7">4.394</data>
+</node>
+<edge source="25526942" target="5867161256" id="0">
+  <data key="d8">5018793</data>
+  <data key="d9">True</data>
+  <data key="d10">1</data>
+  <data key="d11">Adriatico Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">29.791</data>
+  <data key="d16">0.036</data>
+  <data key="d17">0.036</data>
+</edge>
+<edge source="25526942" target="5867161255" id="0">
+  <data key="d8">156307472</data>
+  <data key="d10">2</data>
+  <data key="d11">Adriatico Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">9.699</data>
+  <data key="d16">-0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="2013598720" target="25526942" id="0">
+  <data key="d8">[156307473, 824078306]</data>
+  <data key="d9">True</data>
+  <data key="d10">['1', '2']</data>
+  <data key="d11">Adriatico Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">32.016000000000005</data>
+  <data key="d18">LINESTRING (120.9902909 14.5648723, 120.9902196 14.5649714, 120.990083 14.5650737)</data>
+  <data key="d16">-0.009</data>
+  <data key="d17">0.009</data>
+</edge>
+<edge source="5867161255" target="25526942" id="0">
+  <data key="d8">156307472</data>
+  <data key="d10">2</data>
+  <data key="d11">Adriatico Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">9.699</data>
+  <data key="d16">0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="5867161256" target="2013598720" id="0">
+  <data key="d8">1072116325</data>
+  <data key="d9">True</data>
+  <data key="d10">1</data>
+  <data key="d11">Maginhawa Street</data>
+  <data key="d12">residential</data>
+  <data key="d13">20</data>
+  <data key="d14">False</data>
+  <data key="d15">10.55</data>
+  <data key="d16">-0.074</data>
+  <data key="d17">0.074</data>
+</edge>
+</graph></graphml>

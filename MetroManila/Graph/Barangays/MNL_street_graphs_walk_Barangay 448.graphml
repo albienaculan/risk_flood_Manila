@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="length" attr.type="string"/>
+<key id="d16" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d15" for="edge" attr.name="width" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d7" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d6" for="node" attr.name="highway" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:12:28</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="59739319">
+  <data key="d4">14.6075546</data>
+  <data key="d5">120.9949539</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">2.242</data>
+</node>
+<node id="68068063">
+  <data key="d4">14.608058</data>
+  <data key="d5">120.995534</data>
+  <data key="d7">3</data>
+  <data key="d8">3.266</data>
+</node>
+<node id="73010959">
+  <data key="d4">14.6082115</data>
+  <data key="d5">120.9957133</data>
+  <data key="d7">3</data>
+  <data key="d8">3.309</data>
+</node>
+<node id="104977307">
+  <data key="d4">14.607448</data>
+  <data key="d5">120.9948387</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">2.423</data>
+</node>
+<node id="191685249">
+  <data key="d4">14.6078241</data>
+  <data key="d5">120.9952652</data>
+  <data key="d7">4</data>
+  <data key="d8">2.951</data>
+</node>
+<node id="9807579521">
+  <data key="d4">14.6077649</data>
+  <data key="d5">120.9960386</data>
+  <data key="d7">1</data>
+  <data key="d8">3.283</data>
+</node>
+<node id="9807579525">
+  <data key="d4">14.608234</data>
+  <data key="d5">120.9957392</data>
+  <data key="d7">3</data>
+  <data key="d8">3.312</data>
+</node>
+<edge source="59739319" target="104977307" id="0">
+  <data key="d9">832779578</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">False</data>
+  <data key="d17">17.151</data>
+  <data key="d18">0.011</data>
+  <data key="d19">0.011</data>
+</edge>
+<edge source="59739319" target="191685249" id="0">
+  <data key="d9">901503672</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">True</data>
+  <data key="d17">44.945</data>
+  <data key="d18">0.016</data>
+  <data key="d19">0.016</data>
+</edge>
+<edge source="68068063" target="191685249" id="0">
+  <data key="d9">901503672</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">False</data>
+  <data key="d17">38.897</data>
+  <data key="d18">-0.008</data>
+  <data key="d19">0.008</data>
+</edge>
+<edge source="68068063" target="73010959" id="0">
+  <data key="d9">901503672</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">True</data>
+  <data key="d17">25.759</data>
+  <data key="d18">0.002</data>
+  <data key="d19">0.002</data>
+</edge>
+<edge source="73010959" target="68068063" id="0">
+  <data key="d9">901503672</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">False</data>
+  <data key="d17">25.759</data>
+  <data key="d18">-0.002</data>
+  <data key="d19">0.002</data>
+</edge>
+<edge source="73010959" target="9807579525" id="0">
+  <data key="d9">901503672</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">True</data>
+  <data key="d17">3.745</data>
+  <data key="d18">0.001</data>
+  <data key="d19">0.001</data>
+</edge>
+<edge source="104977307" target="59739319" id="0">
+  <data key="d9">832779578</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">True</data>
+  <data key="d17">17.151</data>
+  <data key="d18">-0.011</data>
+  <data key="d19">0.011</data>
+</edge>
+<edge source="191685249" target="59739319" id="0">
+  <data key="d9">901503672</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">False</data>
+  <data key="d17">44.945</data>
+  <data key="d18">-0.016</data>
+  <data key="d19">0.016</data>
+</edge>
+<edge source="191685249" target="68068063" id="0">
+  <data key="d9">901503672</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">True</data>
+  <data key="d17">38.897</data>
+  <data key="d18">0.008</data>
+  <data key="d19">0.008</data>
+</edge>
+<edge source="9807579521" target="9807579525" id="0">
+  <data key="d9">1068362144</data>
+  <data key="d13">footway</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">61.869</data>
+  <data key="d20">LINESTRING (120.9960386 14.6077649, 120.9959839 14.607887, 120.9958695 14.6080588, 120.9957865 14.6081391, 120.9957392 14.608234)</data>
+  <data key="d18">0.0</data>
+  <data key="d19">0.0</data>
+</edge>
+<edge source="9807579525" target="73010959" id="0">
+  <data key="d9">901503672</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">J. Fajardo Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">8</data>
+  <data key="d16">False</data>
+  <data key="d17">3.745</data>
+  <data key="d18">-0.001</data>
+  <data key="d19">0.001</data>
+</edge>
+<edge source="9807579525" target="9807579521" id="0">
+  <data key="d9">1068362144</data>
+  <data key="d13">footway</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">61.869</data>
+  <data key="d20">LINESTRING (120.9957392 14.608234, 120.9957865 14.6081391, 120.9958695 14.6080588, 120.9959839 14.607887, 120.9960386 14.6077649)</data>
+  <data key="d18">-0.0</data>
+  <data key="d19">0.0</data>
+</edge>
+</graph></graphml>

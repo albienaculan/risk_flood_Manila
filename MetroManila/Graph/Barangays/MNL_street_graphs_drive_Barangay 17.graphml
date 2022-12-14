@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:07:37</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="660582875">
+  <data key="d4">14.6013295</data>
+  <data key="d5">120.9629014</data>
+  <data key="d6">3</data>
+  <data key="d7">3.423</data>
+</node>
+<node id="660582890">
+  <data key="d4">14.6007529</data>
+  <data key="d5">120.9629489</data>
+  <data key="d6">3</data>
+  <data key="d7">2.724</data>
+</node>
+<node id="1732972002">
+  <data key="d4">14.6006506</data>
+  <data key="d5">120.9631401</data>
+  <data key="d6">3</data>
+  <data key="d7">2.983</data>
+</node>
+<node id="1732972091">
+  <data key="d4">14.6018503</data>
+  <data key="d5">120.9631824</data>
+  <data key="d6">1</data>
+  <data key="d7">3.608</data>
+</node>
+<edge source="660582875" target="660582890" id="0">
+  <data key="d8">51761700</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">64.318</data>
+  <data key="d16">-0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="660582890" target="660582875" id="0">
+  <data key="d8">51761700</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">64.318</data>
+  <data key="d16">0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="1732972002" target="660582890" id="0">
+  <data key="d8">22740359</data>
+  <data key="d13">True</data>
+  <data key="d9">2</data>
+  <data key="d18">120</data>
+  <data key="d10">Mel Lopez Boulevard</data>
+  <data key="d11">primary</data>
+  <data key="d12">60</data>
+  <data key="d14">False</data>
+  <data key="d15">23.509</data>
+  <data key="d16">-0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="1732972002" target="1732972091" id="0">
+  <data key="d8">[603071000, 161306505]</data>
+  <data key="d10">San Fermin Street</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">135.639</data>
+  <data key="d19">LINESTRING (120.9631401 14.6006506, 120.9632237 14.6008422, 120.9632438 14.6009523, 120.963232 14.6011948, 120.9632101 14.6014571, 120.9631942 14.6016737, 120.9631824 14.6018503)</data>
+  <data key="d16">0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="1732972091" target="1732972002" id="0">
+  <data key="d8">[603071000, 161306505]</data>
+  <data key="d10">San Fermin Street</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">135.639</data>
+  <data key="d19">LINESTRING (120.9631824 14.6018503, 120.9631942 14.6016737, 120.9632101 14.6014571, 120.963232 14.6011948, 120.9632438 14.6009523, 120.9632237 14.6008422, 120.9631401 14.6006506)</data>
+  <data key="d16">-0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+</graph></graphml>

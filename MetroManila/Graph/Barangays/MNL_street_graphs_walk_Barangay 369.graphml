@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="service" attr.type="string"/>
+<key id="d19" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="width" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:52:22</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="43101177">
+  <data key="d4">14.6233542</data>
+  <data key="d5">120.9839547</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="43104037">
+  <data key="d4">14.6227638</data>
+  <data key="d5">120.9839367</data>
+  <data key="d6">3</data>
+  <data key="d7">3.995</data>
+</node>
+<node id="339268433">
+  <data key="d4">14.6235736</data>
+  <data key="d5">120.9844309</data>
+  <data key="d6">4</data>
+  <data key="d7">3.998</data>
+</node>
+<node id="339268457">
+  <data key="d4">14.6227302</data>
+  <data key="d5">120.984416</data>
+  <data key="d6">3</data>
+  <data key="d7">3.974</data>
+</node>
+<edge source="43101177" target="43104037" id="0">
+  <data key="d8">5720598</data>
+  <data key="d9">2</data>
+  <data key="d10">Oroquieta Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">65.678</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="43101177" target="339268433" id="0">
+  <data key="d8">1037277293</data>
+  <data key="d9">4</data>
+  <data key="d19">160</data>
+  <data key="d10">Blumentritt Road</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">40</data>
+  <data key="d13">13.4</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">56.748</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="43104037" target="43101177" id="0">
+  <data key="d8">5720598</data>
+  <data key="d9">2</data>
+  <data key="d10">Oroquieta Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">65.678</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="43104037" target="339268457" id="0">
+  <data key="d8">929760080</data>
+  <data key="d9">2</data>
+  <data key="d10">New Antipolo Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">51.705</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="339268433" target="43101177" id="0">
+  <data key="d8">1037277293</data>
+  <data key="d9">4</data>
+  <data key="d19">160</data>
+  <data key="d10">Blumentritt Road</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">40</data>
+  <data key="d13">13.4</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">56.748</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="339268433" target="339268457" id="0">
+  <data key="d8">1067263177</data>
+  <data key="d9">1</data>
+  <data key="d10">M. Hizon Street</data>
+  <data key="d11">service</data>
+  <data key="d12">20</data>
+  <data key="d20">alley</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">93.796</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="339268457" target="43104037" id="0">
+  <data key="d8">929760080</data>
+  <data key="d9">2</data>
+  <data key="d10">New Antipolo Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">51.705</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="339268457" target="339268433" id="0">
+  <data key="d8">1067263177</data>
+  <data key="d9">1</data>
+  <data key="d10">M. Hizon Street</data>
+  <data key="d11">service</data>
+  <data key="d12">20</data>
+  <data key="d20">alley</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">93.796</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+</graph></graphml>

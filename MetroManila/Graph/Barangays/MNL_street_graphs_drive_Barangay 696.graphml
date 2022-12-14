@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 04:33:32</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="33956163">
+  <data key="d4">14.5754494</data>
+  <data key="d5">120.9867993</data>
+  <data key="d6">3</data>
+  <data key="d7">3.968</data>
+</node>
+<node id="33956177">
+  <data key="d4">14.5743485</data>
+  <data key="d5">120.9883272</data>
+  <data key="d6">4</data>
+  <data key="d7">2.894</data>
+</node>
+<node id="260211880">
+  <data key="d4">14.5751241</data>
+  <data key="d5">120.9860657</data>
+  <data key="d6">3</data>
+  <data key="d7">4.8</data>
+</node>
+<node id="8299934564">
+  <data key="d4">14.5739843</data>
+  <data key="d5">120.9876311</data>
+  <data key="d6">4</data>
+  <data key="d7">2.896</data>
+</node>
+<edge source="33956163" target="8299934564" id="0">
+  <data key="d8">1065897737</data>
+  <data key="d9">Antonio Vasquez Street</data>
+  <data key="d10">unclassified</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">185.885</data>
+  <data key="d14">-0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="33956177" target="8299934564" id="0">
+  <data key="d8">920644271</data>
+  <data key="d16">2</data>
+  <data key="d9">General Malvar Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">30</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">85.158</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="260211880" target="33956163" id="0">
+  <data key="d8">815086067</data>
+  <data key="d11">True</data>
+  <data key="d16">3</data>
+  <data key="d9">Pedro Gil Street</data>
+  <data key="d10">secondary</data>
+  <data key="d17">40</data>
+  <data key="d12">False</data>
+  <data key="d13">86.839</data>
+  <data key="d18">LINESTRING (120.9860657 14.5751241, 120.98631 14.5752319, 120.9866726 14.5753928, 120.9867993 14.5754494)</data>
+  <data key="d14">-0.01</data>
+  <data key="d15">0.01</data>
+</edge>
+<edge source="8299934564" target="33956177" id="0">
+  <data key="d8">920644271</data>
+  <data key="d16">2</data>
+  <data key="d9">General Malvar Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">30</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">85.158</data>
+  <data key="d14">-0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="8299934564" target="33956163" id="0">
+  <data key="d8">1065897737</data>
+  <data key="d9">Antonio Vasquez Street</data>
+  <data key="d10">unclassified</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">185.885</data>
+  <data key="d14">0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+</graph></graphml>

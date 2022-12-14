@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:10:01</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="159474602">
+  <data key="d4">14.5988942</data>
+  <data key="d5">120.9783275</data>
+  <data key="d6">4</data>
+  <data key="d7">2.278</data>
+</node>
+<node id="163754687">
+  <data key="d4">14.5989119</data>
+  <data key="d5">120.9797177</data>
+  <data key="d6">4</data>
+  <data key="d7">3.992</data>
+</node>
+<node id="400781072">
+  <data key="d4">14.5991925</data>
+  <data key="d5">120.9787625</data>
+  <data key="d6">4</data>
+  <data key="d7">3.585</data>
+</node>
+<node id="400782882">
+  <data key="d4">14.5993072</data>
+  <data key="d5">120.9779737</data>
+  <data key="d6">3</data>
+  <data key="d7">3.091</data>
+</node>
+<node id="412340825">
+  <data key="d4">14.5992385</data>
+  <data key="d5">120.9780421</data>
+  <data key="d6">3</data>
+  <data key="d7">3.179</data>
+</node>
+<node id="1555053524">
+  <data key="d4">14.5987293</data>
+  <data key="d5">120.9780624</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="9969340597">
+  <data key="d4">14.5995277</data>
+  <data key="d5">120.9791986</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<edge source="159474602" target="412340825" id="0">
+  <data key="d8">142086621</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Tomas Pinpin Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">49.094</data>
+  <data key="d16">LINESTRING (120.9783275 14.5988942, 120.9782212 14.5990307, 120.9780421 14.5992385)</data>
+  <data key="d17">0.018</data>
+  <data key="d18">0.018</data>
+</edge>
+<edge source="159474602" target="1555053524" id="0">
+  <data key="d8">161306344</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Dasmariñas Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">33.915</data>
+  <data key="d16">LINESTRING (120.9783275 14.5988942, 120.9782838 14.598869, 120.9780624 14.5987293)</data>
+  <data key="d17">0.051</data>
+  <data key="d18">0.051</data>
+</edge>
+<edge source="163754687" target="9969340597" id="0">
+  <data key="d8">16176935</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Banquero Street</data>
+  <data key="d12">residential</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">88.367</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="400781072" target="159474602" id="0">
+  <data key="d8">161306344</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Dasmariñas Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">57.376000000000005</data>
+  <data key="d16">LINESTRING (120.9787625 14.5991925, 120.9783658 14.5989178, 120.9783275 14.5988942)</data>
+  <data key="d17">-0.023</data>
+  <data key="d18">0.023</data>
+</edge>
+<edge source="400782882" target="400781072" id="0">
+  <data key="d8">161414088</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Burke Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">122.262</data>
+  <data key="d16">LINESTRING (120.9779737 14.5993072, 120.9782269 14.5996085, 120.9782725 14.5996322, 120.9783227 14.5996152, 120.9784685 14.599542, 120.9787625 14.5991925)</data>
+  <data key="d17">0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="412340825" target="400782882" id="0">
+  <data key="d8">142086623</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Tomas Pinpin Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">10.608</data>
+  <data key="d17">-0.008</data>
+  <data key="d18">0.008</data>
+</edge>
+<edge source="9969340597" target="400781072" id="0">
+  <data key="d8">161306344</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Dasmariñas Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">59.928</data>
+  <data key="d17">-0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="width" attr.type="string"/>
+<key id="d18" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:12:56</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="7779526826">
+  <data key="d4">14.6001674</data>
+  <data key="d5">120.9646033</data>
+  <data key="d6">3</data>
+  <data key="d7">2.749</data>
+</node>
+<node id="9893063676">
+  <data key="d4">14.6000753</data>
+  <data key="d5">120.9644894</data>
+  <data key="d6">3</data>
+  <data key="d7">2.363</data>
+</node>
+<node id="9893110376">
+  <data key="d4">14.6007806</data>
+  <data key="d5">120.9646565</data>
+  <data key="d6">3</data>
+  <data key="d7">3.143</data>
+</node>
+<node id="9893110377">
+  <data key="d4">14.6007657</data>
+  <data key="d5">120.9645139</data>
+  <data key="d6">3</data>
+  <data key="d7">2.983</data>
+</node>
+<edge source="7779526826" target="9893063676" id="0">
+  <data key="d8">1079206769</data>
+  <data key="d9">True</data>
+  <data key="d10">1</data>
+  <data key="d11">Delpan Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">False</data>
+  <data key="d14">18.958</data>
+  <data key="d15">LINESTRING (120.9646033 14.6001674, 120.9645973 14.6001278, 120.9645751 14.6000882, 120.9645366 14.6000744, 120.9644894 14.6000753)</data>
+  <data key="d16">-0.02</data>
+  <data key="d17">0.02</data>
+</edge>
+<edge source="9893110376" target="9893110377" id="0">
+  <data key="d8">1079210162</data>
+  <data key="d12">tertiary_link</data>
+  <data key="d9">False</data>
+  <data key="d13">False</data>
+  <data key="d14">15.434</data>
+  <data key="d16">-0.01</data>
+  <data key="d17">0.01</data>
+</edge>
+<edge source="9893110377" target="9893110376" id="0">
+  <data key="d8">1079210162</data>
+  <data key="d12">tertiary_link</data>
+  <data key="d9">False</data>
+  <data key="d13">True</data>
+  <data key="d14">15.434</data>
+  <data key="d16">0.01</data>
+  <data key="d17">0.01</data>
+</edge>
+<edge source="9893110377" target="7779526826" id="0">
+  <data key="d8">1067390325</data>
+  <data key="d9">True</data>
+  <data key="d10">3</data>
+  <data key="d11">Delpan Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d18">40</data>
+  <data key="d19">10</data>
+  <data key="d13">False</data>
+  <data key="d14">67.465</data>
+  <data key="d15">LINESTRING (120.9645139 14.6007657, 120.9645487 14.6003627, 120.9646033 14.6001674)</data>
+  <data key="d16">-0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+</graph></graphml>

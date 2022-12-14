@@ -1,0 +1,993 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="service" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:13:27</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="244117228">
+  <data key="d4">14.6153712</data>
+  <data key="d5">120.9632734</data>
+  <data key="d6">3</data>
+  <data key="d7">2.787</data>
+</node>
+<node id="244117232">
+  <data key="d4">14.6156066</data>
+  <data key="d5">120.9632663</data>
+  <data key="d6">3</data>
+  <data key="d7">3.024</data>
+</node>
+<node id="1371318542">
+  <data key="d4">14.6172017</data>
+  <data key="d5">120.9636241</data>
+  <data key="d6">3</data>
+  <data key="d7">3.755</data>
+</node>
+<node id="1371318546">
+  <data key="d4">14.6161323</data>
+  <data key="d5">120.9636937</data>
+  <data key="d6">3</data>
+  <data key="d7">3.935</data>
+</node>
+<node id="1371318559">
+  <data key="d4">14.6161971</data>
+  <data key="d5">120.9632584</data>
+  <data key="d6">4</data>
+  <data key="d7">3.848</data>
+</node>
+<node id="1371318561">
+  <data key="d4">14.6161417</data>
+  <data key="d5">120.9635139</data>
+  <data key="d6">4</data>
+  <data key="d7">3.998</data>
+</node>
+<node id="1733946627">
+  <data key="d4">14.6153273</data>
+  <data key="d5">120.9636936</data>
+  <data key="d6">3</data>
+  <data key="d7">3.989</data>
+</node>
+<node id="1733946634">
+  <data key="d4">14.6156088</data>
+  <data key="d5">120.9636932</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733946639">
+  <data key="d4">14.6157259</data>
+  <data key="d5">120.9632674</data>
+  <data key="d6">3</data>
+  <data key="d7">3.589</data>
+</node>
+<node id="1733946640">
+  <data key="d4">14.6158352</data>
+  <data key="d5">120.9632621</data>
+  <data key="d6">3</data>
+  <data key="d7">3.781</data>
+</node>
+<node id="1733946641">
+  <data key="d4">14.61584</data>
+  <data key="d5">120.9636939</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733946658">
+  <data key="d4">14.6165042</data>
+  <data key="d5">120.9630462</data>
+  <data key="d6">3</data>
+  <data key="d7">3.782</data>
+</node>
+<node id="1733946667">
+  <data key="d4">14.6165087</data>
+  <data key="d5">120.963255</data>
+  <data key="d6">3</data>
+  <data key="d7">3.706</data>
+</node>
+<node id="1733946674">
+  <data key="d4">14.6167296</data>
+  <data key="d5">120.9632636</data>
+  <data key="d6">3</data>
+  <data key="d7">3.766</data>
+</node>
+<node id="1733946675">
+  <data key="d4">14.6167356</data>
+  <data key="d5">120.9634984</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733946676">
+  <data key="d4">14.6167429</data>
+  <data key="d5">120.9636793</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733946679">
+  <data key="d4">14.6168228</data>
+  <data key="d5">120.962978</data>
+  <data key="d6">4</data>
+  <data key="d7">3.643</data>
+</node>
+<node id="1733946681">
+  <data key="d4">14.616829</data>
+  <data key="d5">120.9632632</data>
+  <data key="d6">3</data>
+  <data key="d7">3.687</data>
+</node>
+<node id="1733946697">
+  <data key="d4">14.6171063</data>
+  <data key="d5">120.9629699</data>
+  <data key="d6">3</data>
+  <data key="d7">3.501</data>
+</node>
+<node id="1733946698">
+  <data key="d4">14.6171142</data>
+  <data key="d5">120.9632547</data>
+  <data key="d6">3</data>
+  <data key="d7">3.677</data>
+</node>
+<node id="1733946703">
+  <data key="d4">14.6173156</data>
+  <data key="d5">120.9629378</data>
+  <data key="d6">3</data>
+  <data key="d7">3.428</data>
+</node>
+<node id="1733946706">
+  <data key="d4">14.6173637</data>
+  <data key="d5">120.9632438</data>
+  <data key="d6">3</data>
+  <data key="d7">3.558</data>
+</node>
+<node id="1733946710">
+  <data key="d4">14.6174341</data>
+  <data key="d5">120.9635713</data>
+  <data key="d6">3</data>
+  <data key="d7">3.435</data>
+</node>
+<node id="5723733233">
+  <data key="d4">14.6169639</data>
+  <data key="d5">120.9636536</data>
+  <data key="d6">3</data>
+  <data key="d7">3.997</data>
+</node>
+<node id="5723733234">
+  <data key="d4">14.6169531</data>
+  <data key="d5">120.9632631</data>
+  <data key="d6">3</data>
+  <data key="d7">3.571</data>
+</node>
+<node id="5723733235">
+  <data key="d4">14.6161318</data>
+  <data key="d5">120.9637269</data>
+  <data key="d6">3</data>
+  <data key="d7">3.874</data>
+</node>
+<node id="5723792135">
+  <data key="d4">14.6158341</data>
+  <data key="d5">120.9634826</data>
+  <data key="d6">3</data>
+  <data key="d7">3.997</data>
+</node>
+<node id="9973658324">
+  <data key="d4">14.6173739</data>
+  <data key="d5">120.9632441</data>
+  <data key="d6">3</data>
+  <data key="d7">3.52</data>
+</node>
+<node id="9973658325">
+  <data key="d4">14.6173836</data>
+  <data key="d5">120.9635823</data>
+  <data key="d6">3</data>
+  <data key="d7">3.488</data>
+</node>
+<edge source="244117228" target="1733946627" id="0">
+  <data key="d8">22750888</data>
+  <data key="d9">Romualdez Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">45.475</data>
+  <data key="d14">0.026</data>
+  <data key="d15">0.026</data>
+</edge>
+<edge source="244117228" target="244117232" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">26.186</data>
+  <data key="d14">0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="244117232" target="1733946639" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">13.266</data>
+  <data key="d14">0.043</data>
+  <data key="d15">0.043</data>
+</edge>
+<edge source="244117232" target="244117228" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">26.186</data>
+  <data key="d14">-0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="244117232" target="1733946634" id="0">
+  <data key="d8">161424029</data>
+  <data key="d9">Canary Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">45.934</data>
+  <data key="d14">0.021</data>
+  <data key="d15">0.021</data>
+</edge>
+<edge source="1371318542" target="5723733233" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">26.632</data>
+  <data key="d14">0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="1371318542" target="9973658325" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">20.72</data>
+  <data key="d14">-0.013</data>
+  <data key="d15">0.013</data>
+</edge>
+<edge source="1371318546" target="5723733235" id="0">
+  <data key="d8">122821107</data>
+  <data key="d9">Panday Pira Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">3.573</data>
+  <data key="d14">-0.017</data>
+  <data key="d15">0.017</data>
+</edge>
+<edge source="1371318546" target="1371318561" id="0">
+  <data key="d8">122821107</data>
+  <data key="d9">Panday Pira Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">19.374</data>
+  <data key="d14">0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1371318546" target="1733946641" id="0">
+  <data key="d8">161424040</data>
+  <data key="d9">Seagull Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">32.502</data>
+  <data key="d14">0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="1371318559" target="1733946667" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">34.65</data>
+  <data key="d14">-0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="1371318559" target="1733946640" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">40.243</data>
+  <data key="d14">-0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="1371318559" target="1371318561" id="0">
+  <data key="d8">122821107</data>
+  <data key="d9">Panday Pira Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">28.173</data>
+  <data key="d14">0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="1371318561" target="1371318546" id="0">
+  <data key="d8">122821107</data>
+  <data key="d9">Panday Pira Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">19.374</data>
+  <data key="d14">-0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1371318561" target="1371318559" id="0">
+  <data key="d8">122821107</data>
+  <data key="d9">Panday Pira Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">28.173</data>
+  <data key="d14">-0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="1371318561" target="1733946675" id="0">
+  <data key="d8">161423989</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">66.06</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1371318561" target="5723792135" id="0">
+  <data key="d8">161423989</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">34.474</data>
+  <data key="d18">LINESTRING (120.9635139 14.6161417, 120.9634846 14.6159766, 120.9634826 14.6158341)</data>
+  <data key="d14">-0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946627" target="244117228" id="0">
+  <data key="d8">22750888</data>
+  <data key="d9">Romualdez Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">45.475</data>
+  <data key="d14">-0.026</data>
+  <data key="d15">0.026</data>
+</edge>
+<edge source="1733946627" target="1733946634" id="0">
+  <data key="d8">161424040</data>
+  <data key="d9">Seagull Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">31.301</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946634" target="244117232" id="0">
+  <data key="d8">161424029</data>
+  <data key="d9">Canary Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">45.934</data>
+  <data key="d14">-0.021</data>
+  <data key="d15">0.021</data>
+</edge>
+<edge source="1733946634" target="1733946641" id="0">
+  <data key="d8">161424040</data>
+  <data key="d9">Seagull Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">25.708</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946634" target="1733946627" id="0">
+  <data key="d8">161424040</data>
+  <data key="d9">Seagull Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">31.301</data>
+  <data key="d14">-0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946639" target="1733946640" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">12.167</data>
+  <data key="d14">0.016</data>
+  <data key="d15">0.016</data>
+</edge>
+<edge source="1733946639" target="244117232" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">13.266</data>
+  <data key="d14">-0.043</data>
+  <data key="d15">0.043</data>
+</edge>
+<edge source="1733946640" target="1371318559" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">40.243</data>
+  <data key="d14">0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="1733946640" target="1733946639" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">12.167</data>
+  <data key="d14">-0.016</data>
+  <data key="d15">0.016</data>
+</edge>
+<edge source="1733946640" target="5723792135" id="0">
+  <data key="d8">161424016</data>
+  <data key="d9">Myna Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">23.725</data>
+  <data key="d14">0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="1733946641" target="5723792135" id="0">
+  <data key="d8">161424016</data>
+  <data key="d9">Myna Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">22.745</data>
+  <data key="d14">-0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946641" target="1371318546" id="0">
+  <data key="d8">161424040</data>
+  <data key="d9">Seagull Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">32.502</data>
+  <data key="d14">-0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="1733946641" target="1733946634" id="0">
+  <data key="d8">161424040</data>
+  <data key="d9">Seagull Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">25.708</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946658" target="1733946667" id="0">
+  <data key="d8">161424042</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">22.472</data>
+  <data key="d14">-0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1733946667" target="1733946674" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">24.58</data>
+  <data key="d14">0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="1733946667" target="1371318559" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">34.65</data>
+  <data key="d14">0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="1733946667" target="1733946658" id="0">
+  <data key="d8">161424042</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">22.472</data>
+  <data key="d14">0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1733946674" target="1733946681" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">11.053</data>
+  <data key="d14">-0.007</data>
+  <data key="d15">0.007</data>
+</edge>
+<edge source="1733946674" target="1733946667" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">24.58</data>
+  <data key="d14">-0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="1733946674" target="1733946675" id="0">
+  <data key="d8">161424019</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">25.272</data>
+  <data key="d14">0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="1733946675" target="1371318561" id="0">
+  <data key="d8">161423989</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">66.06</data>
+  <data key="d14">-0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946675" target="1733946674" id="0">
+  <data key="d8">161424019</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">25.272</data>
+  <data key="d14">-0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="1733946675" target="1733946676" id="0">
+  <data key="d8">161424019</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">19.481</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946676" target="5723733233" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">24.729</data>
+  <data key="d14">-0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946676" target="1733946675" id="0">
+  <data key="d8">161424019</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">19.481</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1733946676" target="5723733235" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">68.203</data>
+  <data key="d18">LINESTRING (120.9636793 14.6167429, 120.96372 14.616387, 120.9637269 14.6161318)</data>
+  <data key="d14">-0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="1733946679" target="1733946681" id="0">
+  <data key="d8">161424027</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">30.694</data>
+  <data key="d14">0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+<edge source="1733946679" target="1733946697" id="0">
+  <data key="d8">161424063</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">31.536</data>
+  <data key="d14">-0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="1733946681" target="5723733234" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">13.799</data>
+  <data key="d14">-0.008</data>
+  <data key="d15">0.008</data>
+</edge>
+<edge source="1733946681" target="1733946674" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">11.053</data>
+  <data key="d14">0.007</data>
+  <data key="d15">0.007</data>
+</edge>
+<edge source="1733946681" target="1733946679" id="0">
+  <data key="d8">161424027</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">30.694</data>
+  <data key="d14">-0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+<edge source="1733946697" target="1733946698" id="0">
+  <data key="d8">161423987</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">30.656</data>
+  <data key="d14">0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="1733946697" target="1733946703" id="0">
+  <data key="d8">161424063</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">23.528</data>
+  <data key="d14">-0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1733946697" target="1733946679" id="0">
+  <data key="d8">161424063</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">31.536</data>
+  <data key="d14">0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="1733946698" target="1733946706" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">27.768</data>
+  <data key="d14">-0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="1733946698" target="5723733234" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">17.936</data>
+  <data key="d14">-0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="1733946698" target="1733946697" id="0">
+  <data key="d8">161423987</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">30.656</data>
+  <data key="d14">-0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="1733946703" target="1733946706" id="0">
+  <data key="d8">161423980</data>
+  <data key="d10">footway</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">33.356</data>
+  <data key="d14">0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="1733946703" target="1733946697" id="0">
+  <data key="d8">161424063</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">23.528</data>
+  <data key="d14">0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1733946706" target="9973658324" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">1.135</data>
+  <data key="d14">-0.033</data>
+  <data key="d15">0.033</data>
+</edge>
+<edge source="1733946706" target="1733946698" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">27.768</data>
+  <data key="d14">0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="1733946706" target="1733946703" id="0">
+  <data key="d8">161423980</data>
+  <data key="d10">footway</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">33.356</data>
+  <data key="d14">-0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="1733946710" target="9973658325" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">5.739</data>
+  <data key="d14">0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="5723733233" target="1733946676" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">24.729</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="5723733233" target="1371318542" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">26.632</data>
+  <data key="d14">-0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="5723733233" target="5723733234" id="0">
+  <data key="d8">602687120</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">42.033</data>
+  <data key="d14">-0.01</data>
+  <data key="d15">0.01</data>
+</edge>
+<edge source="5723733234" target="1733946698" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">17.936</data>
+  <data key="d14">0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="5723733234" target="1733946681" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">13.799</data>
+  <data key="d14">0.008</data>
+  <data key="d15">0.008</data>
+</edge>
+<edge source="5723733234" target="5723733233" id="0">
+  <data key="d8">602687120</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">42.033</data>
+  <data key="d14">0.01</data>
+  <data key="d15">0.01</data>
+</edge>
+<edge source="5723733235" target="1371318546" id="0">
+  <data key="d8">122821107</data>
+  <data key="d9">Panday Pira Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">3.573</data>
+  <data key="d14">0.017</data>
+  <data key="d15">0.017</data>
+</edge>
+<edge source="5723733235" target="1733946676" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">68.203</data>
+  <data key="d18">LINESTRING (120.9637269 14.6161318, 120.96372 14.616387, 120.9636793 14.6167429)</data>
+  <data key="d14">0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="5723792135" target="1733946641" id="0">
+  <data key="d8">161424016</data>
+  <data key="d9">Myna Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">22.745</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="5723792135" target="1733946640" id="0">
+  <data key="d8">161424016</data>
+  <data key="d9">Myna Street</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">23.725</data>
+  <data key="d14">-0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="5723792135" target="1371318561" id="0">
+  <data key="d8">161423989</data>
+  <data key="d10">service</data>
+  <data key="d17">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">34.474</data>
+  <data key="d18">LINESTRING (120.9634826 14.6158341, 120.9634846 14.6159766, 120.9635139 14.6161417)</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="9973658324" target="1733946706" id="0">
+  <data key="d8">34364429</data>
+  <data key="d16">2</data>
+  <data key="d9">Osmeña Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">1.135</data>
+  <data key="d14">0.033</data>
+  <data key="d15">0.033</data>
+</edge>
+<edge source="9973658324" target="9973658325" id="0">
+  <data key="d8">1088643699</data>
+  <data key="d10">footway</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">36.405</data>
+  <data key="d14">-0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+<edge source="9973658325" target="1371318542" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">20.72</data>
+  <data key="d14">0.013</data>
+  <data key="d15">0.013</data>
+</edge>
+<edge source="9973658325" target="1733946710" id="0">
+  <data key="d8">122821109</data>
+  <data key="d9">San Sebastian Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">5.739</data>
+  <data key="d14">-0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="9973658325" target="9973658324" id="0">
+  <data key="d8">1088643699</data>
+  <data key="d10">footway</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">36.405</data>
+  <data key="d14">0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 12:39:33</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="29487853">
+  <data key="d4">14.6107255</data>
+  <data key="d5">121.0003645</data>
+  <data key="d6">3</data>
+  <data key="d7">5.126</data>
+</node>
+<node id="61090938">
+  <data key="d4">14.6110653</data>
+  <data key="d5">121.0015194</data>
+  <data key="d6">4</data>
+  <data key="d7">10.015</data>
+</node>
+<node id="73020039">
+  <data key="d4">14.6109791</data>
+  <data key="d5">121.0008172</data>
+  <data key="d6">3</data>
+  <data key="d7">9.663</data>
+</node>
+<node id="1599531289">
+  <data key="d4">14.6109648</data>
+  <data key="d5">121.0003354</data>
+  <data key="d6">3</data>
+  <data key="d7">5.539</data>
+</node>
+<edge source="29487853" target="1599531289" id="0">
+  <data key="d8">29397422</data>
+  <data key="d9">2</data>
+  <data key="d10">Matimyas Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">26.793</data>
+  <data key="d16">0.015</data>
+  <data key="d17">0.015</data>
+</edge>
+<edge source="29487853" target="73020039" id="0">
+  <data key="d8">29397390</data>
+  <data key="d9">2</data>
+  <data key="d10">Sobriedad Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">56.369</data>
+  <data key="d18">LINESTRING (121.0003645 14.6107255, 121.0005426 14.6108411, 121.0008172 14.6109791)</data>
+  <data key="d16">0.08</data>
+  <data key="d17">0.08</data>
+</edge>
+<edge source="61090938" target="73020039" id="0">
+  <data key="d8">29397390</data>
+  <data key="d9">2</data>
+  <data key="d10">Sobriedad Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">76.977</data>
+  <data key="d18">LINESTRING (121.0015194 14.6110653, 121.0011783 14.611074, 121.0008172 14.6109791)</data>
+  <data key="d16">-0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="73020039" target="29487853" id="0">
+  <data key="d8">29397390</data>
+  <data key="d9">2</data>
+  <data key="d10">Sobriedad Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">56.369</data>
+  <data key="d18">LINESTRING (121.0008172 14.6109791, 121.0005426 14.6108411, 121.0003645 14.6107255)</data>
+  <data key="d16">-0.08</data>
+  <data key="d17">0.08</data>
+</edge>
+<edge source="73020039" target="61090938" id="0">
+  <data key="d8">29397390</data>
+  <data key="d9">2</data>
+  <data key="d10">Sobriedad Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">76.977</data>
+  <data key="d18">LINESTRING (121.0008172 14.6109791, 121.0011783 14.611074, 121.0015194 14.6110653)</data>
+  <data key="d16">0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="1599531289" target="29487853" id="0">
+  <data key="d8">29397422</data>
+  <data key="d9">2</data>
+  <data key="d10">Matimyas Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">26.793</data>
+  <data key="d16">-0.015</data>
+  <data key="d17">0.015</data>
+</edge>
+</graph></graphml>

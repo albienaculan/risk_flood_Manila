@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="length" attr.type="string"/>
+<key id="d16" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d15" for="edge" attr.name="width" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:07:22</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="31462188">
+  <data key="d4">14.6046858</data>
+  <data key="d5">120.9615511</data>
+  <data key="d6">3</data>
+  <data key="d7">3.291</data>
+</node>
+<node id="660582879">
+  <data key="d4">14.604996</data>
+  <data key="d5">120.9615268</data>
+  <data key="d6">3</data>
+  <data key="d7">3.737</data>
+</node>
+<node id="660582957">
+  <data key="d4">14.6041258</data>
+  <data key="d5">120.9615837</data>
+  <data key="d6">3</data>
+  <data key="d7">3.142</data>
+</node>
+<node id="1354737838">
+  <data key="d4">14.6043113</data>
+  <data key="d5">120.9615732</data>
+  <data key="d6">3</data>
+  <data key="d7">3.084</data>
+</node>
+<node id="9289947296">
+  <data key="d4">14.6049985</data>
+  <data key="d5">120.9615733</data>
+  <data key="d6">4</data>
+  <data key="d7">3.488</data>
+</node>
+<node id="9289947297">
+  <data key="d4">14.6046896</data>
+  <data key="d5">120.9615966</data>
+  <data key="d6">4</data>
+  <data key="d7">3.172</data>
+</node>
+<node id="9289947298">
+  <data key="d4">14.6043221</data>
+  <data key="d5">120.9616193</data>
+  <data key="d6">4</data>
+  <data key="d7">3.077</data>
+</node>
+<node id="9289947299">
+  <data key="d4">14.6041367</data>
+  <data key="d5">120.9616297</data>
+  <data key="d6">4</data>
+  <data key="d7">3.163</data>
+</node>
+<edge source="31462188" target="660582879" id="0">
+  <data key="d8">22740572</data>
+  <data key="d9">True</data>
+  <data key="d10">5</data>
+  <data key="d11">120</data>
+  <data key="d12">Mel Lopez Boulevard</data>
+  <data key="d13">trunk</data>
+  <data key="d14">60</data>
+  <data key="d15">20</data>
+  <data key="d16">False</data>
+  <data key="d17">34.592</data>
+  <data key="d18">0.013</data>
+  <data key="d19">0.013</data>
+</edge>
+<edge source="31462188" target="9289947297" id="0">
+  <data key="d8">161306367</data>
+  <data key="d10">2</data>
+  <data key="d12">Lakandula Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">30</data>
+  <data key="d15">9</data>
+  <data key="d9">False</data>
+  <data key="d16">True</data>
+  <data key="d17">4.914</data>
+  <data key="d18">-0.024</data>
+  <data key="d19">0.024</data>
+</edge>
+<edge source="660582879" target="9289947296" id="0">
+  <data key="d8">51761696</data>
+  <data key="d12">Doña Aurora Street</data>
+  <data key="d13">residential</data>
+  <data key="d9">False</data>
+  <data key="d16">False</data>
+  <data key="d17">5.011</data>
+  <data key="d18">-0.05</data>
+  <data key="d19">0.05</data>
+</edge>
+<edge source="660582957" target="1354737838" id="0">
+  <data key="d8">22740572</data>
+  <data key="d9">True</data>
+  <data key="d10">5</data>
+  <data key="d11">120</data>
+  <data key="d12">Mel Lopez Boulevard</data>
+  <data key="d13">trunk</data>
+  <data key="d14">60</data>
+  <data key="d15">20</data>
+  <data key="d16">False</data>
+  <data key="d17">20.658</data>
+  <data key="d18">-0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="660582957" target="9289947299" id="0">
+  <data key="d8">51761712</data>
+  <data key="d12">Balagtas Street</data>
+  <data key="d13">residential</data>
+  <data key="d9">False</data>
+  <data key="d16">False</data>
+  <data key="d17">5.096</data>
+  <data key="d18">0.004</data>
+  <data key="d19">0.004</data>
+</edge>
+<edge source="1354737838" target="31462188" id="0">
+  <data key="d8">22740572</data>
+  <data key="d9">True</data>
+  <data key="d10">5</data>
+  <data key="d11">120</data>
+  <data key="d12">Mel Lopez Boulevard</data>
+  <data key="d13">trunk</data>
+  <data key="d14">60</data>
+  <data key="d15">20</data>
+  <data key="d16">False</data>
+  <data key="d17">41.71</data>
+  <data key="d18">0.005</data>
+  <data key="d19">0.005</data>
+</edge>
+<edge source="1354737838" target="9289947298" id="0">
+  <data key="d8">51761715</data>
+  <data key="d12">Balagtas Street</data>
+  <data key="d13">residential</data>
+  <data key="d9">False</data>
+  <data key="d16">True</data>
+  <data key="d17">5.104</data>
+  <data key="d18">-0.001</data>
+  <data key="d19">0.001</data>
+</edge>
+<edge source="9289947296" target="660582879" id="0">
+  <data key="d8">51761696</data>
+  <data key="d12">Doña Aurora Street</data>
+  <data key="d13">residential</data>
+  <data key="d9">False</data>
+  <data key="d16">True</data>
+  <data key="d17">5.011</data>
+  <data key="d18">0.05</data>
+  <data key="d19">0.05</data>
+</edge>
+<edge source="9289947297" target="31462188" id="0">
+  <data key="d8">161306367</data>
+  <data key="d10">2</data>
+  <data key="d12">Lakandula Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">30</data>
+  <data key="d15">9</data>
+  <data key="d9">False</data>
+  <data key="d16">False</data>
+  <data key="d17">4.914</data>
+  <data key="d18">0.024</data>
+  <data key="d19">0.024</data>
+</edge>
+<edge source="9289947297" target="9289947296" id="0">
+  <data key="d8">1072450420</data>
+  <data key="d9">True</data>
+  <data key="d13">cycleway</data>
+  <data key="d16">False</data>
+  <data key="d17">34.44</data>
+  <data key="d18">0.009</data>
+  <data key="d19">0.009</data>
+</edge>
+<edge source="9289947298" target="1354737838" id="0">
+  <data key="d8">51761715</data>
+  <data key="d12">Balagtas Street</data>
+  <data key="d13">residential</data>
+  <data key="d9">False</data>
+  <data key="d16">False</data>
+  <data key="d17">5.104</data>
+  <data key="d18">0.001</data>
+  <data key="d19">0.001</data>
+</edge>
+<edge source="9289947298" target="9289947297" id="0">
+  <data key="d8">1072450420</data>
+  <data key="d9">True</data>
+  <data key="d13">cycleway</data>
+  <data key="d16">False</data>
+  <data key="d17">40.937</data>
+  <data key="d18">0.002</data>
+  <data key="d19">0.002</data>
+</edge>
+<edge source="9289947299" target="660582957" id="0">
+  <data key="d8">51761712</data>
+  <data key="d12">Balagtas Street</data>
+  <data key="d13">residential</data>
+  <data key="d9">False</data>
+  <data key="d16">True</data>
+  <data key="d17">5.096</data>
+  <data key="d18">-0.004</data>
+  <data key="d19">0.004</data>
+</edge>
+<edge source="9289947299" target="9289947298" id="0">
+  <data key="d8">1072450420</data>
+  <data key="d9">True</data>
+  <data key="d13">cycleway</data>
+  <data key="d16">False</data>
+  <data key="d17">20.646</data>
+  <data key="d18">-0.004</data>
+  <data key="d19">0.004</data>
+</edge>
+</graph></graphml>

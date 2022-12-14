@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:31:43</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="1437699061">
+  <data key="d4">14.5790267</data>
+  <data key="d5">120.998672</data>
+  <data key="d6">3</data>
+  <data key="d7">3.778</data>
+</node>
+<node id="1437699083">
+  <data key="d4">14.5786991</data>
+  <data key="d5">120.9987493</data>
+  <data key="d6">3</data>
+  <data key="d7">3.647</data>
+</node>
+<edge source="1437699083" target="1437699061" id="0">
+  <data key="d8">9867874</data>
+  <data key="d9">True</data>
+  <data key="d10">1</data>
+  <data key="d11">primary_link</data>
+  <data key="d12">False</data>
+  <data key="d13">38.933</data>
+  <data key="d14">LINESTRING (120.9987493 14.5786991, 120.9987288 14.5787239, 120.9987106 14.5787504, 120.9986949 14.5787784, 120.998682 14.5788077, 120.9986718 14.5788379, 120.9986644 14.578869, 120.99866 14.5789005, 120.9986586 14.5789323, 120.9986601 14.5789641, 120.9986646 14.5789957, 120.998672 14.5790267)</data>
+  <data key="d15">0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+</graph></graphml>

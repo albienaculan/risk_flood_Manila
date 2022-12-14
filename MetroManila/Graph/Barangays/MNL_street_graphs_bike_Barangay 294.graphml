@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d21" for="edge" attr.name="access" attr.type="string"/>
+<key id="d20" for="edge" attr.name="service" attr.type="string"/>
+<key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d7" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d6" for="node" attr.name="highway" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:30:32</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="159490462">
+  <data key="d4">14.6046797</data>
+  <data key="d5">120.9744569</data>
+  <data key="d6">crossing</data>
+  <data key="d7">5</data>
+  <data key="d8">0.998</data>
+</node>
+<node id="311884097">
+  <data key="d4">14.604473</data>
+  <data key="d5">120.9743834</data>
+  <data key="d7">3</data>
+  <data key="d8">0.405</data>
+</node>
+<node id="400791752">
+  <data key="d4">14.6045556</data>
+  <data key="d5">120.9748115</data>
+  <data key="d7">3</data>
+  <data key="d8">2.035</data>
+</node>
+<node id="7483419870">
+  <data key="d4">14.6046381</data>
+  <data key="d5">120.9745848</data>
+  <data key="d7">3</data>
+  <data key="d8">1.349</data>
+</node>
+<node id="7712300681">
+  <data key="d4">14.6043896</data>
+  <data key="d5">120.9752847</data>
+  <data key="d7">3</data>
+  <data key="d8">2.756</data>
+</node>
+<node id="7712300682">
+  <data key="d4">14.6047539</data>
+  <data key="d5">120.9754195</data>
+  <data key="d7">1</data>
+  <data key="d8">2.868</data>
+</node>
+<node id="9960826023">
+  <data key="d4">14.6045453</data>
+  <data key="d5">120.9748406</data>
+  <data key="d7">3</data>
+  <data key="d8">2.111</data>
+</node>
+<edge source="159490462" target="7483419870" id="0">
+  <data key="d9">1078948711</data>
+  <data key="d10">2</data>
+  <data key="d11">Soler Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">14.519</data>
+  <data key="d17">0.024</data>
+  <data key="d18">0.024</data>
+</edge>
+<edge source="159490462" target="311884097" id="0">
+  <data key="d9">668193049</data>
+  <data key="d14">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Reina Regente Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d15">False</data>
+  <data key="d16">24.464</data>
+  <data key="d19">LINESTRING (120.9744569 14.6046797, 120.9744024 14.6045643, 120.9743834 14.604473)</data>
+  <data key="d17">-0.024</data>
+  <data key="d18">0.024</data>
+</edge>
+<edge source="400791752" target="7483419870" id="0">
+  <data key="d9">34546626</data>
+  <data key="d10">2</data>
+  <data key="d11">Soler Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">26.061</data>
+  <data key="d17">-0.026</data>
+  <data key="d18">0.026</data>
+</edge>
+<edge source="400791752" target="9960826023" id="0">
+  <data key="d9">34546626</data>
+  <data key="d10">2</data>
+  <data key="d11">Soler Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">3.334</data>
+  <data key="d19">LINESTRING (120.9748115 14.6045556, 120.9748255 14.6045506, 120.9748406 14.6045453)</data>
+  <data key="d17">0.023</data>
+  <data key="d18">0.023</data>
+</edge>
+<edge source="7483419870" target="400791752" id="0">
+  <data key="d9">34546626</data>
+  <data key="d10">2</data>
+  <data key="d11">Soler Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">26.061</data>
+  <data key="d17">0.026</data>
+  <data key="d18">0.026</data>
+</edge>
+<edge source="7483419870" target="159490462" id="0">
+  <data key="d9">1078948711</data>
+  <data key="d10">2</data>
+  <data key="d11">Soler Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">14.519</data>
+  <data key="d17">-0.024</data>
+  <data key="d18">0.024</data>
+</edge>
+<edge source="7712300681" target="7712300682" id="0">
+  <data key="d9">826025396</data>
+  <data key="d10">1</data>
+  <data key="d12">service</data>
+  <data key="d20">alley</data>
+  <data key="d21">destination</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">43.027</data>
+  <data key="d17">0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="7712300681" target="9960826023" id="0">
+  <data key="d9">34546626</data>
+  <data key="d10">2</data>
+  <data key="d11">Soler Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">50.826</data>
+  <data key="d19">LINESTRING (120.9752847 14.6043896, 120.9751282 14.6044445, 120.9748406 14.6045453)</data>
+  <data key="d17">-0.013</data>
+  <data key="d18">0.013</data>
+</edge>
+<edge source="7712300682" target="7712300681" id="0">
+  <data key="d9">826025396</data>
+  <data key="d10">1</data>
+  <data key="d12">service</data>
+  <data key="d20">alley</data>
+  <data key="d21">destination</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">43.027</data>
+  <data key="d17">-0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="9960826023" target="400791752" id="0">
+  <data key="d9">34546626</data>
+  <data key="d10">2</data>
+  <data key="d11">Soler Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">3.334</data>
+  <data key="d19">LINESTRING (120.9748406 14.6045453, 120.9748255 14.6045506, 120.9748115 14.6045556)</data>
+  <data key="d17">-0.023</data>
+  <data key="d18">0.023</data>
+</edge>
+<edge source="9960826023" target="7712300681" id="0">
+  <data key="d9">34546626</data>
+  <data key="d10">2</data>
+  <data key="d11">Soler Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">30</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">50.826</data>
+  <data key="d19">LINESTRING (120.9748406 14.6045453, 120.9751282 14.6044445, 120.9752847 14.6043896)</data>
+  <data key="d17">0.013</data>
+  <data key="d18">0.013</data>
+</edge>
+</graph></graphml>

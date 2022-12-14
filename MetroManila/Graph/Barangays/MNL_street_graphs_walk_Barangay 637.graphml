@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="length" attr.type="string"/>
+<key id="d16" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d15" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="name" attr.type="string"/>
+<key id="d12" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="highway" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:37:14</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="410561356">
+  <data key="d4">14.6006654</data>
+  <data key="d5">120.9958215</data>
+  <data key="d6">4</data>
+  <data key="d7">6.331</data>
+</node>
+<node id="410561360">
+  <data key="d4">14.6009322</data>
+  <data key="d5">120.9959091</data>
+  <data key="d6">3</data>
+  <data key="d7">7.103</data>
+</node>
+<node id="3397733554">
+  <data key="d4">14.6005832</data>
+  <data key="d5">120.9958242</data>
+  <data key="d8">crossing</data>
+  <data key="d6">3</data>
+  <data key="d7">5.955</data>
+</node>
+<node id="6509195441">
+  <data key="d4">14.6006403</data>
+  <data key="d5">120.9956387</data>
+  <data key="d6">3</data>
+  <data key="d7">6.351</data>
+</node>
+<node id="6637036326">
+  <data key="d4">14.6005907</data>
+  <data key="d5">120.995795</data>
+  <data key="d6">3</data>
+  <data key="d7">6.017</data>
+</node>
+<node id="8711163070">
+  <data key="d4">14.6006545</data>
+  <data key="d5">120.9954232</data>
+  <data key="d6">1</data>
+  <data key="d7">6.553</data>
+</node>
+<node id="8711163071">
+  <data key="d4">14.6007087</data>
+  <data key="d5">120.9954402</data>
+  <data key="d6">3</data>
+  <data key="d7">6.692</data>
+</node>
+<node id="8711163080">
+  <data key="d4">14.6006573</data>
+  <data key="d5">120.9958485</data>
+  <data key="d8">crossing</data>
+  <data key="d6">3</data>
+  <data key="d7">6.268</data>
+</node>
+<edge source="410561356" target="8711163080" id="0">
+  <data key="d9">119883577</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">True</data>
+  <data key="d17">3.042</data>
+  <data key="d18">-0.021</data>
+  <data key="d19">0.021</data>
+</edge>
+<edge source="410561356" target="410561360" id="0">
+  <data key="d9">825090424</data>
+  <data key="d11">2</data>
+  <data key="d13">Jhocson Street</data>
+  <data key="d14">residential</data>
+  <data key="d15">30</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">31.128</data>
+  <data key="d18">0.025</data>
+  <data key="d19">0.025</data>
+</edge>
+<edge source="410561356" target="6637036326" id="0">
+  <data key="d9">825090424</data>
+  <data key="d11">2</data>
+  <data key="d13">Jhocson Street</data>
+  <data key="d14">residential</data>
+  <data key="d15">30</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">8.782</data>
+  <data key="d18">-0.036</data>
+  <data key="d19">0.036</data>
+</edge>
+<edge source="410561360" target="410561356" id="0">
+  <data key="d9">825090424</data>
+  <data key="d11">2</data>
+  <data key="d13">Jhocson Street</data>
+  <data key="d14">residential</data>
+  <data key="d15">30</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">31.128</data>
+  <data key="d18">-0.025</data>
+  <data key="d19">0.025</data>
+</edge>
+<edge source="3397733554" target="6637036326" id="0">
+  <data key="d9">310627474</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">True</data>
+  <data key="d17">3.251</data>
+  <data key="d18">0.019</data>
+  <data key="d19">0.019</data>
+</edge>
+<edge source="3397733554" target="8711163080" id="0">
+  <data key="d9">1077721639</data>
+  <data key="d14">footway</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">8.644</data>
+  <data key="d18">0.036</data>
+  <data key="d19">0.036</data>
+</edge>
+<edge source="6509195441" target="6637036326" id="0">
+  <data key="d9">310627474</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">17.7</data>
+  <data key="d20">LINESTRING (120.9956387 14.6006403, 120.9957205 14.6006147, 120.995795 14.6005907)</data>
+  <data key="d18">-0.019</data>
+  <data key="d19">0.019</data>
+</edge>
+<edge source="6509195441" target="8711163071" id="0">
+  <data key="d9">310627474</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">True</data>
+  <data key="d17">22.674</data>
+  <data key="d20">LINESTRING (120.9956387 14.6006403, 120.9956228 14.6006453, 120.9954402 14.6007087)</data>
+  <data key="d18">0.015</data>
+  <data key="d19">0.015</data>
+</edge>
+<edge source="6637036326" target="3397733554" id="0">
+  <data key="d9">310627474</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">3.251</data>
+  <data key="d18">-0.019</data>
+  <data key="d19">0.019</data>
+</edge>
+<edge source="6637036326" target="410561356" id="0">
+  <data key="d9">825090424</data>
+  <data key="d11">2</data>
+  <data key="d13">Jhocson Street</data>
+  <data key="d14">residential</data>
+  <data key="d15">30</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">8.782</data>
+  <data key="d18">0.036</data>
+  <data key="d19">0.036</data>
+</edge>
+<edge source="6637036326" target="6509195441" id="0">
+  <data key="d9">310627474</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">True</data>
+  <data key="d17">17.7</data>
+  <data key="d20">LINESTRING (120.995795 14.6005907, 120.9957205 14.6006147, 120.9956387 14.6006403)</data>
+  <data key="d18">0.019</data>
+  <data key="d19">0.019</data>
+</edge>
+<edge source="8711163070" target="8711163071" id="0">
+  <data key="d9">1077747776</data>
+  <data key="d14">service</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">6.298</data>
+  <data key="d18">0.022</data>
+  <data key="d19">0.022</data>
+</edge>
+<edge source="8711163071" target="8711163070" id="0">
+  <data key="d9">1077747776</data>
+  <data key="d14">service</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">6.298</data>
+  <data key="d18">-0.022</data>
+  <data key="d19">0.022</data>
+</edge>
+<edge source="8711163071" target="6509195441" id="0">
+  <data key="d9">310627474</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">22.674</data>
+  <data key="d20">LINESTRING (120.9954402 14.6007087, 120.9956228 14.6006453, 120.9956387 14.6006403)</data>
+  <data key="d18">-0.015</data>
+  <data key="d19">0.015</data>
+</edge>
+<edge source="8711163080" target="410561356" id="0">
+  <data key="d9">119883577</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">3.042</data>
+  <data key="d18">0.021</data>
+  <data key="d19">0.021</data>
+</edge>
+<edge source="8711163080" target="3397733554" id="0">
+  <data key="d9">1077721639</data>
+  <data key="d14">footway</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">8.644</data>
+  <data key="d18">-0.036</data>
+  <data key="d19">0.036</data>
+</edge>
+</graph></graphml>

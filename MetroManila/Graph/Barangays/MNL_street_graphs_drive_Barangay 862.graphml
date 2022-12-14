@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:22:48</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="79651690">
+  <data key="d4">14.589435</data>
+  <data key="d5">121.0034913</data>
+  <data key="d6">3</data>
+  <data key="d7">5.314</data>
+</node>
+<node id="79652206">
+  <data key="d4">14.5895282</data>
+  <data key="d5">121.0032096</data>
+  <data key="d6">3</data>
+  <data key="d7">5.846</data>
+</node>
+<node id="252166916">
+  <data key="d4">14.5893271</data>
+  <data key="d5">121.0037957</data>
+  <data key="d6">3</data>
+  <data key="d7">4.972</data>
+</node>
+<node id="252166917">
+  <data key="d4">14.588847</data>
+  <data key="d5">121.0035844</data>
+  <data key="d6">3</data>
+  <data key="d7">4.211</data>
+</node>
+<node id="3462791388">
+  <data key="d4">14.589593</data>
+  <data key="d5">121.0030075</data>
+  <data key="d6">4</data>
+  <data key="d7">6.225</data>
+</node>
+<node id="6048111851">
+  <data key="d4">14.5888289</data>
+  <data key="d5">121.0031231</data>
+  <data key="d6">3</data>
+  <data key="d7">4.688</data>
+</node>
+<node id="7657783371">
+  <data key="d4">14.5895751</data>
+  <data key="d5">121.0030635</data>
+  <data key="d6">3</data>
+  <data key="d7">6.137</data>
+</node>
+<edge source="79651690" target="79652206" id="0">
+  <data key="d8">643166960</data>
+  <data key="d9">2</data>
+  <data key="d10">Hilom Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">32.036</data>
+  <data key="d16">0.017</data>
+  <data key="d17">0.017</data>
+</edge>
+<edge source="79651690" target="252166916" id="0">
+  <data key="d8">643166962</data>
+  <data key="d13">False</data>
+  <data key="d9">2</data>
+  <data key="d10">Hilom Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d14">True</data>
+  <data key="d15">34.885</data>
+  <data key="d16">-0.01</data>
+  <data key="d17">0.01</data>
+</edge>
+<edge source="79652206" target="79651690" id="0">
+  <data key="d8">643166960</data>
+  <data key="d9">2</data>
+  <data key="d10">Hilom Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">32.036</data>
+  <data key="d16">-0.017</data>
+  <data key="d17">0.017</data>
+</edge>
+<edge source="79652206" target="7657783371" id="0">
+  <data key="d8">643166961</data>
+  <data key="d9">2</data>
+  <data key="d10">Hilom Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">16.564</data>
+  <data key="d16">0.018</data>
+  <data key="d17">0.018</data>
+</edge>
+<edge source="252166916" target="79651690" id="0">
+  <data key="d8">643166962</data>
+  <data key="d13">False</data>
+  <data key="d9">2</data>
+  <data key="d10">Hilom Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d14">False</data>
+  <data key="d15">34.885</data>
+  <data key="d16">0.01</data>
+  <data key="d17">0.01</data>
+</edge>
+<edge source="252166917" target="252166916" id="0">
+  <data key="d8">799533714</data>
+  <data key="d13">True</data>
+  <data key="d9">1</data>
+  <data key="d10">Beata Street</data>
+  <data key="d11">residential</data>
+  <data key="d14">False</data>
+  <data key="d15">58.025</data>
+  <data key="d16">0.013</data>
+  <data key="d17">0.013</data>
+</edge>
+<edge source="252166917" target="6048111851" id="0">
+  <data key="d8">642436141</data>
+  <data key="d9">1</data>
+  <data key="d10">J. Zamora Street</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">49.903000000000006</data>
+  <data key="d18">LINESTRING (121.0035844 14.588847, 121.0034346 14.5888609, 121.0031231 14.5888289)</data>
+  <data key="d16">0.01</data>
+  <data key="d17">0.01</data>
+</edge>
+<edge source="3462791388" target="7657783371" id="0">
+  <data key="d8">643166961</data>
+  <data key="d9">2</data>
+  <data key="d10">Hilom Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">6.35</data>
+  <data key="d18">LINESTRING (121.0030075 14.589593, 121.0030316 14.5895843, 121.0030635 14.5895751)</data>
+  <data key="d16">-0.014</data>
+  <data key="d17">0.014</data>
+</edge>
+<edge source="6048111851" target="7657783371" id="0">
+  <data key="d8">9867771</data>
+  <data key="d9">2</data>
+  <data key="d10">Librada Avelino Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">83.221</data>
+  <data key="d16">0.017</data>
+  <data key="d17">0.017</data>
+</edge>
+<edge source="6048111851" target="252166917" id="0">
+  <data key="d8">642436141</data>
+  <data key="d9">1</data>
+  <data key="d10">J. Zamora Street</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">49.903000000000006</data>
+  <data key="d18">LINESTRING (121.0031231 14.5888289, 121.0034346 14.5888609, 121.0035844 14.588847)</data>
+  <data key="d16">-0.01</data>
+  <data key="d17">0.01</data>
+</edge>
+<edge source="7657783371" target="6048111851" id="0">
+  <data key="d8">9867771</data>
+  <data key="d9">2</data>
+  <data key="d10">Librada Avelino Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">83.221</data>
+  <data key="d16">-0.017</data>
+  <data key="d17">0.017</data>
+</edge>
+<edge source="7657783371" target="79652206" id="0">
+  <data key="d8">643166961</data>
+  <data key="d9">2</data>
+  <data key="d10">Hilom Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">16.564</data>
+  <data key="d16">-0.018</data>
+  <data key="d17">0.018</data>
+</edge>
+<edge source="7657783371" target="3462791388" id="0">
+  <data key="d8">643166961</data>
+  <data key="d9">2</data>
+  <data key="d10">Hilom Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">6.35</data>
+  <data key="d18">LINESTRING (121.0030635 14.5895751, 121.0030316 14.5895843, 121.0030075 14.589593)</data>
+  <data key="d16">0.014</data>
+  <data key="d17">0.014</data>
+</edge>
+</graph></graphml>

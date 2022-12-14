@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d21" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d20" for="edge" attr.name="width" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="length" attr.type="string"/>
+<key id="d16" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d15" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="highway" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 04:24:44</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="26793866">
+  <data key="d4">14.6165614</data>
+  <data key="d5">120.9792973</data>
+  <data key="d6">3</data>
+  <data key="d7">2.582</data>
+</node>
+<node id="56118726">
+  <data key="d4">14.6167362</data>
+  <data key="d5">120.9773731</data>
+  <data key="d8">traffic_signals</data>
+  <data key="d6">4</data>
+  <data key="d7">2.263</data>
+</node>
+<node id="1763090565">
+  <data key="d4">14.6165786</data>
+  <data key="d5">120.9796309</data>
+  <data key="d6">3</data>
+  <data key="d7">2.704</data>
+</node>
+<node id="9802681570">
+  <data key="d4">14.6166712</data>
+  <data key="d5">120.9781784</data>
+  <data key="d6">3</data>
+  <data key="d7">2.768</data>
+</node>
+<edge source="26793866" target="1763090565" id="0">
+  <data key="d9">6117994</data>
+  <data key="d10">4</data>
+  <data key="d11">140</data>
+  <data key="d12">Tayuman Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">True</data>
+  <data key="d17">35.945</data>
+  <data key="d18">0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="26793866" target="9802681570" id="0">
+  <data key="d9">[150158675, 150158674, 121510091]</data>
+  <data key="d10">4</data>
+  <data key="d11">140</data>
+  <data key="d12">Tayuman Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">False</data>
+  <data key="d17">121.126</data>
+  <data key="d20">12</data>
+  <data key="d21">LINESTRING (120.9792973 14.6165614, 120.9789418 14.6165757, 120.9787143 14.6165967, 120.9781784 14.6166712)</data>
+  <data key="d18">0.002</data>
+  <data key="d19">0.002</data>
+</edge>
+<edge source="56118726" target="9802681570" id="0">
+  <data key="d9">150158675</data>
+  <data key="d10">4</data>
+  <data key="d11">140</data>
+  <data key="d12">Tayuman Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d20">12</data>
+  <data key="d15">False</data>
+  <data key="d16">True</data>
+  <data key="d17">86.951</data>
+  <data key="d21">LINESTRING (120.9773731 14.6167362, 120.9781241 14.616677, 120.9781784 14.6166712)</data>
+  <data key="d18">0.006</data>
+  <data key="d19">0.006</data>
+</edge>
+<edge source="1763090565" target="26793866" id="0">
+  <data key="d9">6117994</data>
+  <data key="d10">4</data>
+  <data key="d11">140</data>
+  <data key="d12">Tayuman Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">False</data>
+  <data key="d17">35.945</data>
+  <data key="d18">-0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="9802681570" target="56118726" id="0">
+  <data key="d9">150158675</data>
+  <data key="d10">4</data>
+  <data key="d11">140</data>
+  <data key="d12">Tayuman Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d20">12</data>
+  <data key="d15">False</data>
+  <data key="d16">False</data>
+  <data key="d17">86.951</data>
+  <data key="d21">LINESTRING (120.9781784 14.6166712, 120.9781241 14.616677, 120.9773731 14.6167362)</data>
+  <data key="d18">-0.006</data>
+  <data key="d19">0.006</data>
+</edge>
+<edge source="9802681570" target="26793866" id="0">
+  <data key="d9">[150158674, 150158675, 121510091]</data>
+  <data key="d10">4</data>
+  <data key="d11">140</data>
+  <data key="d12">Tayuman Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d20">12</data>
+  <data key="d15">False</data>
+  <data key="d16">True</data>
+  <data key="d17">121.126</data>
+  <data key="d21">LINESTRING (120.9781784 14.6166712, 120.9787143 14.6165967, 120.9789418 14.6165757, 120.9792973 14.6165614)</data>
+  <data key="d18">-0.002</data>
+  <data key="d19">0.002</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="width" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="length" attr.type="string"/>
+<key id="d16" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d15" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="name" attr.type="string"/>
+<key id="d12" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d7" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d6" for="node" attr.name="highway" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:12:09</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="59738820">
+  <data key="d4">14.6052978</data>
+  <data key="d5">120.9880224</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">3</data>
+  <data key="d8">3.069</data>
+</node>
+<node id="59739250">
+  <data key="d4">14.6050605</data>
+  <data key="d5">120.9879649</data>
+  <data key="d7">3</data>
+  <data key="d8">3.5</data>
+</node>
+<node id="1124655504">
+  <data key="d4">14.6052697</data>
+  <data key="d5">120.9879137</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">3.212</data>
+</node>
+<node id="1346513128">
+  <data key="d4">14.6054068</data>
+  <data key="d5">120.9881683</data>
+  <data key="d7">3</data>
+  <data key="d8">3.01</data>
+</node>
+<node id="6329442404">
+  <data key="d4">14.605195</data>
+  <data key="d5">120.9878979</data>
+  <data key="d7">3</data>
+  <data key="d8">3.221</data>
+</node>
+<node id="6329442405">
+  <data key="d4">14.605169</data>
+  <data key="d5">120.9879912</data>
+  <data key="d7">3</data>
+  <data key="d8">3.188</data>
+</node>
+<edge source="59738820" target="1124655504" id="0">
+  <data key="d9">309585108</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">170</data>
+  <data key="d13">Lerma Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">True</data>
+  <data key="d17">12.106</data>
+  <data key="d18">0.012</data>
+  <data key="d19">0.012</data>
+</edge>
+<edge source="59738820" target="1346513128" id="0">
+  <data key="d9">612628870</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">170</data>
+  <data key="d13">España Boulevard</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d20">8.05</data>
+  <data key="d16">False</data>
+  <data key="d17">19.833</data>
+  <data key="d18">-0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="59738820" target="6329442405" id="0">
+  <data key="d9">675856940</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d13">Nicanor Reyes Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">40</data>
+  <data key="d16">True</data>
+  <data key="d17">14.71</data>
+  <data key="d18">0.008</data>
+  <data key="d19">0.008</data>
+</edge>
+<edge source="59739250" target="6329442405" id="0">
+  <data key="d9">675856940</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d13">Nicanor Reyes Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">40</data>
+  <data key="d16">False</data>
+  <data key="d17">12.392</data>
+  <data key="d18">-0.025</data>
+  <data key="d19">0.025</data>
+</edge>
+<edge source="1124655504" target="6329442404" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d13">Nicanor Reyes Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">40</data>
+  <data key="d16">False</data>
+  <data key="d17">8.478</data>
+  <data key="d18">0.001</data>
+  <data key="d19">0.001</data>
+</edge>
+<edge source="1124655504" target="59738820" id="0">
+  <data key="d9">309585108</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">170</data>
+  <data key="d13">Lerma Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">12.106</data>
+  <data key="d18">-0.012</data>
+  <data key="d19">0.012</data>
+</edge>
+<edge source="1346513128" target="59738820" id="0">
+  <data key="d9">612628870</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">170</data>
+  <data key="d13">España Boulevard</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d20">8.05</data>
+  <data key="d16">True</data>
+  <data key="d17">19.833</data>
+  <data key="d18">0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="6329442404" target="1124655504" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d13">Nicanor Reyes Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">40</data>
+  <data key="d16">True</data>
+  <data key="d17">8.478</data>
+  <data key="d18">-0.001</data>
+  <data key="d19">0.001</data>
+</edge>
+<edge source="6329442404" target="6329442405" id="0">
+  <data key="d9">675856937</data>
+  <data key="d14">footway</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">10.447</data>
+  <data key="d18">-0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="6329442405" target="6329442404" id="0">
+  <data key="d9">675856937</data>
+  <data key="d14">footway</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">10.447</data>
+  <data key="d18">0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="6329442405" target="59738820" id="0">
+  <data key="d9">675856940</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d13">Nicanor Reyes Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">40</data>
+  <data key="d16">False</data>
+  <data key="d17">14.71</data>
+  <data key="d18">-0.008</data>
+  <data key="d19">0.008</data>
+</edge>
+<edge source="6329442405" target="59739250" id="0">
+  <data key="d9">675856940</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d13">Nicanor Reyes Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">40</data>
+  <data key="d16">True</data>
+  <data key="d17">12.392</data>
+  <data key="d18">0.025</data>
+  <data key="d19">0.025</data>
+</edge>
+</graph></graphml>

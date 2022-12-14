@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:12:34</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="244117228">
+  <data key="d4">14.6153712</data>
+  <data key="d5">120.9632734</data>
+  <data key="d6">3</data>
+  <data key="d7">2.787</data>
+</node>
+<node id="1371318559">
+  <data key="d4">14.6161971</data>
+  <data key="d5">120.9632584</data>
+  <data key="d6">4</data>
+  <data key="d7">3.848</data>
+</node>
+<node id="5723733235">
+  <data key="d4">14.6161318</data>
+  <data key="d5">120.9637269</data>
+  <data key="d6">3</data>
+  <data key="d7">3.874</data>
+</node>
+<edge source="244117228" target="1371318559" id="0">
+  <data key="d8">34364429</data>
+  <data key="d9">2</data>
+  <data key="d10">Osmeña Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">91.862</data>
+  <data key="d15">LINESTRING (120.9632734 14.6153712, 120.9632663 14.6156066, 120.9632674 14.6157259, 120.9632621 14.6158352, 120.9632584 14.6161971)</data>
+  <data key="d16">0.012</data>
+  <data key="d17">0.012</data>
+</edge>
+<edge source="1371318559" target="244117228" id="0">
+  <data key="d8">34364429</data>
+  <data key="d9">2</data>
+  <data key="d10">Osmeña Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">91.862</data>
+  <data key="d15">LINESTRING (120.9632584 14.6161971, 120.9632621 14.6158352, 120.9632674 14.6157259, 120.9632663 14.6156066, 120.9632734 14.6153712)</data>
+  <data key="d16">-0.012</data>
+  <data key="d17">0.012</data>
+</edge>
+<edge source="1371318559" target="5723733235" id="0">
+  <data key="d8">122821107</data>
+  <data key="d10">Panday Pira Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">51.12</data>
+  <data key="d15">LINESTRING (120.9632584 14.6161971, 120.9635139 14.6161417, 120.9636937 14.6161323, 120.9637269 14.6161318)</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="5723733235" target="1371318559" id="0">
+  <data key="d8">122821107</data>
+  <data key="d10">Panday Pira Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">51.12</data>
+  <data key="d15">LINESTRING (120.9637269 14.6161318, 120.9636937 14.6161323, 120.9635139 14.6161417, 120.9632584 14.6161971)</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+</graph></graphml>

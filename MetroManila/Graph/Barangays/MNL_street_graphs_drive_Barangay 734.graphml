@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 06:55:45</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="34010134">
+  <data key="d4">14.5780228</data>
+  <data key="d5">120.9953043</data>
+  <data key="d6">4</data>
+  <data key="d7">3.52</data>
+</node>
+<node id="34010346">
+  <data key="d4">14.5794359</data>
+  <data key="d5">120.9958715</data>
+  <data key="d6">4</data>
+  <data key="d7">3.033</data>
+</node>
+<node id="151044964">
+  <data key="d4">14.577251</data>
+  <data key="d5">120.995389</data>
+  <data key="d6">3</data>
+  <data key="d7">3.641</data>
+</node>
+<node id="252166889">
+  <data key="d4">14.5778907</data>
+  <data key="d5">120.994735</data>
+  <data key="d6">3</data>
+  <data key="d7">3.462</data>
+</node>
+<node id="1293376110">
+  <data key="d4">14.5775256</data>
+  <data key="d5">120.9953589</data>
+  <data key="d6">3</data>
+  <data key="d7">3.75</data>
+</node>
+<node id="1293376128">
+  <data key="d4">14.5783433</data>
+  <data key="d5">120.9952691</data>
+  <data key="d6">4</data>
+  <data key="d7">3.314</data>
+</node>
+<node id="1669636088">
+  <data key="d4">14.5784004</data>
+  <data key="d5">120.9959211</data>
+  <data key="d6">3</data>
+  <data key="d7">3.137</data>
+</node>
+<node id="1669636105">
+  <data key="d4">14.5787898</data>
+  <data key="d5">120.9959165</data>
+  <data key="d6">4</data>
+  <data key="d7">3.075</data>
+</node>
+<edge source="34010134" target="1293376128" id="0">
+  <data key="d8">15246644</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Paz Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">False</data>
+  <data key="d14">35.839</data>
+  <data key="d15">-0.006</data>
+  <data key="d16">0.006</data>
+</edge>
+<edge source="34010134" target="252166889" id="0">
+  <data key="d8">379390888</data>
+  <data key="d10">2</data>
+  <data key="d11">Sagat Street</data>
+  <data key="d12">residential</data>
+  <data key="d17">30</data>
+  <data key="d9">False</data>
+  <data key="d13">False</data>
+  <data key="d14">63.002</data>
+  <data key="d15">-0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="34010346" target="1669636105" id="0">
+  <data key="d8">712297678</data>
+  <data key="d9">True</data>
+  <data key="d11">Merced Street</data>
+  <data key="d12">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">72.006</data>
+  <data key="d15">0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="151044964" target="1293376110" id="0">
+  <data key="d8">15246644</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Paz Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">False</data>
+  <data key="d14">30.706</data>
+  <data key="d15">0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="252166889" target="34010134" id="0">
+  <data key="d8">379390888</data>
+  <data key="d10">2</data>
+  <data key="d11">Sagat Street</data>
+  <data key="d12">residential</data>
+  <data key="d17">30</data>
+  <data key="d9">False</data>
+  <data key="d13">True</data>
+  <data key="d14">63.002</data>
+  <data key="d15">0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="252166889" target="1293376110" id="0">
+  <data key="d8">[573461189, 114136831]</data>
+  <data key="d10">2</data>
+  <data key="d11">Santiago Street</data>
+  <data key="d12">residential</data>
+  <data key="d9">False</data>
+  <data key="d13">False</data>
+  <data key="d14">108.222</data>
+  <data key="d18">LINESTRING (120.994735 14.5778907, 120.9948822 14.5774131, 120.9953589 14.5775256)</data>
+  <data key="d15">0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="1293376110" target="34010134" id="0">
+  <data key="d8">15246644</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Paz Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">False</data>
+  <data key="d14">55.598</data>
+  <data key="d15">-0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="1293376110" target="252166889" id="0">
+  <data key="d8">[573461189, 114136831]</data>
+  <data key="d10">2</data>
+  <data key="d11">Santiago Street</data>
+  <data key="d12">residential</data>
+  <data key="d9">False</data>
+  <data key="d13">True</data>
+  <data key="d14">108.222</data>
+  <data key="d18">LINESTRING (120.9953589 14.5775256, 120.9948822 14.5774131, 120.994735 14.5778907)</data>
+  <data key="d15">-0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="1293376128" target="1669636088" id="0">
+  <data key="d8">154422888</data>
+  <data key="d10">2</data>
+  <data key="d11">Lopez Jaena Street</data>
+  <data key="d12">residential</data>
+  <data key="d9">False</data>
+  <data key="d13">False</data>
+  <data key="d14">70.452</data>
+  <data key="d15">-0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="1669636088" target="1669636105" id="0">
+  <data key="d8">23296564</data>
+  <data key="d11">Merced Street</data>
+  <data key="d12">residential</data>
+  <data key="d9">False</data>
+  <data key="d13">True</data>
+  <data key="d14">43.302</data>
+  <data key="d15">-0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="1669636088" target="1293376128" id="0">
+  <data key="d8">154422888</data>
+  <data key="d10">2</data>
+  <data key="d11">Lopez Jaena Street</data>
+  <data key="d12">residential</data>
+  <data key="d9">False</data>
+  <data key="d13">True</data>
+  <data key="d14">70.452</data>
+  <data key="d15">0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="1669636105" target="1669636088" id="0">
+  <data key="d8">23296564</data>
+  <data key="d11">Merced Street</data>
+  <data key="d12">residential</data>
+  <data key="d9">False</data>
+  <data key="d13">False</data>
+  <data key="d14">43.302</data>
+  <data key="d15">0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+</graph></graphml>

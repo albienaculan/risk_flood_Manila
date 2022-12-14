@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d7" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d6" for="node" attr.name="highway" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 06:17:26</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="56116718">
+  <data key="d4">14.6082147</data>
+  <data key="d5">120.975497</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">1.763</data>
+</node>
+<node id="56118764">
+  <data key="d4">14.6061245</data>
+  <data key="d5">120.9748775</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">5</data>
+  <data key="d8">1.86</data>
+</node>
+<node id="56118765">
+  <data key="d4">14.6082035</data>
+  <data key="d5">120.9756507</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">1.912</data>
+</node>
+<node id="8600960651">
+  <data key="d4">14.6060282</data>
+  <data key="d5">120.9748442</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">1.948</data>
+</node>
+<node id="9897293240">
+  <data key="d4">14.6081862</data>
+  <data key="d5">120.9760156</data>
+  <data key="d7">4</data>
+  <data key="d8">1.65</data>
+</node>
+<edge source="56116718" target="56118765" id="0">
+  <data key="d9">161004990</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">Padre Algue Street</data>
+  <data key="d13">residential</data>
+  <data key="d14">30</data>
+  <data key="d15">False</data>
+  <data key="d16">16.585</data>
+  <data key="d17">0.009</data>
+  <data key="d18">0.009</data>
+</edge>
+<edge source="56116718" target="56118764" id="0">
+  <data key="d9">[934352636, 800184254]</data>
+  <data key="d10">True</data>
+  <data key="d11">4</data>
+  <data key="d19">151</data>
+  <data key="d12">Abad Santos Avenue</data>
+  <data key="d13">secondary</data>
+  <data key="d14">50</data>
+  <data key="d15">False</data>
+  <data key="d16">242.911</data>
+  <data key="d20">LINESTRING (120.975497 14.6082147, 120.9754709 14.6081345, 120.9752755 14.6075352, 120.9749385 14.6065009, 120.9749 14.6063828, 120.974893 14.6063612, 120.9748655 14.606273, 120.9748775 14.6061245)</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="56118764" target="8600960651" id="0">
+  <data key="d9">706334272</data>
+  <data key="d10">False</data>
+  <data key="d11">4</data>
+  <data key="d19">151</data>
+  <data key="d12">Abad Santos Avenue</data>
+  <data key="d13">secondary</data>
+  <data key="d14">50</data>
+  <data key="d15">True</data>
+  <data key="d16">11.292</data>
+  <data key="d17">0.008</data>
+  <data key="d18">0.008</data>
+</edge>
+<edge source="56118764" target="56118765" id="0">
+  <data key="d9">619827328</data>
+  <data key="d10">True</data>
+  <data key="d11">4</data>
+  <data key="d19">151</data>
+  <data key="d12">Abad Santos Avenue</data>
+  <data key="d13">secondary</data>
+  <data key="d14">50</data>
+  <data key="d15">False</data>
+  <data key="d16">246.89999999999998</data>
+  <data key="d20">LINESTRING (120.9748775 14.6061245, 120.9749775 14.6062348, 120.9754071 14.6074904, 120.9754191 14.6075256, 120.975622 14.6081195, 120.9756507 14.6082035)</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="56118765" target="56116718" id="0">
+  <data key="d9">161004990</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">Padre Algue Street</data>
+  <data key="d13">residential</data>
+  <data key="d14">30</data>
+  <data key="d15">True</data>
+  <data key="d16">16.585</data>
+  <data key="d17">-0.009</data>
+  <data key="d18">0.009</data>
+</edge>
+<edge source="56118765" target="9897293240" id="0">
+  <data key="d9">1092319549</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">Padre Algue Street</data>
+  <data key="d13">residential</data>
+  <data key="d14">30</data>
+  <data key="d15">False</data>
+  <data key="d16">39.311</data>
+  <data key="d17">-0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="8600960651" target="56118764" id="0">
+  <data key="d9">706334272</data>
+  <data key="d10">False</data>
+  <data key="d11">4</data>
+  <data key="d19">151</data>
+  <data key="d12">Abad Santos Avenue</data>
+  <data key="d13">secondary</data>
+  <data key="d14">50</data>
+  <data key="d15">False</data>
+  <data key="d16">11.292</data>
+  <data key="d17">-0.008</data>
+  <data key="d18">0.008</data>
+</edge>
+<edge source="9897293240" target="56118765" id="0">
+  <data key="d9">1092319549</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">Padre Algue Street</data>
+  <data key="d13">residential</data>
+  <data key="d14">30</data>
+  <data key="d15">True</data>
+  <data key="d16">39.311</data>
+  <data key="d17">0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+</graph></graphml>

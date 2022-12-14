@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="width" attr.type="string"/>
+<key id="d17" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:26:09</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="660582881">
+  <data key="d4">14.605502</data>
+  <data key="d5">120.9619525</data>
+  <data key="d6">3</data>
+  <data key="d7">3.72</data>
+</node>
+<node id="1732972286">
+  <data key="d4">14.6047308</data>
+  <data key="d5">120.9620337</data>
+  <data key="d6">3</data>
+  <data key="d7">3.977</data>
+</node>
+<node id="1732972301">
+  <data key="d4">14.6050294</data>
+  <data key="d5">120.9620086</data>
+  <data key="d6">4</data>
+  <data key="d7">3.766</data>
+</node>
+<node id="1732972309">
+  <data key="d4">14.6052701</data>
+  <data key="d5">120.9619814</data>
+  <data key="d6">4</data>
+  <data key="d7">3.641</data>
+</node>
+<node id="1732972314">
+  <data key="d4">14.6057582</data>
+  <data key="d5">120.9619204</data>
+  <data key="d6">4</data>
+  <data key="d7">3.781</data>
+</node>
+<node id="1733866025">
+  <data key="d4">14.604421</data>
+  <data key="d5">120.9620399</data>
+  <data key="d6">4</data>
+  <data key="d7">3.976</data>
+</node>
+<node id="1733866030">
+  <data key="d4">14.6047276</data>
+  <data key="d5">120.961998</data>
+  <data key="d6">3</data>
+  <data key="d7">3.94</data>
+</node>
+<edge source="660582881" target="1732972314" id="0">
+  <data key="d8">161306517</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">28.697</data>
+  <data key="d14">0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="660582881" target="1732972309" id="0">
+  <data key="d8">161306517</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">25.973</data>
+  <data key="d14">-0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1732972286" target="1733866030" id="0">
+  <data key="d8">161306367</data>
+  <data key="d16">2</data>
+  <data key="d9">Lakandula Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">30</data>
+  <data key="d18">9</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">3.858</data>
+  <data key="d14">-0.01</data>
+  <data key="d15">0.01</data>
+</edge>
+<edge source="1732972286" target="1732972301" id="0">
+  <data key="d8">161306517</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">33.313</data>
+  <data key="d14">-0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="1732972301" target="1732972309" id="0">
+  <data key="d8">161306517</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">26.924</data>
+  <data key="d14">-0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="1732972301" target="1732972286" id="0">
+  <data key="d8">161306517</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">33.313</data>
+  <data key="d14">0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="1732972309" target="660582881" id="0">
+  <data key="d8">161306517</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">25.973</data>
+  <data key="d14">0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1732972309" target="1732972301" id="0">
+  <data key="d8">161306517</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">26.924</data>
+  <data key="d14">0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="1732972314" target="660582881" id="0">
+  <data key="d8">161306517</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">28.697</data>
+  <data key="d14">-0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="1733866025" target="1733866030" id="0">
+  <data key="d8">161414189</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">34.389</data>
+  <data key="d14">-0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+<edge source="1733866030" target="1732972286" id="0">
+  <data key="d8">161306367</data>
+  <data key="d16">2</data>
+  <data key="d9">Lakandula Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d17">30</data>
+  <data key="d18">9</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">3.858</data>
+  <data key="d14">0.01</data>
+  <data key="d15">0.01</data>
+</edge>
+<edge source="1733866030" target="1733866025" id="0">
+  <data key="d8">161414189</data>
+  <data key="d9">Tagumpay Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">34.389</data>
+  <data key="d14">0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+</graph></graphml>

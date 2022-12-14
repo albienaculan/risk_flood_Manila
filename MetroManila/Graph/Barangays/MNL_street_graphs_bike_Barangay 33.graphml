@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="width" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:06:08</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="159492523">
+  <data key="d4">14.6048155</data>
+  <data key="d5">120.9626247</data>
+  <data key="d6">4</data>
+  <data key="d7">3.995</data>
+</node>
+<node id="244117644">
+  <data key="d4">14.6058109</data>
+  <data key="d5">120.9625414</data>
+  <data key="d6">3</data>
+  <data key="d7">3.872</data>
+</node>
+<node id="660582878">
+  <data key="d4">14.6053189</data>
+  <data key="d5">120.96258</data>
+  <data key="d6">3</data>
+  <data key="d7">3.998</data>
+</node>
+<node id="660582880">
+  <data key="d4">14.605062</data>
+  <data key="d5">120.9626059</data>
+  <data key="d6">3</data>
+  <data key="d7">3.989</data>
+</node>
+<node id="660582882">
+  <data key="d4">14.6055509</data>
+  <data key="d5">120.9625495</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1732972304">
+  <data key="d4">14.6051022</data>
+  <data key="d5">120.9632349</data>
+  <data key="d6">4</data>
+  <data key="d7">3.656</data>
+</node>
+<node id="1733946189">
+  <data key="d4">14.6048178</data>
+  <data key="d5">120.9629104</data>
+  <data key="d6">3</data>
+  <data key="d7">3.948</data>
+</node>
+<node id="2759151656">
+  <data key="d4">14.6049267</data>
+  <data key="d5">120.9628739</data>
+  <data key="d6">3</data>
+  <data key="d7">3.787</data>
+</node>
+<edge source="159492523" target="2759151656" id="0">
+  <data key="d8">161306367</data>
+  <data key="d9">2</data>
+  <data key="d10">Lakandula Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">9</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">29.528</data>
+  <data key="d17">-0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="159492523" target="660582880" id="0">
+  <data key="d8">674845804</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">27.484</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="244117644" target="660582882" id="0">
+  <data key="d8">674845804</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">28.924</data>
+  <data key="d17">0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="660582878" target="660582880" id="0">
+  <data key="d8">674845804</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">28.702</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="660582878" target="660582882" id="0">
+  <data key="d8">674845804</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">26.005</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="660582880" target="159492523" id="0">
+  <data key="d8">674845804</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">27.484</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="660582880" target="660582878" id="0">
+  <data key="d8">674845804</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">28.702</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="660582882" target="660582878" id="0">
+  <data key="d8">674845804</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">26.005</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="660582882" target="244117644" id="0">
+  <data key="d8">674845804</data>
+  <data key="d9">2</data>
+  <data key="d10">Kagitingan Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">28.924</data>
+  <data key="d17">-0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="1732972304" target="2759151656" id="0">
+  <data key="d8">161306367</data>
+  <data key="d9">2</data>
+  <data key="d10">Lakandula Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">9</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">43.471</data>
+  <data key="d17">0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="1733946189" target="2759151656" id="0">
+  <data key="d8">161424036</data>
+  <data key="d10">Mithi Street</data>
+  <data key="d11">residential</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">12.73</data>
+  <data key="d17">-0.013</data>
+  <data key="d18">0.013</data>
+</edge>
+<edge source="2759151656" target="159492523" id="0">
+  <data key="d8">161306367</data>
+  <data key="d9">2</data>
+  <data key="d10">Lakandula Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">9</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">29.528</data>
+  <data key="d17">0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="2759151656" target="1732972304" id="0">
+  <data key="d8">161306367</data>
+  <data key="d9">2</data>
+  <data key="d10">Lakandula Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d13">9</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">43.471</data>
+  <data key="d17">-0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="2759151656" target="1733946189" id="0">
+  <data key="d8">161424036</data>
+  <data key="d10">Mithi Street</data>
+  <data key="d11">residential</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">12.73</data>
+  <data key="d17">0.013</data>
+  <data key="d18">0.013</data>
+</edge>
+</graph></graphml>

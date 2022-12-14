@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:32:44</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="159442868">
+  <data key="d4">14.5828055</data>
+  <data key="d5">120.9948491</data>
+  <data key="d6">4</data>
+  <data key="d7">2.726</data>
+</node>
+<node id="360789972">
+  <data key="d4">14.5833771</data>
+  <data key="d5">120.9940074</data>
+  <data key="d6">3</data>
+  <data key="d7">2.927</data>
+</node>
+<node id="617535905">
+  <data key="d4">14.5834818</data>
+  <data key="d5">120.9947826</data>
+  <data key="d6">3</data>
+  <data key="d7">2.634</data>
+</node>
+<node id="5365194853">
+  <data key="d4">14.5827453</data>
+  <data key="d5">120.9943472</data>
+  <data key="d6">3</data>
+  <data key="d7">2.618</data>
+</node>
+<edge source="159442868" target="5365194853" id="0">
+  <data key="d8">556169844</data>
+  <data key="d9">2</data>
+  <data key="d10">Zulueta Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">54.424</data>
+  <data key="d15">-0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="159442868" target="617535905" id="0">
+  <data key="d8">642405979</data>
+  <data key="d9">2</data>
+  <data key="d10">Paz Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">75.541</data>
+  <data key="d15">-0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="360789972" target="5365194853" id="0">
+  <data key="d8">[573461192, 154837034, 369547538]</data>
+  <data key="d9">2</data>
+  <data key="d10">['Cristobal Street', 'Cuevas Street']</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">[False, True]</data>
+  <data key="d14">91.481</data>
+  <data key="d17">LINESTRING (120.9940074 14.5833771, 120.9940108 14.5833535, 120.9940772 14.5829202, 120.9943398 14.5828391, 120.9943472 14.5827453)</data>
+  <data key="d15">-0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="360789972" target="617535905" id="0">
+  <data key="d8">154837046</data>
+  <data key="d10">Ulilang Kawayan Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">84.22900000000001</data>
+  <data key="d17">LINESTRING (120.9940074 14.5833771, 120.994062 14.5833845, 120.9947026 14.583471, 120.9947826 14.5834818)</data>
+  <data key="d15">-0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="617535905" target="159442868" id="0">
+  <data key="d8">642405979</data>
+  <data key="d9">2</data>
+  <data key="d10">Paz Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">75.541</data>
+  <data key="d15">0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="617535905" target="360789972" id="0">
+  <data key="d8">154837046</data>
+  <data key="d10">Ulilang Kawayan Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">84.22899999999998</data>
+  <data key="d17">LINESTRING (120.9947826 14.5834818, 120.9947026 14.583471, 120.994062 14.5833845, 120.9940074 14.5833771)</data>
+  <data key="d15">0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="5365194853" target="159442868" id="0">
+  <data key="d8">556169844</data>
+  <data key="d9">2</data>
+  <data key="d10">Zulueta Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">54.424</data>
+  <data key="d15">0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="5365194853" target="360789972" id="0">
+  <data key="d8">[573461192, 369547538, 154837034]</data>
+  <data key="d10">['Cristobal Street', 'Cuevas Street']</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">[False, True]</data>
+  <data key="d14">91.48100000000001</data>
+  <data key="d9">2</data>
+  <data key="d17">LINESTRING (120.9943472 14.5827453, 120.9943398 14.5828391, 120.9940772 14.5829202, 120.9940108 14.5833535, 120.9940074 14.5833771)</data>
+  <data key="d15">0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+</graph></graphml>

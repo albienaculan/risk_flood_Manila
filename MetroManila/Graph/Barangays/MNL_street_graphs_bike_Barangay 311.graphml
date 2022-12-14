@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:27:20</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="67758398">
+  <data key="d4">14.6066487</data>
+  <data key="d5">120.9829715</data>
+  <data key="d6">3</data>
+  <data key="d7">2.166</data>
+</node>
+<node id="67766425">
+  <data key="d4">14.6064777</data>
+  <data key="d5">120.9829594</data>
+  <data key="d6">3</data>
+  <data key="d7">2.351</data>
+</node>
+<node id="67767353">
+  <data key="d4">14.6065414</data>
+  <data key="d5">120.9820628</data>
+  <data key="d6">4</data>
+  <data key="d7">2.772</data>
+</node>
+<node id="67772940">
+  <data key="d4">14.6066089</data>
+  <data key="d5">120.9810625</data>
+  <data key="d6">4</data>
+  <data key="d7">2.165</data>
+</node>
+<node id="191592353">
+  <data key="d4">14.6065341</data>
+  <data key="d5">120.9821644</data>
+  <data key="d6">4</data>
+  <data key="d7">2.876</data>
+</node>
+<node id="1278048438">
+  <data key="d4">14.6065032</data>
+  <data key="d5">120.9825626</data>
+  <data key="d6">3</data>
+  <data key="d7">2.401</data>
+</node>
+<node id="1763090563">
+  <data key="d4">14.6065767</data>
+  <data key="d5">120.9815783</data>
+  <data key="d6">3</data>
+  <data key="d7">2.383</data>
+</node>
+<edge source="67766425" target="67758398" id="0">
+  <data key="d8">150158669</data>
+  <data key="d9">True</data>
+  <data key="d10">3</data>
+  <data key="d11">Oroquieta Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">19.059</data>
+  <data key="d16">-0.01</data>
+  <data key="d17">0.01</data>
+</edge>
+<edge source="67766425" target="1278048438" id="0">
+  <data key="d8">634092852</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">42.79</data>
+  <data key="d18">LINESTRING (120.9829594 14.6064777, 120.9829205 14.6064802, 120.9825626 14.6065032)</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="67767353" target="1763090563" id="0">
+  <data key="d8">9137588</data>
+  <data key="d10">4</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">52.28</data>
+  <data key="d16">-0.007</data>
+  <data key="d17">0.007</data>
+</edge>
+<edge source="67767353" target="191592353" id="0">
+  <data key="d8">[806249275, 634092852]</data>
+  <data key="d10">2</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">10.964</data>
+  <data key="d18">LINESTRING (120.9820628 14.6065414, 120.9820847 14.6065396, 120.9821216 14.6065364, 120.9821415 14.6065355, 120.9821644 14.6065341)</data>
+  <data key="d16">0.009</data>
+  <data key="d17">0.009</data>
+</edge>
+<edge source="67772940" target="1763090563" id="0">
+  <data key="d8">9137588</data>
+  <data key="d10">4</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">55.616</data>
+  <data key="d16">0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+<edge source="191592353" target="1278048438" id="0">
+  <data key="d8">634092852</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">42.984</data>
+  <data key="d16">-0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="191592353" target="67767353" id="0">
+  <data key="d8">[806249275, 634092852]</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">10.964</data>
+  <data key="d10">2</data>
+  <data key="d18">LINESTRING (120.9821644 14.6065341, 120.9821415 14.6065355, 120.9821216 14.6065364, 120.9820847 14.6065396, 120.9820628 14.6065414)</data>
+  <data key="d16">-0.009</data>
+  <data key="d17">0.009</data>
+</edge>
+<edge source="1278048438" target="191592353" id="0">
+  <data key="d8">634092852</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">42.984</data>
+  <data key="d16">0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="1278048438" target="67766425" id="0">
+  <data key="d8">634092852</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">42.79</data>
+  <data key="d18">LINESTRING (120.9825626 14.6065032, 120.9829205 14.6064802, 120.9829594 14.6064777)</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1763090563" target="67772940" id="0">
+  <data key="d8">9137588</data>
+  <data key="d10">4</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">55.616</data>
+  <data key="d16">-0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+<edge source="1763090563" target="67767353" id="0">
+  <data key="d8">9137588</data>
+  <data key="d10">4</data>
+  <data key="d11">Lope de Vega Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">30</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">52.28</data>
+  <data key="d16">0.007</data>
+  <data key="d17">0.007</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="width" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:51:45</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="168214360">
+  <data key="d4">14.6321113</data>
+  <data key="d5">120.9640217</data>
+  <data key="d6">4</data>
+  <data key="d7">2.927</data>
+</node>
+<node id="168220731">
+  <data key="d4">14.6314529</data>
+  <data key="d5">120.9638971</data>
+  <data key="d6">3</data>
+  <data key="d7">2.454</data>
+</node>
+<node id="696577376">
+  <data key="d4">14.6325873</data>
+  <data key="d5">120.9638054</data>
+  <data key="d6">3</data>
+  <data key="d7">2.877</data>
+</node>
+<node id="2596351901">
+  <data key="d4">14.6319639</data>
+  <data key="d5">120.9636609</data>
+  <data key="d6">3</data>
+  <data key="d7">2.999</data>
+</node>
+<node id="8654886951">
+  <data key="d4">14.6317848</data>
+  <data key="d5">120.9637437</data>
+  <data key="d6">3</data>
+  <data key="d7">2.478</data>
+</node>
+<node id="8654886952">
+  <data key="d4">14.6316823</data>
+  <data key="d5">120.9635127</data>
+  <data key="d6">3</data>
+  <data key="d7">2.629</data>
+</node>
+<node id="8654886960">
+  <data key="d4">14.6313546</data>
+  <data key="d5">120.9639423</data>
+  <data key="d6">3</data>
+  <data key="d7">2.492</data>
+</node>
+<node id="8654886961">
+  <data key="d4">14.6312845</data>
+  <data key="d5">120.9637672</data>
+  <data key="d6">3</data>
+  <data key="d7">2.467</data>
+</node>
+<node id="8654886962">
+  <data key="d4">14.6312366</data>
+  <data key="d5">120.9639966</data>
+  <data key="d6">3</data>
+  <data key="d7">2.525</data>
+</node>
+<node id="8654886964">
+  <data key="d4">14.631373</data>
+  <data key="d5">120.9637184</data>
+  <data key="d6">3</data>
+  <data key="d7">2.459</data>
+</node>
+<node id="8655694686">
+  <data key="d4">14.6317308</data>
+  <data key="d5">120.9634919</data>
+  <data key="d6">1</data>
+  <data key="d7">2.723</data>
+</node>
+<node id="8669202480">
+  <data key="d4">14.6324526</data>
+  <data key="d5">120.9634443</data>
+  <data key="d6">3</data>
+  <data key="d7">2.697</data>
+</node>
+<node id="8669202487">
+  <data key="d4">14.632251</data>
+  <data key="d5">120.9635336</data>
+  <data key="d6">3</data>
+  <data key="d7">3.089</data>
+</node>
+<node id="9976297025">
+  <data key="d4">14.6313478</data>
+  <data key="d5">120.963655</data>
+  <data key="d6">3</data>
+  <data key="d7">2.601</data>
+</node>
+<edge source="168214360" target="2596351901" id="0">
+  <data key="d8">832856240</data>
+  <data key="d9">2</data>
+  <data key="d10">Simeon de Jesus Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">10.5</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">42.136</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="168214360" target="696577376" id="0">
+  <data key="d8">16355844</data>
+  <data key="d9">2</data>
+  <data key="d10">Malaya Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">57.819</data>
+  <data key="d19">LINESTRING (120.9640217 14.6321113, 120.9640016 14.6321544, 120.9638054 14.6325873)</data>
+  <data key="d17">-0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="168220731" target="8654886964" id="0">
+  <data key="d8">16355996</data>
+  <data key="d9">2</data>
+  <data key="d10">Kaunlaran Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">20</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">21.18</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="168220731" target="8654886951" id="0">
+  <data key="d8">833696305</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">40.428</data>
+  <data key="d17">0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="168220731" target="8654886960" id="0">
+  <data key="d8">833696305</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">11.963</data>
+  <data key="d17">0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="696577376" target="168214360" id="0">
+  <data key="d8">16355844</data>
+  <data key="d9">2</data>
+  <data key="d10">Malaya Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">57.819</data>
+  <data key="d19">LINESTRING (120.9638054 14.6325873, 120.9640016 14.6321544, 120.9640217 14.6321113)</data>
+  <data key="d17">0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="2596351901" target="8669202487" id="0">
+  <data key="d8">22748886</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">34.738</data>
+  <data key="d17">0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="2596351901" target="168214360" id="0">
+  <data key="d8">832856240</data>
+  <data key="d9">2</data>
+  <data key="d10">Simeon de Jesus Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">10.5</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">42.136</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="2596351901" target="8654886951" id="0">
+  <data key="d8">833696305</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">21.817</data>
+  <data key="d17">-0.024</data>
+  <data key="d18">0.024</data>
+</edge>
+<edge source="8654886951" target="2596351901" id="0">
+  <data key="d8">833696305</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">21.817</data>
+  <data key="d17">0.024</data>
+  <data key="d18">0.024</data>
+</edge>
+<edge source="8654886951" target="168220731" id="0">
+  <data key="d8">833696305</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">40.428</data>
+  <data key="d17">-0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="8654886951" target="8654886952" id="0">
+  <data key="d8">933799687</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">27.347</data>
+  <data key="d19">LINESTRING (120.9637437 14.6317848, 120.9636703 14.6317545, 120.9635127 14.6316823)</data>
+  <data key="d17">0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="8654886952" target="8655694686" id="0">
+  <data key="d8">933799687</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">5.839</data>
+  <data key="d17">0.016</data>
+  <data key="d18">0.016</data>
+</edge>
+<edge source="8654886952" target="8654886951" id="0">
+  <data key="d8">933799687</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">27.347</data>
+  <data key="d19">LINESTRING (120.9635127 14.6316823, 120.9636703 14.6317545, 120.9637437 14.6317848)</data>
+  <data key="d17">-0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="8654886952" target="9976297025" id="0">
+  <data key="d8">1088980572</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">40.222</data>
+  <data key="d19">LINESTRING (120.9635127 14.6316823, 120.9636303 14.6314058, 120.963655 14.6313478)</data>
+  <data key="d17">-0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="8654886960" target="168220731" id="0">
+  <data key="d8">833696305</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">11.963</data>
+  <data key="d17">-0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="8654886960" target="8654886962" id="0">
+  <data key="d8">833696305</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">14.363</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="8654886960" target="8654886961" id="0">
+  <data key="d8">933799692</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">20.388</data>
+  <data key="d17">-0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="8654886961" target="8654886960" id="0">
+  <data key="d8">933799692</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">20.388</data>
+  <data key="d17">0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="8654886961" target="8654886964" id="0">
+  <data key="d8">933799693</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">11.154</data>
+  <data key="d17">-0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="8654886961" target="8654886962" id="0">
+  <data key="d8">[933799689, 933799690, 933799693]</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">36.816</data>
+  <data key="d19">LINESTRING (120.9637672 14.6312845, 120.9637822 14.6312541, 120.9638138 14.6311883, 120.9638326 14.6311488, 120.9639966 14.6312366)</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="8654886962" target="8654886960" id="0">
+  <data key="d8">833696305</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">14.363</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="8654886962" target="8654886961" id="0">
+  <data key="d8">[933799689, 933799690, 933799693]</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">36.816</data>
+  <data key="d19">LINESTRING (120.9639966 14.6312366, 120.9638326 14.6311488, 120.9638138 14.6311883, 120.9637822 14.6312541, 120.9637672 14.6312845)</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="8654886964" target="9976297025" id="0">
+  <data key="d8">16355996</data>
+  <data key="d9">2</data>
+  <data key="d10">Kaunlaran Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">20</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">7.374</data>
+  <data key="d17">0.019</data>
+  <data key="d18">0.019</data>
+</edge>
+<edge source="8654886964" target="168220731" id="0">
+  <data key="d8">16355996</data>
+  <data key="d9">2</data>
+  <data key="d10">Kaunlaran Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">20</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">21.18</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="8654886964" target="8654886961" id="0">
+  <data key="d8">933799693</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">11.154</data>
+  <data key="d17">0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="8655694686" target="8654886952" id="0">
+  <data key="d8">933799687</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">5.839</data>
+  <data key="d17">-0.016</data>
+  <data key="d18">0.016</data>
+</edge>
+<edge source="8669202480" target="8669202487" id="0">
+  <data key="d8">22748886</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">24.389</data>
+  <data key="d17">0.016</data>
+  <data key="d18">0.016</data>
+</edge>
+<edge source="8669202487" target="8669202480" id="0">
+  <data key="d8">22748886</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">24.389</data>
+  <data key="d17">-0.016</data>
+  <data key="d18">0.016</data>
+</edge>
+<edge source="8669202487" target="8669202480" id="1">
+  <data key="d8">935492008</data>
+  <data key="d14">True</data>
+  <data key="d11">service</data>
+  <data key="d15">False</data>
+  <data key="d16">51.33800000000001</data>
+  <data key="d19">LINESTRING (120.9635336 14.632251, 120.9636246 14.6323092, 120.9636491 14.6323545, 120.9636565 14.6323916, 120.963614 14.632474, 120.9635725 14.6324925, 120.9635214 14.6324832, 120.9634443 14.6324526)</data>
+  <data key="d17">-0.008</data>
+  <data key="d18">0.008</data>
+</edge>
+<edge source="8669202487" target="2596351901" id="0">
+  <data key="d8">22748886</data>
+  <data key="d9">4</data>
+  <data key="d10">Honorio Lopez Boulevard</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">14</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">34.738</data>
+  <data key="d17">-0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="9976297025" target="8654886964" id="0">
+  <data key="d8">16355996</data>
+  <data key="d9">2</data>
+  <data key="d10">Kaunlaran Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">20</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">7.374</data>
+  <data key="d17">-0.019</data>
+  <data key="d18">0.019</data>
+</edge>
+<edge source="9976297025" target="8654886952" id="0">
+  <data key="d8">1088980572</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">40.222</data>
+  <data key="d19">LINESTRING (120.963655 14.6313478, 120.9636303 14.6314058, 120.9635127 14.6316823)</data>
+  <data key="d17">0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+</graph></graphml>

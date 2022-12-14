@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="bridge" attr.type="string"/>
+<key id="d18" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d17" for="edge" attr.name="name" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="service" attr.type="string"/>
+<key id="d9" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:59:50</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="168173034">
+  <data key="d4">14.6036407</data>
+  <data key="d5">120.9775064</data>
+  <data key="d6">3</data>
+  <data key="d7">2.388</data>
+</node>
+<node id="2433227282">
+  <data key="d4">14.6034149</data>
+  <data key="d5">120.9783342</data>
+  <data key="d6">3</data>
+  <data key="d7">2.505</data>
+</node>
+<node id="2503484504">
+  <data key="d4">14.6038997</data>
+  <data key="d5">120.9784749</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="2528863594">
+  <data key="d4">14.6040645</data>
+  <data key="d5">120.9779136</data>
+  <data key="d6">1</data>
+  <data key="d7">3.874</data>
+</node>
+<edge source="2433227282" target="2503484504" id="0">
+  <data key="d8">235243427</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">55.993</data>
+  <data key="d14">0.027</data>
+  <data key="d15">0.027</data>
+</edge>
+<edge source="2433227282" target="168173034" id="0">
+  <data key="d8">[668192794, 949912398, 161271191]</data>
+  <data key="d11">True</data>
+  <data key="d16">2</data>
+  <data key="d17">Soler Street</data>
+  <data key="d9">tertiary</data>
+  <data key="d18">30</data>
+  <data key="d12">False</data>
+  <data key="d13">92.546</data>
+  <data key="d19">yes</data>
+  <data key="d20">LINESTRING (120.9783342 14.6034149, 120.9778228 14.6035559, 120.9777911 14.6035644, 120.9776353 14.6036061, 120.9775064 14.6036407)</data>
+  <data key="d14">-0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+<edge source="2503484504" target="2528863594" id="0">
+  <data key="d8">16354368</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">63.116</data>
+  <data key="d14">-0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="2503484504" target="2433227282" id="0">
+  <data key="d8">235243427</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">55.993</data>
+  <data key="d14">-0.027</data>
+  <data key="d15">0.027</data>
+</edge>
+<edge source="2528863594" target="2503484504" id="0">
+  <data key="d8">16354368</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">63.116</data>
+  <data key="d14">0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+</graph></graphml>

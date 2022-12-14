@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="access" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:56:51</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="1669669754">
+  <data key="d4">14.5782268</data>
+  <data key="d5">121.0080128</data>
+  <data key="d6">3</data>
+  <data key="d7">3.776</data>
+</node>
+<node id="1671448060">
+  <data key="d4">14.5785665</data>
+  <data key="d5">121.0083515</data>
+  <data key="d6">3</data>
+  <data key="d7">3.484</data>
+</node>
+<edge source="1669669754" target="1671448060" id="0">
+  <data key="d8">126337547</data>
+  <data key="d9">2</data>
+  <data key="d10">Augusto Francisco Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">52.491</data>
+  <data key="d16">LINESTRING (121.0080128 14.5782268, 121.0081024 14.5783166, 121.0083515 14.5785665)</data>
+  <data key="d17">-0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="1669669754" target="1671448060" id="1">
+  <data key="d8">[15696006, 1070127221, 1070127222]</data>
+  <data key="d9">2</data>
+  <data key="d10">['Pilar Estate', 'Pilar Estate Ⅱ']</data>
+  <data key="d11">residential</data>
+  <data key="d19">destination</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">240.65400000000002</data>
+  <data key="d16">LINESTRING (121.0080128 14.5782268, 121.0082001 14.5780535, 121.0083388 14.5779232, 121.0086019 14.577676, 121.0088739 14.5779181, 121.0090147 14.578035, 121.0088676 14.5781664, 121.008662 14.5783391, 121.0085917 14.5783981, 121.0083515 14.5785665)</data>
+  <data key="d17">-0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="1671448060" target="1669669754" id="0">
+  <data key="d8">[1070127222, 1070127221, 15696006]</data>
+  <data key="d9">2</data>
+  <data key="d10">['Pilar Estate', 'Pilar Estate Ⅱ']</data>
+  <data key="d11">residential</data>
+  <data key="d19">destination</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">240.654</data>
+  <data key="d16">LINESTRING (121.0083515 14.5785665, 121.0085917 14.5783981, 121.008662 14.5783391, 121.0088676 14.5781664, 121.0090147 14.578035, 121.0088739 14.5779181, 121.0086019 14.577676, 121.0083388 14.5779232, 121.0082001 14.5780535, 121.0080128 14.5782268)</data>
+  <data key="d17">0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="1671448060" target="1669669754" id="1">
+  <data key="d8">126337547</data>
+  <data key="d9">2</data>
+  <data key="d10">Augusto Francisco Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">52.491</data>
+  <data key="d16">LINESTRING (121.0083515 14.5785665, 121.0081024 14.5783166, 121.0080128 14.5782268)</data>
+  <data key="d17">0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+</graph></graphml>

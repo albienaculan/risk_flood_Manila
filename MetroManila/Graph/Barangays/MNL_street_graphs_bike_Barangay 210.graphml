@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d21" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d20" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="length" attr.type="string"/>
+<key id="d16" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d15" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d14" for="edge" attr.name="width" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d7" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d6" for="node" attr.name="highway" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:38:19</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="56113540">
+  <data key="d4">14.627026</data>
+  <data key="d5">120.9786782</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">2.626</data>
+</node>
+<node id="56118773">
+  <data key="d4">14.6270636</data>
+  <data key="d5">120.9788225</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">2.519</data>
+</node>
+<node id="6643623472">
+  <data key="d4">14.6274257</data>
+  <data key="d5">120.9789505</data>
+  <data key="d7">3</data>
+  <data key="d8">2.45</data>
+</node>
+<node id="6643623476">
+  <data key="d4">14.6271616</data>
+  <data key="d5">120.9791929</data>
+  <data key="d7">3</data>
+  <data key="d8">2.413</data>
+</node>
+<edge source="56113540" target="56118773" id="0">
+  <data key="d9">833362318</data>
+  <data key="d10">2</data>
+  <data key="d11">Solis Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">6.1</data>
+  <data key="d15">False</data>
+  <data key="d16">True</data>
+  <data key="d17">16.079</data>
+  <data key="d18">-0.007</data>
+  <data key="d19">0.007</data>
+</edge>
+<edge source="56118773" target="6643623472" id="0">
+  <data key="d9">22749795</data>
+  <data key="d15">True</data>
+  <data key="d10">3</data>
+  <data key="d20">151</data>
+  <data key="d11">Abad Santos Avenue</data>
+  <data key="d12">secondary</data>
+  <data key="d13">50</data>
+  <data key="d16">False</data>
+  <data key="d17">42.554</data>
+  <data key="d18">-0.002</data>
+  <data key="d19">0.002</data>
+</edge>
+<edge source="56118773" target="6643623476" id="0">
+  <data key="d9">833362302</data>
+  <data key="d10">2</data>
+  <data key="d11">Solis Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">6.1</data>
+  <data key="d15">False</data>
+  <data key="d16">True</data>
+  <data key="d17">41.315</data>
+  <data key="d18">-0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="56118773" target="56113540" id="0">
+  <data key="d9">833362318</data>
+  <data key="d10">2</data>
+  <data key="d11">Solis Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">6.1</data>
+  <data key="d15">False</data>
+  <data key="d16">False</data>
+  <data key="d17">16.079</data>
+  <data key="d18">0.007</data>
+  <data key="d19">0.007</data>
+</edge>
+<edge source="6643623476" target="56118773" id="0">
+  <data key="d9">833362302</data>
+  <data key="d10">2</data>
+  <data key="d11">Solis Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">6.1</data>
+  <data key="d15">False</data>
+  <data key="d16">False</data>
+  <data key="d17">41.315</data>
+  <data key="d18">0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="6643623476" target="6643623472" id="0">
+  <data key="d9">706978633</data>
+  <data key="d15">True</data>
+  <data key="d10">1</data>
+  <data key="d12">secondary_link</data>
+  <data key="d16">False</data>
+  <data key="d17">46.452</data>
+  <data key="d21">LINESTRING (120.9791929 14.6271616, 120.9791245 14.6271677, 120.9790782 14.6271742, 120.9790343 14.6271871, 120.9790038 14.6272108, 120.9789857 14.6272397, 120.9789773 14.6272611, 120.9789699 14.6272832, 120.9789636 14.6273529, 120.9789505 14.6274257)</data>
+  <data key="d18">0.001</data>
+  <data key="d19">0.001</data>
+</edge>
+</graph></graphml>

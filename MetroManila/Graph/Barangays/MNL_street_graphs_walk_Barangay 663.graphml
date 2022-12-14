@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="service" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:19:03</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="1037266972">
+  <data key="d4">14.5895368</data>
+  <data key="d5">120.9842455</data>
+  <data key="d6">3</data>
+  <data key="d7">2.731</data>
+</node>
+<node id="6133930522">
+  <data key="d4">14.5904262</data>
+  <data key="d5">120.9846757</data>
+  <data key="d6">3</data>
+  <data key="d7">3.254</data>
+</node>
+<node id="7180482604">
+  <data key="d4">14.5903796</data>
+  <data key="d5">120.9832642</data>
+  <data key="d6">3</data>
+  <data key="d7">2.097</data>
+</node>
+<node id="7180482609">
+  <data key="d4">14.5904099</data>
+  <data key="d5">120.9835972</data>
+  <data key="d6">4</data>
+  <data key="d7">1.753</data>
+</node>
+<node id="7361433418">
+  <data key="d4">14.5904125</data>
+  <data key="d5">120.9838343</data>
+  <data key="d6">4</data>
+  <data key="d7">1.436</data>
+</node>
+<node id="9791026052">
+  <data key="d4">14.5901468</data>
+  <data key="d5">120.9844427</data>
+  <data key="d6">1</data>
+  <data key="d7">2.225</data>
+</node>
+<node id="9791026053">
+  <data key="d4">14.5904215</data>
+  <data key="d5">120.9844359</data>
+  <data key="d6">3</data>
+  <data key="d7">2.323</data>
+</node>
+<node id="9944017476">
+  <data key="d4">14.5904903</data>
+  <data key="d5">120.9838342</data>
+  <data key="d6">1</data>
+  <data key="d7">1.479</data>
+</node>
+<node id="9944027042">
+  <data key="d4">14.5904637</data>
+  <data key="d5">120.98458</data>
+  <data key="d6">1</data>
+  <data key="d7">3.563</data>
+</node>
+<node id="9944027043">
+  <data key="d4">14.5904243</data>
+  <data key="d5">120.98458</data>
+  <data key="d6">3</data>
+  <data key="d7">3.072</data>
+</node>
+<edge source="1037266972" target="7361433418" id="0">
+  <data key="d8">787332303</data>
+  <data key="d9">False</data>
+  <data key="d10">3</data>
+  <data key="d11">San Marcelino Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">True</data>
+  <data key="d15">107.193</data>
+  <data key="d16">LINESTRING (120.9842455 14.5895368, 120.9839053 14.5903007, 120.9838837 14.5903432, 120.9838602 14.5903852, 120.9838343 14.5904125)</data>
+  <data key="d17">-0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="6133930522" target="9944027043" id="0">
+  <data key="d8">163844197</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">10.3</data>
+  <data key="d17">-0.018</data>
+  <data key="d18">0.018</data>
+</edge>
+<edge source="7180482604" target="7180482609" id="0">
+  <data key="d8">[769206217, 1079261137]</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">36.608000000000004</data>
+  <data key="d16">LINESTRING (120.9832642 14.5903796, 120.9835562 14.5903866, 120.9835787 14.5903953, 120.9835972 14.5904099)</data>
+  <data key="d17">-0.009</data>
+  <data key="d18">0.009</data>
+</edge>
+<edge source="7180482609" target="7361433418" id="0">
+  <data key="d8">603213627</data>
+  <data key="d9">False</data>
+  <data key="d10">4</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">True</data>
+  <data key="d15">25.516</data>
+  <data key="d17">-0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="7180482609" target="7180482604" id="0">
+  <data key="d8">[1079261137, 769206217]</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">True</data>
+  <data key="d15">36.608</data>
+  <data key="d16">LINESTRING (120.9835972 14.5904099, 120.9835787 14.5903953, 120.9835562 14.5903866, 120.9832642 14.5903796)</data>
+  <data key="d17">0.009</data>
+  <data key="d18">0.009</data>
+</edge>
+<edge source="7361433418" target="7180482609" id="0">
+  <data key="d8">603213627</data>
+  <data key="d9">False</data>
+  <data key="d10">4</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">25.516</data>
+  <data key="d17">0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="7361433418" target="9944017476" id="0">
+  <data key="d8">1085241661</data>
+  <data key="d12">service</data>
+  <data key="d19">driveway</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">8.651</data>
+  <data key="d17">0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="7361433418" target="9791026053" id="0">
+  <data key="d8">163844197</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">True</data>
+  <data key="d15">64.74799999999999</data>
+  <data key="d16">LINESTRING (120.9838343 14.5904125, 120.9841205 14.590418, 120.984296 14.5904187, 120.9844359 14.5904215)</data>
+  <data key="d17">0.014</data>
+  <data key="d18">0.014</data>
+</edge>
+<edge source="7361433418" target="1037266972" id="0">
+  <data key="d8">787332303</data>
+  <data key="d9">False</data>
+  <data key="d10">3</data>
+  <data key="d11">San Marcelino Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">107.19300000000001</data>
+  <data key="d16">LINESTRING (120.9838343 14.5904125, 120.9838602 14.5903852, 120.9838837 14.5903432, 120.9839053 14.5903007, 120.9842455 14.5895368)</data>
+  <data key="d17">0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="9791026052" target="9791026053" id="0">
+  <data key="d8">1066220803</data>
+  <data key="d12">service</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">30.554</data>
+  <data key="d17">0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="9791026053" target="9944027043" id="0">
+  <data key="d8">163844197</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">True</data>
+  <data key="d15">15.51</data>
+  <data key="d17">0.048</data>
+  <data key="d18">0.048</data>
+</edge>
+<edge source="9791026053" target="9791026052" id="0">
+  <data key="d8">1066220803</data>
+  <data key="d12">service</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">30.554</data>
+  <data key="d17">-0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="9791026053" target="7361433418" id="0">
+  <data key="d8">163844197</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">64.748</data>
+  <data key="d16">LINESTRING (120.9844359 14.5904215, 120.984296 14.5904187, 120.9841205 14.590418, 120.9838343 14.5904125)</data>
+  <data key="d17">-0.014</data>
+  <data key="d18">0.014</data>
+</edge>
+<edge source="9944017476" target="7361433418" id="0">
+  <data key="d8">1085241661</data>
+  <data key="d12">service</data>
+  <data key="d19">driveway</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">8.651</data>
+  <data key="d17">-0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="9944027042" target="9944027043" id="0">
+  <data key="d8">1085241286</data>
+  <data key="d12">service</data>
+  <data key="d19">driveway</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">4.381</data>
+  <data key="d17">-0.112</data>
+  <data key="d18">0.112</data>
+</edge>
+<edge source="9944027043" target="9791026053" id="0">
+  <data key="d8">163844197</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">15.51</data>
+  <data key="d17">-0.048</data>
+  <data key="d18">0.048</data>
+</edge>
+<edge source="9944027043" target="6133930522" id="0">
+  <data key="d8">163844197</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">True</data>
+  <data key="d15">10.3</data>
+  <data key="d17">0.018</data>
+  <data key="d18">0.018</data>
+</edge>
+<edge source="9944027043" target="9944027042" id="0">
+  <data key="d8">1085241286</data>
+  <data key="d12">service</data>
+  <data key="d19">driveway</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">4.381</data>
+  <data key="d17">0.112</data>
+  <data key="d18">0.112</data>
+</edge>
+</graph></graphml>

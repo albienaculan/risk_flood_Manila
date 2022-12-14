@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d21" for="edge" attr.name="width" attr.type="string"/>
+<key id="d20" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d7" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d6" for="node" attr.name="highway" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:29:52</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="130167616">
+  <data key="d4">14.6153714</data>
+  <data key="d5">120.9991215</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">3.382</data>
+</node>
+<node id="1599531307">
+  <data key="d4">14.6150734</data>
+  <data key="d5">120.9994403</data>
+  <data key="d7">3</data>
+  <data key="d8">3.54</data>
+</node>
+<node id="61091102">
+  <data key="d4">14.6148805</data>
+  <data key="d5">120.9985895</data>
+  <data key="d7">3</data>
+  <data key="d8">3.244</data>
+</node>
+<node id="79641303">
+  <data key="d4">14.6151188</data>
+  <data key="d5">120.998853</data>
+  <data key="d7">3</data>
+  <data key="d8">2.652</data>
+</node>
+<edge source="130167616" target="1599531307" id="0">
+  <data key="d9">[713606281, 1109178108]</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d12">Blumentritt Street</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">47.754000000000005</data>
+  <data key="d17">LINESTRING (120.9991215 14.6153714, 120.9991779 14.6153126, 120.9992663 14.6152209, 120.9994201 14.6150902, 120.9994403 14.6150734)</data>
+  <data key="d18">0.003</data>
+  <data key="d19">0.003</data>
+</edge>
+<edge source="61091102" target="79641303" id="0">
+  <data key="d9">105688280</data>
+  <data key="d10">True</data>
+  <data key="d11">4</data>
+  <data key="d20">170</data>
+  <data key="d12">España Boulevard</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d21">11.1</data>
+  <data key="d15">False</data>
+  <data key="d16">38.807</data>
+  <data key="d18">-0.015</data>
+  <data key="d19">0.015</data>
+</edge>
+<edge source="79641303" target="130167616" id="0">
+  <data key="d9">[86123272, 1109178109]</data>
+  <data key="d10">True</data>
+  <data key="d11">4</data>
+  <data key="d20">170</data>
+  <data key="d12">España Boulevard</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d21">11.1</data>
+  <data key="d15">False</data>
+  <data key="d16">40.295</data>
+  <data key="d17">LINESTRING (120.998853 14.6151188, 120.9988999 14.6151646, 120.9990234 14.6152786, 120.9991215 14.6153714)</data>
+  <data key="d18">0.018</data>
+  <data key="d19">0.018</data>
+</edge>
+</graph></graphml>

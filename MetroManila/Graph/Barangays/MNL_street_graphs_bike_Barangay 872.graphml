@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="service" attr.type="string"/>
+<key id="d9" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:57:17</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="6048415905">
+  <data key="d4">14.5840197</data>
+  <data key="d5">120.9999925</data>
+  <data key="d6">1</data>
+  <data key="d7">2.573</data>
+</node>
+<node id="6048415911">
+  <data key="d4">14.5838661</data>
+  <data key="d5">121.0001225</data>
+  <data key="d6">1</data>
+  <data key="d7">4.427</data>
+</node>
+<node id="6618812357">
+  <data key="d4">14.5839065</data>
+  <data key="d5">120.9998279</data>
+  <data key="d6">4</data>
+  <data key="d7">4.754</data>
+</node>
+<node id="6619069424">
+  <data key="d4">14.5837454</data>
+  <data key="d5">120.9999569</data>
+  <data key="d6">4</data>
+  <data key="d7">4.335</data>
+</node>
+<edge source="6048415905" target="6618812357" id="0">
+  <data key="d8">642494367</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">21.73</data>
+  <data key="d14">0.1</data>
+  <data key="d15">0.1</data>
+</edge>
+<edge source="6048415911" target="6619069424" id="0">
+  <data key="d8">642494368</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">22.309</data>
+  <data key="d14">-0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="6618812357" target="6048415905" id="0">
+  <data key="d8">642494367</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">21.73</data>
+  <data key="d14">-0.1</data>
+  <data key="d15">0.1</data>
+</edge>
+<edge source="6618812357" target="6619069424" id="0">
+  <data key="d8">642494371</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">22.663</data>
+  <data key="d14">-0.018</data>
+  <data key="d15">0.018</data>
+</edge>
+<edge source="6619069424" target="6048415911" id="0">
+  <data key="d8">642494368</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">22.309</data>
+  <data key="d14">0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="6619069424" target="6618812357" id="0">
+  <data key="d8">642494371</data>
+  <data key="d9">service</data>
+  <data key="d10">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">22.663</data>
+  <data key="d14">0.018</data>
+  <data key="d15">0.018</data>
+</edge>
+</graph></graphml>

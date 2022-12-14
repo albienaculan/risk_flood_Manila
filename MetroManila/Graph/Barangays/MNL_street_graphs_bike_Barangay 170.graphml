@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="width" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 06:52:02</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="31461468">
+  <data key="d4">14.6258376</data>
+  <data key="d5">120.9666205</data>
+  <data key="d6">4</data>
+  <data key="d7">2.3</data>
+</node>
+<node id="134294322">
+  <data key="d4">14.6263354</data>
+  <data key="d5">120.9673007</data>
+  <data key="d6">4</data>
+  <data key="d7">2.289</data>
+</node>
+<node id="6936580531">
+  <data key="d4">14.6260248</data>
+  <data key="d5">120.9668781</data>
+  <data key="d6">3</data>
+  <data key="d7">2.305</data>
+</node>
+<node id="8635233809">
+  <data key="d4">14.625763</data>
+  <data key="d5">120.9664994</data>
+  <data key="d6">1</data>
+  <data key="d7">2.297</data>
+</node>
+<node id="8653950761">
+  <data key="d4">14.6261593</data>
+  <data key="d5">120.9670607</data>
+  <data key="d6">3</data>
+  <data key="d7">2.305</data>
+</node>
+<node id="9969153077">
+  <data key="d4">14.6257667</data>
+  <data key="d5">120.9665054</data>
+  <data key="d6">3</data>
+  <data key="d7">2.297</data>
+</node>
+<edge source="31461468" target="6936580531" id="0">
+  <data key="d8">833696352</data>
+  <data key="d9">4</data>
+  <data key="d10">T. Earnshaw Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">34.662</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="31461468" target="9969153077" id="0">
+  <data key="d8">1088065107</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">14.68</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="134294322" target="8653950761" id="0">
+  <data key="d8">833696352</data>
+  <data key="d9">4</data>
+  <data key="d10">T. Earnshaw Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">32.407</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="6936580531" target="31461468" id="0">
+  <data key="d8">833696352</data>
+  <data key="d9">4</data>
+  <data key="d10">T. Earnshaw Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">34.662</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="6936580531" target="8653950761" id="0">
+  <data key="d8">833696352</data>
+  <data key="d9">4</data>
+  <data key="d10">T. Earnshaw Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">24.692</data>
+  <data key="d19">LINESTRING (120.9668781 14.6260248, 120.9668839 14.6260295, 120.9670607 14.6261593)</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="8635233809" target="9969153077" id="0">
+  <data key="d8">1088065107</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">0.766</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="8653950761" target="134294322" id="0">
+  <data key="d8">833696352</data>
+  <data key="d9">4</data>
+  <data key="d10">T. Earnshaw Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">32.407</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="8653950761" target="6936580531" id="0">
+  <data key="d8">833696352</data>
+  <data key="d9">4</data>
+  <data key="d10">T. Earnshaw Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">24.692</data>
+  <data key="d19">LINESTRING (120.9670607 14.6261593, 120.9668839 14.6260295, 120.9668781 14.6260248)</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="9969153077" target="8635233809" id="0">
+  <data key="d8">1088065107</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">0.766</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="9969153077" target="31461468" id="0">
+  <data key="d8">1088065107</data>
+  <data key="d11">service</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">14.68</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+</graph></graphml>

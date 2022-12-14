@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d16" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:18:49</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="312004928">
+  <data key="d4">14.601418</data>
+  <data key="d5">121.0085391</data>
+  <data key="d6">3</data>
+  <data key="d7">6.843</data>
+</node>
+<node id="312004931">
+  <data key="d4">14.6006491</data>
+  <data key="d5">121.0092567</data>
+  <data key="d6">3</data>
+  <data key="d7">7.85</data>
+</node>
+<node id="312004933">
+  <data key="d4">14.6005632</data>
+  <data key="d5">121.0087723</data>
+  <data key="d6">3</data>
+  <data key="d7">6.758</data>
+</node>
+<node id="610445236">
+  <data key="d4">14.6011668</data>
+  <data key="d5">121.0082373</data>
+  <data key="d6">3</data>
+  <data key="d7">5.552</data>
+</node>
+<node id="1869895706">
+  <data key="d4">14.6002887</data>
+  <data key="d5">121.0089972</data>
+  <data key="d6">3</data>
+  <data key="d7">6.455</data>
+</node>
+<edge source="312004928" target="312004931" id="0">
+  <data key="d8">28788669</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">115.205</data>
+  <data key="d14">0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="312004928" target="610445236" id="0">
+  <data key="d8">160192388</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">42.835</data>
+  <data key="d16">LINESTRING (121.0085391 14.601418, 121.008294 14.601214, 121.0082373 14.6011668)</data>
+  <data key="d14">-0.03</data>
+  <data key="d15">0.03</data>
+</edge>
+<edge source="312004931" target="312004933" id="0">
+  <data key="d8">28404170</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">52.991</data>
+  <data key="d14">-0.021</data>
+  <data key="d15">0.021</data>
+</edge>
+<edge source="312004931" target="312004928" id="0">
+  <data key="d8">28788669</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">115.205</data>
+  <data key="d14">-0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="312004933" target="312004931" id="0">
+  <data key="d8">28404170</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">52.991</data>
+  <data key="d14">0.021</data>
+  <data key="d15">0.021</data>
+</edge>
+<edge source="312004933" target="1869895706" id="0">
+  <data key="d8">160192383</data>
+  <data key="d17">2</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">38.953</data>
+  <data key="d14">-0.008</data>
+  <data key="d15">0.008</data>
+</edge>
+<edge source="312004933" target="610445236" id="0">
+  <data key="d8">160192383</data>
+  <data key="d17">2</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">88.424</data>
+  <data key="d14">-0.014</data>
+  <data key="d15">0.014</data>
+</edge>
+<edge source="610445236" target="312004933" id="0">
+  <data key="d8">160192383</data>
+  <data key="d17">2</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">88.424</data>
+  <data key="d14">0.014</data>
+  <data key="d15">0.014</data>
+</edge>
+<edge source="610445236" target="312004928" id="0">
+  <data key="d8">160192388</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">42.835</data>
+  <data key="d16">LINESTRING (121.0082373 14.6011668, 121.008294 14.601214, 121.0085391 14.601418)</data>
+  <data key="d14">0.03</data>
+  <data key="d15">0.03</data>
+</edge>
+<edge source="1869895706" target="312004933" id="0">
+  <data key="d8">160192383</data>
+  <data key="d17">2</data>
+  <data key="d9">Hipodromo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">38.953</data>
+  <data key="d14">0.008</data>
+  <data key="d15">0.008</data>
+</edge>
+</graph></graphml>

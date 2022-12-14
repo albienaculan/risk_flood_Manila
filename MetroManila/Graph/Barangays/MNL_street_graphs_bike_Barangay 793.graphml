@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="bridge" attr.type="string"/>
+<key id="d17" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d16" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:29:45</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="158221488">
+  <data key="d4">14.5811986</data>
+  <data key="d5">121.0045849</data>
+  <data key="d6">3</data>
+  <data key="d7">4.782</data>
+</node>
+<node id="158223660">
+  <data key="d4">14.5808915</data>
+  <data key="d5">121.0047338</data>
+  <data key="d6">3</data>
+  <data key="d7">4.442</data>
+</node>
+<node id="2817896871">
+  <data key="d4">14.5809981</data>
+  <data key="d5">121.0046806</data>
+  <data key="d6">4</data>
+  <data key="d7">4.001</data>
+</node>
+<node id="2817896898">
+  <data key="d4">14.5812412</data>
+  <data key="d5">121.0048561</data>
+  <data key="d6">1</data>
+  <data key="d7">4.35</data>
+</node>
+<node id="8598639240">
+  <data key="d4">14.5809388</data>
+  <data key="d5">121.0047582</data>
+  <data key="d6">3</data>
+  <data key="d7">4.595</data>
+</node>
+<node id="9819490273">
+  <data key="d4">14.5813968</data>
+  <data key="d5">121.0048878</data>
+  <data key="d6">1</data>
+  <data key="d7">4.645</data>
+</node>
+<edge source="158221488" target="2817896871" id="0">
+  <data key="d8">1069885904</data>
+  <data key="d9">Garden Village</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">24.558</data>
+  <data key="d14">-0.032</data>
+  <data key="d15">0.032</data>
+</edge>
+<edge source="158221488" target="9819490273" id="0">
+  <data key="d8">1069885903</data>
+  <data key="d9">Villa Paraiso</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">41.63</data>
+  <data key="d16">LINESTRING (121.0045849 14.5811986, 121.0045844 14.5812398, 121.0047279 14.5813073, 121.0048878 14.5813968)</data>
+  <data key="d14">-0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="158223660" target="8598639240" id="0">
+  <data key="d8">277263503</data>
+  <data key="d17">2</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">5.879</data>
+  <data key="d14">0.026</data>
+  <data key="d15">0.026</data>
+</edge>
+<edge source="2817896871" target="2817896898" id="0">
+  <data key="d8">1066244238</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">32.976</data>
+  <data key="d14">0.011</data>
+  <data key="d15">0.011</data>
+</edge>
+<edge source="2817896871" target="158221488" id="0">
+  <data key="d8">1069885904</data>
+  <data key="d9">Garden Village</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">24.558</data>
+  <data key="d14">0.032</data>
+  <data key="d15">0.032</data>
+</edge>
+<edge source="2817896871" target="8598639240" id="0">
+  <data key="d8">[926642272, 926642273, 926642271]</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">10.642999999999999</data>
+  <data key="d18">yes</data>
+  <data key="d16">LINESTRING (121.0046806 14.5809981, 121.004691 14.5809899, 121.0047456 14.5809477, 121.0047582 14.5809388)</data>
+  <data key="d14">0.056</data>
+  <data key="d15">0.056</data>
+</edge>
+<edge source="2817896898" target="2817896871" id="0">
+  <data key="d8">1066244238</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">32.976</data>
+  <data key="d14">-0.011</data>
+  <data key="d15">0.011</data>
+</edge>
+<edge source="8598639240" target="158223660" id="0">
+  <data key="d8">277263503</data>
+  <data key="d17">2</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">5.879</data>
+  <data key="d14">-0.026</data>
+  <data key="d15">0.026</data>
+</edge>
+<edge source="8598639240" target="2817896871" id="0">
+  <data key="d8">[926642272, 926642273, 926642271]</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">10.643</data>
+  <data key="d18">yes</data>
+  <data key="d16">LINESTRING (121.0047582 14.5809388, 121.0047456 14.5809477, 121.004691 14.5809899, 121.0046806 14.5809981)</data>
+  <data key="d14">-0.056</data>
+  <data key="d15">0.056</data>
+</edge>
+<edge source="9819490273" target="158221488" id="0">
+  <data key="d8">1069885903</data>
+  <data key="d9">Villa Paraiso</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">41.63</data>
+  <data key="d16">LINESTRING (121.0048878 14.5813968, 121.0047279 14.5813073, 121.0045844 14.5812398, 121.0045849 14.5811986)</data>
+  <data key="d14">0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+</graph></graphml>

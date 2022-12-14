@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:41:42</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="244118189">
+  <data key="d4">14.6024283</data>
+  <data key="d5">120.9836151</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="990043684">
+  <data key="d4">14.601507</data>
+  <data key="d5">120.9846479</data>
+  <data key="d6">3</data>
+  <data key="d7">3.963</data>
+</node>
+<node id="1278060370">
+  <data key="d4">14.6027486</data>
+  <data key="d5">120.9836398</data>
+  <data key="d6">3</data>
+  <data key="d7">3.788</data>
+</node>
+<node id="1869749980">
+  <data key="d4">14.6010738</data>
+  <data key="d5">120.9845604</data>
+  <data key="d6">3</data>
+  <data key="d7">3.961</data>
+</node>
+<node id="1869749992">
+  <data key="d4">14.6017905</data>
+  <data key="d5">120.9846396</data>
+  <data key="d6">3</data>
+  <data key="d7">3.873</data>
+</node>
+<node id="1975901893">
+  <data key="d4">14.6022677</data>
+  <data key="d5">120.9847294</data>
+  <data key="d6">3</data>
+  <data key="d7">3.658</data>
+</node>
+<node id="9789113347">
+  <data key="d4">14.6014215</data>
+  <data key="d5">120.9846299</data>
+  <data key="d6">3</data>
+  <data key="d7">3.999</data>
+</node>
+<edge source="244118189" target="1278060370" id="0">
+  <data key="d8">741799315</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d11">Evangelista Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d13">20</data>
+  <data key="d14">False</data>
+  <data key="d15">35.715</data>
+  <data key="d16">-0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="244118189" target="1975901893" id="0">
+  <data key="d8">[186841728, 176439582]</data>
+  <data key="d11">Florante Street</data>
+  <data key="d12">['pedestrian', 'service']</data>
+  <data key="d9">False</data>
+  <data key="d14">True</data>
+  <data key="d15">121.233</data>
+  <data key="d18">LINESTRING (120.9836151 14.6024283, 120.9846176 14.60228, 120.9847294 14.6022677)</data>
+  <data key="d16">-0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+<edge source="990043684" target="9789113347" id="0">
+  <data key="d8">825090444</data>
+  <data key="d9">True</data>
+  <data key="d10">5</data>
+  <data key="d19">170</data>
+  <data key="d11">Quezon Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">False</data>
+  <data key="d15">9.702</data>
+  <data key="d16">0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+<edge source="1869749992" target="990043684" id="0">
+  <data key="d8">85396150</data>
+  <data key="d9">True</data>
+  <data key="d10">1</data>
+  <data key="d11">Quezon Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">31.537</data>
+  <data key="d18">LINESTRING (120.9846396 14.6017905, 120.9846437 14.6016632, 120.9846479 14.601507)</data>
+  <data key="d16">0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+<edge source="1975901893" target="1869749992" id="0">
+  <data key="d8">85396150</data>
+  <data key="d9">True</data>
+  <data key="d10">1</data>
+  <data key="d11">Quezon Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">50</data>
+  <data key="d14">False</data>
+  <data key="d15">53.935</data>
+  <data key="d16">0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+<edge source="1975901893" target="244118189" id="0">
+  <data key="d8">[186841728, 176439582]</data>
+  <data key="d12">['pedestrian', 'service']</data>
+  <data key="d9">False</data>
+  <data key="d14">False</data>
+  <data key="d15">121.233</data>
+  <data key="d11">Florante Street</data>
+  <data key="d18">LINESTRING (120.9847294 14.6022677, 120.9846176 14.60228, 120.9836151 14.6024283)</data>
+  <data key="d16">0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+<edge source="9789113347" target="1869749980" id="0">
+  <data key="d8">825090444</data>
+  <data key="d9">True</data>
+  <data key="d10">5</data>
+  <data key="d19">170</data>
+  <data key="d11">Quezon Boulevard</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d14">False</data>
+  <data key="d15">39.379</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+</graph></graphml>

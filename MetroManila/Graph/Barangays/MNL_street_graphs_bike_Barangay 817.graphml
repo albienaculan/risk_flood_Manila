@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="service" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:21:42</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="34010440">
+  <data key="d4">14.5808749</data>
+  <data key="d5">120.9992324</data>
+  <data key="d6">3</data>
+  <data key="d7">2.92</data>
+</node>
+<node id="34010445">
+  <data key="d4">14.5810396</data>
+  <data key="d5">120.9994181</data>
+  <data key="d6">4</data>
+  <data key="d7">3.236</data>
+</node>
+<node id="6047943996">
+  <data key="d4">14.5811575</data>
+  <data key="d5">120.9997234</data>
+  <data key="d6">3</data>
+  <data key="d7">2.821</data>
+</node>
+<node id="6047962260">
+  <data key="d4">14.5809864</data>
+  <data key="d5">120.9991318</data>
+  <data key="d6">4</data>
+  <data key="d7">2.773</data>
+</node>
+<node id="8382935785">
+  <data key="d4">14.5801231</data>
+  <data key="d5">120.9991472</data>
+  <data key="d6">3</data>
+  <data key="d7">3.352</data>
+</node>
+<node id="8383655355">
+  <data key="d4">14.5813055</data>
+  <data key="d5">120.9997408</data>
+  <data key="d6">1</data>
+  <data key="d7">2.917</data>
+</node>
+<edge source="34010440" target="8382935785" id="0">
+  <data key="d8">642410246</data>
+  <data key="d9">True</data>
+  <data key="d10">4</data>
+  <data key="d11">140</data>
+  <data key="d12">President Elpidio Quirino Extension</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">86.795</data>
+  <data key="d17">LINESTRING (120.9992324 14.5808749, 120.9991739 14.580769, 120.9991382 14.5806713, 120.9991072 14.5805398, 120.999095 14.5803997, 120.9991081 14.5803095, 120.9991295 14.5802217, 120.9991472 14.5801231)</data>
+  <data key="d18">0.005</data>
+  <data key="d19">0.005</data>
+</edge>
+<edge source="34010445" target="6047962260" id="0">
+  <data key="d8">5055400</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d12">San Antonio Street</data>
+  <data key="d13">residential</data>
+  <data key="d15">False</data>
+  <data key="d16">31.373</data>
+  <data key="d18">-0.015</data>
+  <data key="d19">0.015</data>
+</edge>
+<edge source="34010445" target="34010440" id="0">
+  <data key="d8">642410246</data>
+  <data key="d9">True</data>
+  <data key="d10">4</data>
+  <data key="d11">140</data>
+  <data key="d12">President Elpidio Quirino Extension</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">27.106</data>
+  <data key="d18">-0.012</data>
+  <data key="d19">0.012</data>
+</edge>
+<edge source="6047943996" target="34010445" id="0">
+  <data key="d8">712297684</data>
+  <data key="d9">True</data>
+  <data key="d10">4</data>
+  <data key="d11">140</data>
+  <data key="d12">President Elpidio Quirino Extension</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">35.573</data>
+  <data key="d17">LINESTRING (120.9997234 14.5811575, 120.9996426 14.5811383, 120.9995318 14.5811, 120.9994275 14.5810451, 120.9994181 14.5810396)</data>
+  <data key="d18">0.012</data>
+  <data key="d19">0.012</data>
+</edge>
+<edge source="6047962260" target="34010440" id="0">
+  <data key="d8">782006514</data>
+  <data key="d9">True</data>
+  <data key="d10">3</data>
+  <data key="d11">156</data>
+  <data key="d12">Quirino Avenue Extension</data>
+  <data key="d13">secondary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">16.46</data>
+  <data key="d18">0.009</data>
+  <data key="d19">0.009</data>
+</edge>
+<edge source="8383655355" target="6047943996" id="0">
+  <data key="d8">1076921719</data>
+  <data key="d9">True</data>
+  <data key="d10">1</data>
+  <data key="d13">service</data>
+  <data key="d20">driveway</data>
+  <data key="d15">False</data>
+  <data key="d16">16.563</data>
+  <data key="d18">-0.006</data>
+  <data key="d19">0.006</data>
+</edge>
+</graph></graphml>

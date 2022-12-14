@@ -1,0 +1,730 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="service" attr.type="string"/>
+<key id="d17" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 06:14:34</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="67772938">
+  <data key="d4">14.6097775</data>
+  <data key="d5">120.9812894</data>
+  <data key="d6">4</data>
+  <data key="d7">2.439</data>
+</node>
+<node id="168189174">
+  <data key="d4">14.6098216</data>
+  <data key="d5">120.9806615</data>
+  <data key="d6">3</data>
+  <data key="d7">2.66</data>
+</node>
+<node id="1763090499">
+  <data key="d4">14.6097987</data>
+  <data key="d5">120.9809875</data>
+  <data key="d6">4</data>
+  <data key="d7">2.179</data>
+</node>
+<node id="7564544705">
+  <data key="d4">14.6107883</data>
+  <data key="d5">120.9813728</data>
+  <data key="d6">4</data>
+  <data key="d7">3.215</data>
+</node>
+<node id="7589387150">
+  <data key="d4">14.6101106</data>
+  <data key="d5">120.9806795</data>
+  <data key="d6">3</data>
+  <data key="d7">2.808</data>
+</node>
+<node id="7589387151">
+  <data key="d4">14.6100896</data>
+  <data key="d5">120.9810061</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="7589387152">
+  <data key="d4">14.6100663</data>
+  <data key="d5">120.9813132</data>
+  <data key="d6">4</data>
+  <data key="d7">3.073</data>
+</node>
+<node id="7589387157">
+  <data key="d4">14.6102483</data>
+  <data key="d5">120.9813282</data>
+  <data key="d6">4</data>
+  <data key="d7">2.907</data>
+</node>
+<node id="7589387158">
+  <data key="d4">14.6102704</data>
+  <data key="d5">120.9810114</data>
+  <data key="d6">4</data>
+  <data key="d7">3.999</data>
+</node>
+<node id="7589387159">
+  <data key="d4">14.6102926</data>
+  <data key="d5">120.9806909</data>
+  <data key="d6">3</data>
+  <data key="d7">3.547</data>
+</node>
+<node id="7589387160">
+  <data key="d4">14.6104897</data>
+  <data key="d5">120.9807032</data>
+  <data key="d6">3</data>
+  <data key="d7">3.433</data>
+</node>
+<node id="7589387161">
+  <data key="d4">14.6104639</data>
+  <data key="d5">120.9810213</data>
+  <data key="d6">4</data>
+  <data key="d7">3.956</data>
+</node>
+<node id="7589387162">
+  <data key="d4">14.6104325</data>
+  <data key="d5">120.9813434</data>
+  <data key="d6">4</data>
+  <data key="d7">2.961</data>
+</node>
+<node id="7589387167">
+  <data key="d4">14.610599</data>
+  <data key="d5">120.9813572</data>
+  <data key="d6">4</data>
+  <data key="d7">2.866</data>
+</node>
+<node id="7589387168">
+  <data key="d4">14.6106261</data>
+  <data key="d5">120.9810295</data>
+  <data key="d6">4</data>
+  <data key="d7">3.103</data>
+</node>
+<node id="7589387169">
+  <data key="d4">14.6106493</data>
+  <data key="d5">120.9807132</data>
+  <data key="d6">3</data>
+  <data key="d7">3.816</data>
+</node>
+<node id="7589387170">
+  <data key="d4">14.610818</data>
+  <data key="d5">120.9810413</data>
+  <data key="d6">4</data>
+  <data key="d7">3.135</data>
+</node>
+<node id="7589387171">
+  <data key="d4">14.6108359</data>
+  <data key="d5">120.9807248</data>
+  <data key="d6">3</data>
+  <data key="d7">2.857</data>
+</node>
+<edge source="67772938" target="1763090499" id="0">
+  <data key="d8">16267375</data>
+  <data key="d9">Remigio Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">30</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">32.57</data>
+  <data key="d15">-0.008</data>
+  <data key="d16">0.008</data>
+</edge>
+<edge source="67772938" target="7589387152" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">True</data>
+  <data key="d14">32.215</data>
+  <data key="d15">0.02</data>
+  <data key="d16">0.02</data>
+</edge>
+<edge source="168189174" target="1763090499" id="0">
+  <data key="d8">16267375</data>
+  <data key="d9">Remigio Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">30</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">35.17</data>
+  <data key="d15">-0.014</data>
+  <data key="d16">0.014</data>
+</edge>
+<edge source="168189174" target="7589387150" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">False</data>
+  <data key="d14">32.194</data>
+  <data key="d15">0.005</data>
+  <data key="d16">0.005</data>
+</edge>
+<edge source="1763090499" target="67772938" id="0">
+  <data key="d8">16267375</data>
+  <data key="d9">Remigio Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">30</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">32.57</data>
+  <data key="d15">0.008</data>
+  <data key="d16">0.008</data>
+</edge>
+<edge source="1763090499" target="168189174" id="0">
+  <data key="d8">16267375</data>
+  <data key="d9">Remigio Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">30</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">35.17</data>
+  <data key="d15">0.014</data>
+  <data key="d16">0.014</data>
+</edge>
+<edge source="1763090499" target="7589387151" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">32.409</data>
+  <data key="d15">0.056</data>
+  <data key="d16">0.056</data>
+</edge>
+<edge source="7564544705" target="7589387167" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">False</data>
+  <data key="d14">21.116</data>
+  <data key="d15">-0.017</data>
+  <data key="d16">0.017</data>
+</edge>
+<edge source="7564544705" target="7589387170" id="0">
+  <data key="d8">808995646</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">35.822</data>
+  <data key="d15">-0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="7589387150" target="7589387159" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">False</data>
+  <data key="d14">20.275</data>
+  <data key="d15">0.036</data>
+  <data key="d16">0.036</data>
+</edge>
+<edge source="7589387150" target="168189174" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">True</data>
+  <data key="d14">32.194</data>
+  <data key="d15">-0.005</data>
+  <data key="d16">0.005</data>
+</edge>
+<edge source="7589387150" target="7589387151" id="0">
+  <data key="d8">812545783</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">35.22</data>
+  <data key="d15">0.034</data>
+  <data key="d16">0.034</data>
+</edge>
+<edge source="7589387151" target="1763090499" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">32.409</data>
+  <data key="d15">-0.056</data>
+  <data key="d16">0.056</data>
+</edge>
+<edge source="7589387151" target="7589387158" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">20.112</data>
+  <data key="d15">-0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="7589387151" target="7589387152" id="0">
+  <data key="d8">812545783</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">33.145</data>
+  <data key="d15">-0.028</data>
+  <data key="d16">0.028</data>
+</edge>
+<edge source="7589387151" target="7589387150" id="0">
+  <data key="d8">812545783</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">35.22</data>
+  <data key="d15">-0.034</data>
+  <data key="d16">0.034</data>
+</edge>
+<edge source="7589387152" target="67772938" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">False</data>
+  <data key="d14">32.215</data>
+  <data key="d15">-0.02</data>
+  <data key="d16">0.02</data>
+</edge>
+<edge source="7589387152" target="7589387157" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">True</data>
+  <data key="d14">20.302</data>
+  <data key="d15">-0.008</data>
+  <data key="d16">0.008</data>
+</edge>
+<edge source="7589387152" target="7589387151" id="0">
+  <data key="d8">812545783</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">33.145</data>
+  <data key="d15">0.028</data>
+  <data key="d16">0.028</data>
+</edge>
+<edge source="7589387157" target="7589387152" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">False</data>
+  <data key="d14">20.302</data>
+  <data key="d15">0.008</data>
+  <data key="d16">0.008</data>
+</edge>
+<edge source="7589387157" target="7589387162" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">True</data>
+  <data key="d14">20.547</data>
+  <data key="d15">0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="7589387157" target="7589387158" id="0">
+  <data key="d8">812545784</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">34.176</data>
+  <data key="d15">0.032</data>
+  <data key="d16">0.032</data>
+</edge>
+<edge source="7589387158" target="7589387151" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">20.112</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="7589387158" target="7589387161" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">21.543</data>
+  <data key="d15">-0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="7589387158" target="7589387159" id="0">
+  <data key="d8">812545784</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">34.574</data>
+  <data key="d15">-0.013</data>
+  <data key="d16">0.013</data>
+</edge>
+<edge source="7589387158" target="7589387157" id="0">
+  <data key="d8">812545784</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">34.176</data>
+  <data key="d15">-0.032</data>
+  <data key="d16">0.032</data>
+</edge>
+<edge source="7589387159" target="7589387160" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">False</data>
+  <data key="d14">21.956</data>
+  <data key="d15">-0.005</data>
+  <data key="d16">0.005</data>
+</edge>
+<edge source="7589387159" target="7589387150" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">True</data>
+  <data key="d14">20.275</data>
+  <data key="d15">-0.036</data>
+  <data key="d16">0.036</data>
+</edge>
+<edge source="7589387159" target="7589387158" id="0">
+  <data key="d8">812545784</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">34.574</data>
+  <data key="d15">0.013</data>
+  <data key="d16">0.013</data>
+</edge>
+<edge source="7589387160" target="7589387169" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">False</data>
+  <data key="d14">17.779</data>
+  <data key="d15">0.022</data>
+  <data key="d16">0.022</data>
+</edge>
+<edge source="7589387160" target="7589387159" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">True</data>
+  <data key="d14">21.956</data>
+  <data key="d15">0.005</data>
+  <data key="d16">0.005</data>
+</edge>
+<edge source="7589387160" target="7589387161" id="0">
+  <data key="d8">812545785</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">34.347</data>
+  <data key="d15">0.015</data>
+  <data key="d16">0.015</data>
+</edge>
+<edge source="7589387161" target="7589387158" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">21.543</data>
+  <data key="d15">0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="7589387161" target="7589387168" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">18.057</data>
+  <data key="d15">-0.047</data>
+  <data key="d16">0.047</data>
+</edge>
+<edge source="7589387161" target="7589387162" id="0">
+  <data key="d8">812545785</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">34.833</data>
+  <data key="d15">-0.029</data>
+  <data key="d16">0.029</data>
+</edge>
+<edge source="7589387161" target="7589387160" id="0">
+  <data key="d8">812545785</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">34.347</data>
+  <data key="d15">-0.015</data>
+  <data key="d16">0.015</data>
+</edge>
+<edge source="7589387162" target="7589387157" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">False</data>
+  <data key="d14">20.547</data>
+  <data key="d15">-0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="7589387162" target="7589387167" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">True</data>
+  <data key="d14">18.573</data>
+  <data key="d15">-0.005</data>
+  <data key="d16">0.005</data>
+</edge>
+<edge source="7589387162" target="7589387161" id="0">
+  <data key="d8">812545785</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">34.833</data>
+  <data key="d15">0.029</data>
+  <data key="d16">0.029</data>
+</edge>
+<edge source="7589387167" target="7589387162" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">False</data>
+  <data key="d14">18.573</data>
+  <data key="d15">0.005</data>
+  <data key="d16">0.005</data>
+</edge>
+<edge source="7589387167" target="7564544705" id="0">
+  <data key="d8">150158678</data>
+  <data key="d12">False</data>
+  <data key="d17">3</data>
+  <data key="d9">Tomas Mapua Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">40</data>
+  <data key="d13">True</data>
+  <data key="d14">21.116</data>
+  <data key="d15">0.017</data>
+  <data key="d16">0.017</data>
+</edge>
+<edge source="7589387167" target="7589387168" id="0">
+  <data key="d8">812545786</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">35.389</data>
+  <data key="d15">0.007</data>
+  <data key="d16">0.007</data>
+</edge>
+<edge source="7589387168" target="7589387161" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">18.057</data>
+  <data key="d15">0.047</data>
+  <data key="d16">0.047</data>
+</edge>
+<edge source="7589387168" target="7589387169" id="0">
+  <data key="d8">812545786</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">34.131</data>
+  <data key="d15">0.021</data>
+  <data key="d16">0.021</data>
+</edge>
+<edge source="7589387168" target="7589387167" id="0">
+  <data key="d8">812545786</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">35.389</data>
+  <data key="d15">-0.007</data>
+  <data key="d16">0.007</data>
+</edge>
+<edge source="7589387168" target="7589387170" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">21.377000000000002</data>
+  <data key="d19">LINESTRING (120.9810295 14.6106261, 120.9810349 14.6107325, 120.9810413 14.610818)</data>
+  <data key="d15">0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="7589387169" target="7589387171" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">False</data>
+  <data key="d14">20.787</data>
+  <data key="d15">-0.046</data>
+  <data key="d16">0.046</data>
+</edge>
+<edge source="7589387169" target="7589387160" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">True</data>
+  <data key="d14">17.779</data>
+  <data key="d15">-0.022</data>
+  <data key="d16">0.022</data>
+</edge>
+<edge source="7589387169" target="7589387168" id="0">
+  <data key="d8">812545786</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">34.131</data>
+  <data key="d15">-0.021</data>
+  <data key="d16">0.021</data>
+</edge>
+<edge source="7589387170" target="7589387171" id="0">
+  <data key="d8">808995646</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">34.113</data>
+  <data key="d15">-0.008</data>
+  <data key="d16">0.008</data>
+</edge>
+<edge source="7589387170" target="7564544705" id="0">
+  <data key="d8">808995646</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">35.822</data>
+  <data key="d15">0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="7589387170" target="7589387168" id="0">
+  <data key="d8">164692673</data>
+  <data key="d17">1</data>
+  <data key="d9">Makata Street</data>
+  <data key="d10">service</data>
+  <data key="d11">20</data>
+  <data key="d18">alley</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">21.377000000000002</data>
+  <data key="d19">LINESTRING (120.9810413 14.610818, 120.9810349 14.6107325, 120.9810295 14.6106261)</data>
+  <data key="d15">-0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="7589387171" target="7589387169" id="0">
+  <data key="d8">634092844</data>
+  <data key="d12">False</data>
+  <data key="d17">2</data>
+  <data key="d9">Severino Reyes Street</data>
+  <data key="d10">tertiary</data>
+  <data key="d11">30</data>
+  <data key="d13">True</data>
+  <data key="d14">20.787</data>
+  <data key="d15">0.046</data>
+  <data key="d16">0.046</data>
+</edge>
+<edge source="7589387171" target="7589387170" id="0">
+  <data key="d8">808995646</data>
+  <data key="d10">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">34.113</data>
+  <data key="d15">0.008</data>
+  <data key="d16">0.008</data>
+</edge>
+</graph></graphml>

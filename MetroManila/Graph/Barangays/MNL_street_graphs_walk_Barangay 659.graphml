@@ -1,0 +1,629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d23" for="edge" attr.name="tunnel" attr.type="string"/>
+<key id="d22" for="edge" attr.name="service" attr.type="string"/>
+<key id="d21" for="edge" attr.name="bridge" attr.type="string"/>
+<key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="highway" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 06:52:56</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="21638775">
+  <data key="d4">14.5903742</data>
+  <data key="d5">120.9805915</data>
+  <data key="d6">3</data>
+  <data key="d7">1.958</data>
+</node>
+<node id="33444796">
+  <data key="d4">14.5891389</data>
+  <data key="d5">120.9812128</data>
+  <data key="d6">3</data>
+  <data key="d7">2.421</data>
+</node>
+<node id="159457190">
+  <data key="d4">14.5900326</data>
+  <data key="d5">120.9806322</data>
+  <data key="d6">3</data>
+  <data key="d7">1.505</data>
+</node>
+<node id="333482425">
+  <data key="d4">14.5879718</data>
+  <data key="d5">120.9809437</data>
+  <data key="d6">3</data>
+  <data key="d7">2.504</data>
+</node>
+<node id="333598291">
+  <data key="d4">14.5897943</data>
+  <data key="d5">120.9810988</data>
+  <data key="d6">3</data>
+  <data key="d7">3.032</data>
+</node>
+<node id="333598294">
+  <data key="d4">14.5896074</data>
+  <data key="d5">120.9805729</data>
+  <data key="d6">3</data>
+  <data key="d7">1.888</data>
+</node>
+<node id="616060485">
+  <data key="d4">14.5895645</data>
+  <data key="d5">120.9811702</data>
+  <data key="d6">1</data>
+  <data key="d7">2.078</data>
+</node>
+<node id="616060500">
+  <data key="d4">14.5903821</data>
+  <data key="d5">120.9809271</data>
+  <data key="d6">1</data>
+  <data key="d7">1.344</data>
+</node>
+<node id="1036700234">
+  <data key="d4">14.5880251</data>
+  <data key="d5">120.9809583</data>
+  <data key="d6">3</data>
+  <data key="d7">2.356</data>
+</node>
+<node id="3403138112">
+  <data key="d4">14.5902918</data>
+  <data key="d5">120.9806911</data>
+  <data key="d6">1</data>
+  <data key="d7">1.608</data>
+</node>
+<node id="5799534216">
+  <data key="d4">14.589096</data>
+  <data key="d5">120.9806748</data>
+  <data key="d8">bus_stop</data>
+  <data key="d6">1</data>
+  <data key="d7">2.145</data>
+</node>
+<node id="5814645056">
+  <data key="d4">14.5903805</data>
+  <data key="d5">120.9808166</data>
+  <data key="d6">4</data>
+  <data key="d7">1.425</data>
+</node>
+<node id="6615756523">
+  <data key="d4">14.5897028</data>
+  <data key="d5">120.9808381</data>
+  <data key="d6">3</data>
+  <data key="d7">1.879</data>
+</node>
+<node id="6720425711">
+  <data key="d4">14.5902218</data>
+  <data key="d5">120.9805103</data>
+  <data key="d6">3</data>
+  <data key="d7">1.707</data>
+</node>
+<node id="7006051812">
+  <data key="d4">14.5903076</data>
+  <data key="d5">120.9804886</data>
+  <data key="d6">4</data>
+  <data key="d7">1.638</data>
+</node>
+<node id="8639917848">
+  <data key="d4">14.5878661</data>
+  <data key="d5">120.981018</data>
+  <data key="d6">1</data>
+  <data key="d7">2.859</data>
+</node>
+<node id="9786827740">
+  <data key="d4">14.5873583</data>
+  <data key="d5">120.9807756</data>
+  <data key="d8">traffic_signals</data>
+  <data key="d6">3</data>
+  <data key="d7">2.838</data>
+</node>
+<node id="9786827741">
+  <data key="d4">14.5874005</data>
+  <data key="d5">120.9806145</data>
+  <data key="d8">traffic_signals</data>
+  <data key="d6">3</data>
+  <data key="d7">3.039</data>
+</node>
+<node id="9943981581">
+  <data key="d4">14.5903813</data>
+  <data key="d5">120.9808719</data>
+  <data key="d6">1</data>
+  <data key="d7">1.319</data>
+</node>
+<node id="10131943494">
+  <data key="d4">14.5899643</data>
+  <data key="d5">120.9805078</data>
+  <data key="d6">3</data>
+  <data key="d7">2.044</data>
+</node>
+<node id="10131943495">
+  <data key="d4">14.5900359</data>
+  <data key="d5">120.9802832</data>
+  <data key="d6">3</data>
+  <data key="d7">1.949</data>
+</node>
+<edge source="21638775" target="7006051812" id="0">
+  <data key="d9">4304703</data>
+  <data key="d10">4</data>
+  <data key="d11">Victoria Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">13.321</data>
+  <data key="d17">-0.024</data>
+  <data key="d18">0.024</data>
+</edge>
+<edge source="21638775" target="159457190" id="0">
+  <data key="d9">123904461</data>
+  <data key="d14">False</data>
+  <data key="d10">5</data>
+  <data key="d19">150;170</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">False</data>
+  <data key="d16">38.727</data>
+  <data key="d20">LINESTRING (120.9805915 14.5903742, 120.9805793 14.5902427, 120.9806322 14.5900326)</data>
+  <data key="d17">-0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="33444796" target="1036700234" id="0">
+  <data key="d9">[85933512, 85933513, 54030025]</data>
+  <data key="d14">False</data>
+  <data key="d10">4</data>
+  <data key="d19">150</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">True</data>
+  <data key="d16">127.197</data>
+  <data key="d21">yes</data>
+  <data key="d20">LINESTRING (120.9812128 14.5891389, 120.9812047 14.5889726, 120.9811934 14.5889039, 120.9811771 14.5888295, 120.9810786 14.5884683, 120.9809583 14.5880251)</data>
+  <data key="d17">-0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="33444796" target="5814645056" id="0">
+  <data key="d9">161414124</data>
+  <data key="d14">False</data>
+  <data key="d10">5</data>
+  <data key="d19">150;170</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">False</data>
+  <data key="d16">144.497</data>
+  <data key="d20">LINESTRING (120.9812128 14.5891389, 120.9811896 14.5892138, 120.9810877 14.5895452, 120.9808166 14.5903805)</data>
+  <data key="d17">-0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="159457190" target="21638775" id="0">
+  <data key="d9">123904461</data>
+  <data key="d14">False</data>
+  <data key="d10">5</data>
+  <data key="d19">150;170</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">True</data>
+  <data key="d16">38.727</data>
+  <data key="d20">LINESTRING (120.9806322 14.5900326, 120.9805793 14.5902427, 120.9805915 14.5903742)</data>
+  <data key="d17">0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="159457190" target="9786827741" id="0">
+  <data key="d9">[20819402, 614773843, 614773842]</data>
+  <data key="d14">False</data>
+  <data key="d10">['2', '4', '3']</data>
+  <data key="d19">150</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">False</data>
+  <data key="d16">298.262</data>
+  <data key="d20">LINESTRING (120.9806322 14.5900326, 120.9806331 14.5898338, 120.980797 14.5891417, 120.9808625 14.5887964, 120.9808611 14.5886939, 120.9808555 14.5885205, 120.9808446 14.5883539, 120.9808255 14.58825, 120.9806937 14.5876765, 120.9806145 14.5874005)</data>
+  <data key="d17">0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="333482425" target="1036700234" id="0">
+  <data key="d9">54030025</data>
+  <data key="d14">False</data>
+  <data key="d10">4</data>
+  <data key="d19">150</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">False</data>
+  <data key="d16">6.131</data>
+  <data key="d17">-0.024</data>
+  <data key="d18">0.024</data>
+</edge>
+<edge source="333482425" target="8639917848" id="0">
+  <data key="d9">1077811778</data>
+  <data key="d14">False</data>
+  <data key="d12">service</data>
+  <data key="d22">driveway</data>
+  <data key="d15">True</data>
+  <data key="d16">14.215</data>
+  <data key="d17">0.025</data>
+  <data key="d18">0.025</data>
+</edge>
+<edge source="333482425" target="9786827740" id="0">
+  <data key="d9">54030025</data>
+  <data key="d14">False</data>
+  <data key="d10">4</data>
+  <data key="d19">150</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">True</data>
+  <data key="d16">70.582</data>
+  <data key="d20">LINESTRING (120.9809437 14.5879718, 120.9808278 14.5875342, 120.9807756 14.5873583)</data>
+  <data key="d17">0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="333598291" target="6615756523" id="0">
+  <data key="d9">30268237</data>
+  <data key="d23">yes</data>
+  <data key="d11">Lagusnilad Underpass</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">29.842</data>
+  <data key="d17">-0.039</data>
+  <data key="d18">0.039</data>
+</edge>
+<edge source="333598291" target="616060500" id="0">
+  <data key="d9">[48485232, 48485230]</data>
+  <data key="d12">['path', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">68.039</data>
+  <data key="d20">LINESTRING (120.9810988 14.5897943, 120.9810543 14.5899283, 120.9809518 14.590242, 120.9809271 14.5903821)</data>
+  <data key="d17">-0.025</data>
+  <data key="d18">0.025</data>
+</edge>
+<edge source="333598291" target="616060485" id="0">
+  <data key="d9">[48485230, 48485231]</data>
+  <data key="d12">['footway', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">[False, True]</data>
+  <data key="d16">26.709000000000003</data>
+  <data key="d20">LINESTRING (120.9810988 14.5897943, 120.9811214 14.5897035, 120.9811702 14.5895645)</data>
+  <data key="d17">-0.036</data>
+  <data key="d18">0.036</data>
+</edge>
+<edge source="333598294" target="6615756523" id="0">
+  <data key="d9">30268237</data>
+  <data key="d23">yes</data>
+  <data key="d11">Lagusnilad Underpass</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">30.446</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="333598294" target="10131943494" id="0">
+  <data key="d9">[654709129, 48485221]</data>
+  <data key="d12">['footway', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">40.308</data>
+  <data key="d20">LINESTRING (120.9805729 14.5896074, 120.9805392 14.5898146, 120.9805078 14.5899643)</data>
+  <data key="d17">0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="333598294" target="5799534216" id="0">
+  <data key="d9">[48485221, 48485222]</data>
+  <data key="d12">['footway', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">[False, True]</data>
+  <data key="d16">57.922000000000004</data>
+  <data key="d20">LINESTRING (120.9805729 14.5896074, 120.9805945 14.5895178, 120.9806748 14.589096)</data>
+  <data key="d17">0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="616060485" target="333598291" id="0">
+  <data key="d9">[48485230, 48485231]</data>
+  <data key="d12">['footway', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">[False, True]</data>
+  <data key="d16">26.709000000000003</data>
+  <data key="d20">LINESTRING (120.9811702 14.5895645, 120.9811214 14.5897035, 120.9810988 14.5897943)</data>
+  <data key="d17">0.036</data>
+  <data key="d18">0.036</data>
+</edge>
+<edge source="616060500" target="333598291" id="0">
+  <data key="d9">[48485232, 48485230]</data>
+  <data key="d12">['path', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">68.039</data>
+  <data key="d20">LINESTRING (120.9809271 14.5903821, 120.9809518 14.590242, 120.9810543 14.5899283, 120.9810988 14.5897943)</data>
+  <data key="d17">0.025</data>
+  <data key="d18">0.025</data>
+</edge>
+<edge source="1036700234" target="333482425" id="0">
+  <data key="d9">54030025</data>
+  <data key="d14">False</data>
+  <data key="d10">4</data>
+  <data key="d19">150</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">True</data>
+  <data key="d16">6.131</data>
+  <data key="d17">0.024</data>
+  <data key="d18">0.024</data>
+</edge>
+<edge source="1036700234" target="33444796" id="0">
+  <data key="d9">[85933512, 54030025, 85933513]</data>
+  <data key="d14">False</data>
+  <data key="d10">4</data>
+  <data key="d19">150</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">False</data>
+  <data key="d16">127.19699999999999</data>
+  <data key="d21">yes</data>
+  <data key="d20">LINESTRING (120.9809583 14.5880251, 120.9810786 14.5884683, 120.9811771 14.5888295, 120.9811934 14.5889039, 120.9812047 14.5889726, 120.9812128 14.5891389)</data>
+  <data key="d17">0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="3403138112" target="6615756523" id="0">
+  <data key="d9">[704456002, 704456003]</data>
+  <data key="d12">['footway', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">69.775</data>
+  <data key="d20">LINESTRING (120.9806911 14.5902918, 120.9806625 14.5902701, 120.9807487 14.589971, 120.9808381 14.5897028)</data>
+  <data key="d17">0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="5799534216" target="333598294" id="0">
+  <data key="d9">[48485221, 48485222]</data>
+  <data key="d12">['footway', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">[False, True]</data>
+  <data key="d16">57.922000000000004</data>
+  <data key="d20">LINESTRING (120.9806748 14.589096, 120.9805945 14.5895178, 120.9805729 14.5896074)</data>
+  <data key="d17">-0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="5814645056" target="9943981581" id="0">
+  <data key="d9">1077811776</data>
+  <data key="d10">4</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">5.951</data>
+  <data key="d17">-0.018</data>
+  <data key="d18">0.018</data>
+</edge>
+<edge source="5814645056" target="33444796" id="0">
+  <data key="d9">161414124</data>
+  <data key="d14">False</data>
+  <data key="d10">5</data>
+  <data key="d19">150;170</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">True</data>
+  <data key="d16">144.497</data>
+  <data key="d20">LINESTRING (120.9808166 14.5903805, 120.9810877 14.5895452, 120.9811896 14.5892138, 120.9812128 14.5891389)</data>
+  <data key="d17">0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="6615756523" target="333598291" id="0">
+  <data key="d9">30268237</data>
+  <data key="d23">yes</data>
+  <data key="d11">Lagusnilad Underpass</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">29.842</data>
+  <data key="d17">0.039</data>
+  <data key="d18">0.039</data>
+</edge>
+<edge source="6615756523" target="333598294" id="0">
+  <data key="d9">30268237</data>
+  <data key="d23">yes</data>
+  <data key="d11">Lagusnilad Underpass</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">30.446</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="6615756523" target="3403138112" id="0">
+  <data key="d9">[704456002, 704456003]</data>
+  <data key="d12">['footway', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">69.775</data>
+  <data key="d20">LINESTRING (120.9808381 14.5897028, 120.9807487 14.589971, 120.9806625 14.5902701, 120.9806911 14.5902918)</data>
+  <data key="d17">-0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="6720425711" target="10131943494" id="0">
+  <data key="d9">654709129</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">28.634</data>
+  <data key="d17">0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="6720425711" target="7006051812" id="0">
+  <data key="d9">719630790</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">9.822</data>
+  <data key="d17">-0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="6720425711" target="10131943495" id="0">
+  <data key="d9">[654709129, 654709130]</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">33.182</data>
+  <data key="d20">LINESTRING (120.9805103 14.5902218, 120.9802925 14.5900785, 120.9802832 14.5900359)</data>
+  <data key="d17">0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="7006051812" target="21638775" id="0">
+  <data key="d9">4304703</data>
+  <data key="d10">4</data>
+  <data key="d11">Victoria Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">13.321</data>
+  <data key="d17">0.024</data>
+  <data key="d18">0.024</data>
+</edge>
+<edge source="7006051812" target="6720425711" id="0">
+  <data key="d9">719630790</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">9.822</data>
+  <data key="d17">0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="8639917848" target="333482425" id="0">
+  <data key="d9">1077811778</data>
+  <data key="d14">False</data>
+  <data key="d12">service</data>
+  <data key="d22">driveway</data>
+  <data key="d15">False</data>
+  <data key="d16">14.215</data>
+  <data key="d17">-0.025</data>
+  <data key="d18">0.025</data>
+</edge>
+<edge source="9786827740" target="9786827741" id="0">
+  <data key="d9">1065717832</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">17.96</data>
+  <data key="d17">0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="9786827740" target="333482425" id="0">
+  <data key="d9">54030025</data>
+  <data key="d14">False</data>
+  <data key="d10">4</data>
+  <data key="d19">150</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">False</data>
+  <data key="d16">70.582</data>
+  <data key="d20">LINESTRING (120.9807756 14.5873583, 120.9808278 14.5875342, 120.9809437 14.5879718)</data>
+  <data key="d17">-0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="9786827741" target="9786827740" id="0">
+  <data key="d9">1065717832</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">17.96</data>
+  <data key="d17">-0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="9786827741" target="159457190" id="0">
+  <data key="d9">[20819402, 614773842, 614773843]</data>
+  <data key="d14">False</data>
+  <data key="d10">['2', '4', '3']</data>
+  <data key="d19">150</data>
+  <data key="d11">Padre Burgos Avenue</data>
+  <data key="d12">primary</data>
+  <data key="d13">60</data>
+  <data key="d15">True</data>
+  <data key="d16">298.262</data>
+  <data key="d20">LINESTRING (120.9806145 14.5874005, 120.9806937 14.5876765, 120.9808255 14.58825, 120.9808446 14.5883539, 120.9808555 14.5885205, 120.9808611 14.5886939, 120.9808625 14.5887964, 120.980797 14.5891417, 120.9806331 14.5898338, 120.9806322 14.5900326)</data>
+  <data key="d17">-0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="9943981581" target="5814645056" id="0">
+  <data key="d9">1077811776</data>
+  <data key="d10">4</data>
+  <data key="d11">Natividad Lopez Street</data>
+  <data key="d12">unclassified</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">5.951</data>
+  <data key="d17">0.018</data>
+  <data key="d18">0.018</data>
+</edge>
+<edge source="10131943494" target="6720425711" id="0">
+  <data key="d9">654709129</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">28.634</data>
+  <data key="d17">-0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="10131943494" target="10131943495" id="0">
+  <data key="d9">1107303158</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">25.447</data>
+  <data key="d17">-0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="10131943494" target="333598294" id="0">
+  <data key="d9">[654709129, 48485221]</data>
+  <data key="d12">['footway', 'steps']</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">40.308</data>
+  <data key="d20">LINESTRING (120.9805078 14.5899643, 120.9805392 14.5898146, 120.9805729 14.5896074)</data>
+  <data key="d17">-0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="10131943495" target="10131943494" id="0">
+  <data key="d9">1107303158</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">25.447</data>
+  <data key="d17">0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="10131943495" target="6720425711" id="0">
+  <data key="d9">[654709129, 654709130]</data>
+  <data key="d12">footway</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">33.182</data>
+  <data key="d20">LINESTRING (120.9802832 14.5900359, 120.9802925 14.5900785, 120.9805103 14.5902218)</data>
+  <data key="d17">-0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+</graph></graphml>

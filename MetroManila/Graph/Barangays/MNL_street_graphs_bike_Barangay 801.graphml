@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:32:37</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="665695532">
+  <data key="d4">14.5751806</data>
+  <data key="d5">121.0002002</data>
+  <data key="d6">3</data>
+  <data key="d7">3.731</data>
+</node>
+<node id="1293324241">
+  <data key="d4">14.5754306</data>
+  <data key="d5">120.999923</data>
+  <data key="d6">3</data>
+  <data key="d7">3.843</data>
+</node>
+<node id="8314025776">
+  <data key="d4">14.5757129</data>
+  <data key="d5">121.0001972</data>
+  <data key="d6">1</data>
+  <data key="d7">3.319</data>
+</node>
+<node id="8314025778">
+  <data key="d4">14.5754422</data>
+  <data key="d5">121.0004838</data>
+  <data key="d6">3</data>
+  <data key="d7">3.986</data>
+</node>
+<edge source="665695532" target="8314025778" id="0">
+  <data key="d8">52324883</data>
+  <data key="d9">Franco Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">42.162</data>
+  <data key="d14">0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="665695532" target="1293324241" id="0">
+  <data key="d8">52324897</data>
+  <data key="d9">Jiménez I Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">40.776</data>
+  <data key="d14">0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1293324241" target="665695532" id="0">
+  <data key="d8">52324897</data>
+  <data key="d9">Jiménez I Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">40.776</data>
+  <data key="d14">-0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="8314025776" target="8314025778" id="0">
+  <data key="d8">894489416</data>
+  <data key="d9">Jiménez II Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">43.097</data>
+  <data key="d14">0.015</data>
+  <data key="d15">0.015</data>
+</edge>
+<edge source="8314025778" target="665695532" id="0">
+  <data key="d8">52324883</data>
+  <data key="d9">Franco Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">42.162</data>
+  <data key="d14">-0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="8314025778" target="8314025776" id="0">
+  <data key="d8">894489416</data>
+  <data key="d9">Jiménez II Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">43.097</data>
+  <data key="d14">-0.015</data>
+  <data key="d15">0.015</data>
+</edge>
+</graph></graphml>

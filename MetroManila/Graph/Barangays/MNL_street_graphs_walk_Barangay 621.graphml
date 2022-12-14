@@ -1,0 +1,790 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="access" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="highway" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:19:17</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="5413763998">
+  <data key="d4">14.5974285</data>
+  <data key="d5">121.0115915</data>
+  <data key="d6">3</data>
+  <data key="d7">8.906</data>
+</node>
+<node id="5413764018">
+  <data key="d4">14.5974053</data>
+  <data key="d5">121.0113595</data>
+  <data key="d6">4</data>
+  <data key="d7">8.575</data>
+</node>
+<node id="9008787004">
+  <data key="d4">14.5973032</data>
+  <data key="d5">121.0113915</data>
+  <data key="d6">3</data>
+  <data key="d7">9.15</data>
+</node>
+<node id="9008787005">
+  <data key="d4">14.5970978</data>
+  <data key="d5">121.0112705</data>
+  <data key="d6">3</data>
+  <data key="d7">9.865</data>
+</node>
+<node id="9008787006">
+  <data key="d4">14.5969848</data>
+  <data key="d5">121.0114913</data>
+  <data key="d6">3</data>
+  <data key="d7">11.346</data>
+</node>
+<node id="9008767548">
+  <data key="d4">14.5968381</data>
+  <data key="d5">121.0115372</data>
+  <data key="d6">3</data>
+  <data key="d7">12.466</data>
+</node>
+<node id="9008787007">
+  <data key="d4">14.5971746</data>
+  <data key="d5">121.0116051</data>
+  <data key="d6">3</data>
+  <data key="d7">10.514</data>
+</node>
+<node id="9008767566">
+  <data key="d4">14.5965125</data>
+  <data key="d5">121.011307</data>
+  <data key="d6">3</data>
+  <data key="d7">9.21</data>
+</node>
+<node id="8912022223">
+  <data key="d4">14.5969863</data>
+  <data key="d5">121.0106751</data>
+  <data key="d6">3</data>
+  <data key="d7">7.851</data>
+</node>
+<node id="9008825942">
+  <data key="d4">14.5968534</data>
+  <data key="d5">121.0112843</data>
+  <data key="d6">3</data>
+  <data key="d7">11.118</data>
+</node>
+<node id="8912022233">
+  <data key="d4">14.5976699</data>
+  <data key="d5">121.0109498</data>
+  <data key="d6">1</data>
+  <data key="d7">8.428</data>
+</node>
+<node id="8912022235">
+  <data key="d4">14.5969373</data>
+  <data key="d5">121.010867</data>
+  <data key="d6">3</data>
+  <data key="d7">8.792</data>
+</node>
+<node id="9008898525">
+  <data key="d4">14.5968846</data>
+  <data key="d5">121.0115227</data>
+  <data key="d6">4</data>
+  <data key="d7">12.11</data>
+</node>
+<node id="9009020381">
+  <data key="d4">14.5972097</data>
+  <data key="d5">121.0117579</data>
+  <data key="d6">4</data>
+  <data key="d7">9.63</data>
+</node>
+<node id="8912022237">
+  <data key="d4">14.5969055</data>
+  <data key="d5">121.0107572</data>
+  <data key="d6">3</data>
+  <data key="d7">8.2</data>
+</node>
+<node id="9009020385">
+  <data key="d4">14.5971166</data>
+  <data key="d5">121.0108094</data>
+  <data key="d6">3</data>
+  <data key="d7">8.379</data>
+</node>
+<node id="9009020386">
+  <data key="d4">14.5970083</data>
+  <data key="d5">121.0108966</data>
+  <data key="d6">3</data>
+  <data key="d7">8.822</data>
+</node>
+<node id="9009020387">
+  <data key="d4">14.5970903</data>
+  <data key="d5">121.010708</data>
+  <data key="d6">3</data>
+  <data key="d7">8.085</data>
+</node>
+<node id="9009020388">
+  <data key="d4">14.5971986</data>
+  <data key="d5">121.0117094</data>
+  <data key="d6">4</data>
+  <data key="d7">10.052</data>
+</node>
+<node id="9009028325">
+  <data key="d4">14.5970603</data>
+  <data key="d5">121.0111071</data>
+  <data key="d8">crossing</data>
+  <data key="d6">4</data>
+  <data key="d7">9.481</data>
+</node>
+<node id="9009028327">
+  <data key="d4">14.5970729</data>
+  <data key="d5">121.0111623</data>
+  <data key="d6">4</data>
+  <data key="d7">9.62</data>
+</node>
+<node id="3377719920">
+  <data key="d4">14.5974576</data>
+  <data key="d5">121.0113432</data>
+  <data key="d6">3</data>
+  <data key="d7">8.58</data>
+</node>
+<edge source="5413763998" target="3377719920" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">27.544</data>
+  <data key="d15">LINESTRING (121.0115915 14.5974285, 121.0115328 14.5974531, 121.0114703 14.5974664, 121.0114063 14.5974679, 121.0113432 14.5974576)</data>
+  <data key="d16">-0.012</data>
+  <data key="d17">0.012</data>
+</edge>
+<edge source="5413763998" target="9009020381" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">31.136000000000003</data>
+  <data key="d15">LINESTRING (121.0115915 14.5974285, 121.0116444 14.5973936, 121.0116845 14.5973553, 121.0117173 14.597311, 121.011742 14.597262, 121.0117579 14.5972097)</data>
+  <data key="d16">0.023</data>
+  <data key="d17">0.023</data>
+</edge>
+<edge source="5413764018" target="9008787004" id="0">
+  <data key="d9">973369336</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">11.864</data>
+  <data key="d16">0.048</data>
+  <data key="d17">0.048</data>
+</edge>
+<edge source="5413764018" target="3377719920" id="0">
+  <data key="d9">973369336</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">6.074</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="5413764018" target="9009028327" id="0">
+  <data key="d9">561444290</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">47.150000000000006</data>
+  <data key="d15">LINESTRING (121.0113595 14.5974053, 121.0112919 14.5973777, 121.0112341 14.5973342, 121.0111898 14.5972777, 121.0111621 14.5972121, 121.0111528 14.5971417, 121.0111623 14.5970729)</data>
+  <data key="d16">0.022</data>
+  <data key="d17">0.022</data>
+</edge>
+<edge source="5413764018" target="9009020388" id="0">
+  <data key="d9">561444290</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">49.27</data>
+  <data key="d15">LINESTRING (121.0113595 14.5974053, 121.0114335 14.5974151, 121.0115077 14.5974056, 121.0115766 14.5973775, 121.0116354 14.5973329, 121.01168 14.5972749, 121.0117094 14.5971986)</data>
+  <data key="d16">0.03</data>
+  <data key="d17">0.03</data>
+</edge>
+<edge source="9008787004" target="5413764018" id="0">
+  <data key="d9">973369336</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">11.864</data>
+  <data key="d16">-0.048</data>
+  <data key="d17">0.048</data>
+</edge>
+<edge source="9008787004" target="9008787005" id="0">
+  <data key="d9">973369339</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">29.11</data>
+  <data key="d15">LINESTRING (121.0113915 14.5973032, 121.0113424 14.597282, 121.0113024 14.5972471, 121.0112756 14.5972019, 121.0112645 14.597151, 121.0112705 14.5970978)</data>
+  <data key="d16">0.025</data>
+  <data key="d17">0.025</data>
+</edge>
+<edge source="9008787004" target="9008787007" id="0">
+  <data key="d9">973369339</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">30.221</data>
+  <data key="d15">LINESTRING (121.0113915 14.5973032, 121.0114452 14.5973087, 121.011498 14.5972979, 121.0115447 14.5972717, 121.0115808 14.5972328, 121.0116051 14.5971746)</data>
+  <data key="d16">0.045</data>
+  <data key="d17">0.045</data>
+</edge>
+<edge source="9008787005" target="9009028327" id="0">
+  <data key="d9">973392355</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">11.968</data>
+  <data key="d16">-0.02</data>
+  <data key="d17">0.02</data>
+</edge>
+<edge source="9008787005" target="9008787006" id="0">
+  <data key="d9">973369339</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">29.944</data>
+  <data key="d15">LINESTRING (121.0112705 14.5970978, 121.0112933 14.5970499, 121.0113316 14.5970104, 121.0113809 14.5969849, 121.0114361 14.596976, 121.0114913 14.5969848)</data>
+  <data key="d16">0.049</data>
+  <data key="d17">0.049</data>
+</edge>
+<edge source="9008787005" target="9008787004" id="0">
+  <data key="d9">973369339</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">29.110000000000003</data>
+  <data key="d15">LINESTRING (121.0112705 14.5970978, 121.0112645 14.597151, 121.0112756 14.5972019, 121.0113024 14.5972471, 121.0113424 14.597282, 121.0113915 14.5973032)</data>
+  <data key="d16">-0.025</data>
+  <data key="d17">0.025</data>
+</edge>
+<edge source="9008787006" target="9008898525" id="0">
+  <data key="d9">973369337</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">11.643</data>
+  <data key="d16">0.066</data>
+  <data key="d17">0.066</data>
+</edge>
+<edge source="9008787006" target="9008787007" id="0">
+  <data key="d9">973369339</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">26.542</data>
+  <data key="d15">LINESTRING (121.0114913 14.5969848, 121.0115371 14.5970076, 121.0115738 14.5970426, 121.0115982 14.5970865, 121.0116081 14.5971354, 121.0116051 14.5971746)</data>
+  <data key="d16">-0.031</data>
+  <data key="d17">0.031</data>
+</edge>
+<edge source="9008787006" target="9008787005" id="0">
+  <data key="d9">973369339</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">29.944</data>
+  <data key="d15">LINESTRING (121.0114913 14.5969848, 121.0114361 14.596976, 121.0113809 14.5969849, 121.0113316 14.5970104, 121.0112933 14.5970499, 121.0112705 14.5970978)</data>
+  <data key="d16">-0.049</data>
+  <data key="d17">0.049</data>
+</edge>
+<edge source="9008767548" target="9008898525" id="0">
+  <data key="d9">973369337</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">5.401</data>
+  <data key="d16">-0.066</data>
+  <data key="d17">0.066</data>
+</edge>
+<edge source="9008767548" target="9009020381" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">51.95700000000001</data>
+  <data key="d15">LINESTRING (121.0115372 14.5968381, 121.0116098 14.5968717, 121.011672 14.5969212, 121.0117202 14.5969835, 121.0117516 14.5970552, 121.0117644 14.5971321, 121.0117579 14.5972097)</data>
+  <data key="d16">-0.055</data>
+  <data key="d17">0.055</data>
+</edge>
+<edge source="9008767548" target="9008825942" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">27.936999999999998</data>
+  <data key="d15">LINESTRING (121.0115372 14.5968381, 121.0114869 14.5968258, 121.0114352 14.5968211, 121.0113834 14.5968242, 121.0113327 14.5968351, 121.0112843 14.5968534)</data>
+  <data key="d16">-0.048</data>
+  <data key="d17">0.048</data>
+</edge>
+<edge source="9008787007" target="9009020388" id="0">
+  <data key="d9">973369340</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">11.536</data>
+  <data key="d16">-0.04</data>
+  <data key="d17">0.04</data>
+</edge>
+<edge source="9008787007" target="9008787004" id="0">
+  <data key="d9">973369339</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">30.221000000000004</data>
+  <data key="d15">LINESTRING (121.0116051 14.5971746, 121.0115808 14.5972328, 121.0115447 14.5972717, 121.011498 14.5972979, 121.0114452 14.5973087, 121.0113915 14.5973032)</data>
+  <data key="d16">-0.045</data>
+  <data key="d17">0.045</data>
+</edge>
+<edge source="9008787007" target="9008787006" id="0">
+  <data key="d9">973369339</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">26.542</data>
+  <data key="d15">LINESTRING (121.0116051 14.5971746, 121.0116081 14.5971354, 121.0115982 14.5970865, 121.0115738 14.5970426, 121.0115371 14.5970076, 121.0114913 14.5969848)</data>
+  <data key="d16">0.031</data>
+  <data key="d17">0.031</data>
+</edge>
+<edge source="9008767566" target="8912022235" id="0">
+  <data key="d9">963455570</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">66.88</data>
+  <data key="d16">-0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="9008767566" target="9008825942" id="0">
+  <data key="d9">[330772176, 330772177]</data>
+  <data key="d11">service</data>
+  <data key="d18">permissive</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">44.121</data>
+  <data key="d15">LINESTRING (121.011307 14.5965125, 121.0113753 14.5965735, 121.0113864 14.5966386, 121.0113786 14.5967038, 121.0112843 14.5968534)</data>
+  <data key="d16">0.043</data>
+  <data key="d17">0.043</data>
+</edge>
+<edge source="8912022223" target="8912022237" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">13.227</data>
+  <data key="d15">LINESTRING (121.0106751 14.5969863, 121.0106854 14.5969597, 121.0106985 14.596941, 121.0107154 14.5969253, 121.0107352 14.5969133, 121.0107572 14.5969055)</data>
+  <data key="d16">0.026</data>
+  <data key="d17">0.026</data>
+</edge>
+<edge source="8912022223" target="9009020387" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">12.628</data>
+  <data key="d15">LINESTRING (121.0106751 14.5969863, 121.0106723 14.5970146, 121.0106772 14.5970426, 121.0106893 14.5970684, 121.010708 14.5970903)</data>
+  <data key="d16">0.019</data>
+  <data key="d17">0.019</data>
+</edge>
+<edge source="9008825942" target="9008767548" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">27.937000000000005</data>
+  <data key="d15">LINESTRING (121.0112843 14.5968534, 121.0113327 14.5968351, 121.0113834 14.5968242, 121.0114352 14.5968211, 121.0114869 14.5968258, 121.0115372 14.5968381)</data>
+  <data key="d16">0.048</data>
+  <data key="d17">0.048</data>
+</edge>
+<edge source="9008825942" target="9009028325" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">30.804</data>
+  <data key="d15">LINESTRING (121.0112843 14.5968534, 121.0112395 14.5968787, 121.0111992 14.5969104, 121.0111949 14.5969144, 121.0111907 14.5969185, 121.0111866 14.5969227, 121.0111825 14.5969269, 121.0111785 14.5969313, 121.0111746 14.5969356, 121.0111708 14.5969401, 121.0111671 14.5969446, 121.0111634 14.5969492, 121.0111599 14.5969538, 121.0111564 14.5969585, 121.011153 14.5969633, 121.0111497 14.5969681, 121.0111464 14.596973, 121.0111433 14.5969779, 121.0111403 14.5969829, 121.0111373 14.5969879, 121.0111345 14.596993, 121.0111317 14.5969982, 121.0111291 14.5970033, 121.0111265 14.5970086, 121.011124 14.5970138, 121.0111217 14.5970191, 121.0111194 14.5970245, 121.0111172 14.5970299, 121.0111151 14.5970353, 121.0111132 14.5970408, 121.0111113 14.5970463, 121.0111095 14.5970518, 121.0111071 14.5970603)</data>
+  <data key="d16">-0.053</data>
+  <data key="d17">0.053</data>
+</edge>
+<edge source="9008825942" target="9008767566" id="0">
+  <data key="d9">[330772176, 330772177]</data>
+  <data key="d11">service</data>
+  <data key="d18">permissive</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">44.121</data>
+  <data key="d15">LINESTRING (121.0112843 14.5968534, 121.0113786 14.5967038, 121.0113864 14.5966386, 121.0113753 14.5965735, 121.011307 14.5965125)</data>
+  <data key="d16">-0.043</data>
+  <data key="d17">0.043</data>
+</edge>
+<edge source="8912022233" target="9009020385" id="0">
+  <data key="d9">963455569</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">63.352</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="8912022235" target="9008767566" id="0">
+  <data key="d9">963455570</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">66.88</data>
+  <data key="d16">0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="8912022235" target="9009020386" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">8.684999999999999</data>
+  <data key="d15">LINESTRING (121.010867 14.5969373, 121.0108792 14.5969528, 121.0108884 14.5969702, 121.0108943 14.5969889, 121.0108966 14.5970083)</data>
+  <data key="d16">0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+<edge source="8912022235" target="8912022237" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">12.902999999999999</data>
+  <data key="d15">LINESTRING (121.010867 14.5969373, 121.0108439 14.5969188, 121.0108166 14.5969068, 121.010787 14.5969023, 121.0107572 14.5969055)</data>
+  <data key="d16">-0.046</data>
+  <data key="d17">0.046</data>
+</edge>
+<edge source="9008898525" target="9008767548" id="0">
+  <data key="d9">973369337</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">5.401</data>
+  <data key="d16">0.066</data>
+  <data key="d17">0.066</data>
+</edge>
+<edge source="9008898525" target="9008787006" id="0">
+  <data key="d9">973369337</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">11.643</data>
+  <data key="d16">-0.066</data>
+  <data key="d17">0.066</data>
+</edge>
+<edge source="9008898525" target="9009020388" id="0">
+  <data key="d9">561444290</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">43.965999999999994</data>
+  <data key="d15">LINESTRING (121.0115227 14.5968846, 121.0115856 14.5969136, 121.0116392 14.5969567, 121.0116802 14.5970112, 121.0117061 14.5970737, 121.0117153 14.5971405, 121.0117094 14.5971986)</data>
+  <data key="d16">-0.047</data>
+  <data key="d17">0.047</data>
+</edge>
+<edge source="9008898525" target="9009028327" id="0">
+  <data key="d9">561444290</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">49.278999999999996</data>
+  <data key="d15">LINESTRING (121.0115227 14.5968846, 121.011467 14.5968726, 121.01141 14.5968717, 121.0113539 14.596882, 121.0113011 14.5969031, 121.0112539 14.596934, 121.011214 14.5969735, 121.0111832 14.5970199, 121.0111623 14.5970729)</data>
+  <data key="d16">-0.051</data>
+  <data key="d17">0.051</data>
+</edge>
+<edge source="9009020381" target="9009020388" id="0">
+  <data key="d9">973369340</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">5.363</data>
+  <data key="d16">0.079</data>
+  <data key="d17">0.079</data>
+</edge>
+<edge source="9009020381" target="5413763998" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">31.136</data>
+  <data key="d15">LINESTRING (121.0117579 14.5972097, 121.011742 14.597262, 121.0117173 14.597311, 121.0116845 14.5973553, 121.0116444 14.5973936, 121.0115915 14.5974285)</data>
+  <data key="d16">-0.023</data>
+  <data key="d17">0.023</data>
+</edge>
+<edge source="9009020381" target="9008767548" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">51.956999999999994</data>
+  <data key="d15">LINESTRING (121.0117579 14.5972097, 121.0117644 14.5971321, 121.0117516 14.5970552, 121.0117202 14.5969835, 121.011672 14.5969212, 121.0116098 14.5968717, 121.0115372 14.5968381)</data>
+  <data key="d16">0.055</data>
+  <data key="d17">0.055</data>
+</edge>
+<edge source="8912022237" target="8912022235" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">12.903</data>
+  <data key="d15">LINESTRING (121.0107572 14.5969055, 121.010787 14.5969023, 121.0108166 14.5969068, 121.0108439 14.5969188, 121.010867 14.5969373)</data>
+  <data key="d16">0.046</data>
+  <data key="d17">0.046</data>
+</edge>
+<edge source="8912022237" target="8912022223" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">13.227</data>
+  <data key="d15">LINESTRING (121.0107572 14.5969055, 121.0107352 14.5969133, 121.0107154 14.5969253, 121.0106985 14.596941, 121.0106854 14.5969597, 121.0106751 14.5969863)</data>
+  <data key="d16">-0.026</data>
+  <data key="d17">0.026</data>
+</edge>
+<edge source="9009020385" target="8912022233" id="0">
+  <data key="d9">963455569</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">63.352</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="9009020385" target="9009020387" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">11.737</data>
+  <data key="d15">LINESTRING (121.0108094 14.5971166, 121.0107878 14.5971193, 121.010766 14.5971179, 121.0107449 14.5971124, 121.0107254 14.5971031, 121.010708 14.5970903)</data>
+  <data key="d16">-0.025</data>
+  <data key="d17">0.025</data>
+</edge>
+<edge source="9009020385" target="9009020386" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">16.475</data>
+  <data key="d15">LINESTRING (121.0108094 14.5971166, 121.0108381 14.5971061, 121.0108627 14.5970885, 121.0108815 14.5970652, 121.0108931 14.5970377, 121.0108966 14.5970083)</data>
+  <data key="d16">0.027</data>
+  <data key="d17">0.027</data>
+</edge>
+<edge source="9009020386" target="9009028325" id="0">
+  <data key="d9">973392353</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">23.377</data>
+  <data key="d16">0.028</data>
+  <data key="d17">0.028</data>
+</edge>
+<edge source="9009020386" target="9009020385" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">16.475</data>
+  <data key="d15">LINESTRING (121.0108966 14.5970083, 121.0108931 14.5970377, 121.0108815 14.5970652, 121.0108627 14.5970885, 121.0108381 14.5971061, 121.0108094 14.5971166)</data>
+  <data key="d16">-0.027</data>
+  <data key="d17">0.027</data>
+</edge>
+<edge source="9009020386" target="8912022235" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">8.684999999999999</data>
+  <data key="d15">LINESTRING (121.0108966 14.5970083, 121.0108943 14.5969889, 121.0108884 14.5969702, 121.0108792 14.5969528, 121.010867 14.5969373)</data>
+  <data key="d16">-0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+<edge source="9009020387" target="8912022223" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">12.627999999999998</data>
+  <data key="d15">LINESTRING (121.010708 14.5970903, 121.0106893 14.5970684, 121.0106772 14.5970426, 121.0106723 14.5970146, 121.0106751 14.5969863)</data>
+  <data key="d16">-0.019</data>
+  <data key="d17">0.019</data>
+</edge>
+<edge source="9009020387" target="9009020385" id="0">
+  <data key="d9">963455567</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">11.737</data>
+  <data key="d15">LINESTRING (121.010708 14.5970903, 121.0107254 14.5971031, 121.0107449 14.5971124, 121.010766 14.5971179, 121.0107878 14.5971193, 121.0108094 14.5971166)</data>
+  <data key="d16">0.025</data>
+  <data key="d17">0.025</data>
+</edge>
+<edge source="9009020388" target="9008787007" id="0">
+  <data key="d9">973369340</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">11.536</data>
+  <data key="d16">0.04</data>
+  <data key="d17">0.04</data>
+</edge>
+<edge source="9009020388" target="9009020381" id="0">
+  <data key="d9">973369340</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">5.363</data>
+  <data key="d16">-0.079</data>
+  <data key="d17">0.079</data>
+</edge>
+<edge source="9009020388" target="5413764018" id="0">
+  <data key="d9">561444290</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">49.27</data>
+  <data key="d15">LINESTRING (121.0117094 14.5971986, 121.01168 14.5972749, 121.0116354 14.5973329, 121.0115766 14.5973775, 121.0115077 14.5974056, 121.0114335 14.5974151, 121.0113595 14.5974053)</data>
+  <data key="d16">-0.03</data>
+  <data key="d17">0.03</data>
+</edge>
+<edge source="9009020388" target="9008898525" id="0">
+  <data key="d9">561444290</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">43.966</data>
+  <data key="d15">LINESTRING (121.0117094 14.5971986, 121.0117153 14.5971405, 121.0117061 14.5970737, 121.0116802 14.5970112, 121.0116392 14.5969567, 121.0115856 14.5969136, 121.0115227 14.5968846)</data>
+  <data key="d16">0.047</data>
+  <data key="d17">0.047</data>
+</edge>
+<edge source="9009028325" target="9009028327" id="0">
+  <data key="d9">973392353</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">6.103</data>
+  <data key="d16">0.023</data>
+  <data key="d17">0.023</data>
+</edge>
+<edge source="9009028325" target="9009020386" id="0">
+  <data key="d9">973392353</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">23.377</data>
+  <data key="d16">-0.028</data>
+  <data key="d17">0.028</data>
+</edge>
+<edge source="9009028325" target="9008825942" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">30.804000000000002</data>
+  <data key="d15">LINESTRING (121.0111071 14.5970603, 121.0111095 14.5970518, 121.0111113 14.5970463, 121.0111132 14.5970408, 121.0111151 14.5970353, 121.0111172 14.5970299, 121.0111194 14.5970245, 121.0111217 14.5970191, 121.011124 14.5970138, 121.0111265 14.5970086, 121.0111291 14.5970033, 121.0111317 14.5969982, 121.0111345 14.596993, 121.0111373 14.5969879, 121.0111403 14.5969829, 121.0111433 14.5969779, 121.0111464 14.596973, 121.0111497 14.5969681, 121.011153 14.5969633, 121.0111564 14.5969585, 121.0111599 14.5969538, 121.0111634 14.5969492, 121.0111671 14.5969446, 121.0111708 14.5969401, 121.0111746 14.5969356, 121.0111785 14.5969313, 121.0111825 14.5969269, 121.0111866 14.5969227, 121.0111907 14.5969185, 121.0111949 14.5969144, 121.0111992 14.5969104, 121.0112395 14.5968787, 121.0112843 14.5968534)</data>
+  <data key="d16">0.053</data>
+  <data key="d17">0.053</data>
+</edge>
+<edge source="9009028325" target="3377719920" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">56.61599999999999</data>
+  <data key="d15">LINESTRING (121.0111071 14.5970603, 121.0111017 14.5970823, 121.0110976 14.5971076, 121.0110956 14.5971331, 121.0110957 14.5971587, 121.0110979 14.5971842, 121.0111021 14.5972095, 121.0111084 14.5972344, 121.0111167 14.5972587, 121.011127 14.5972823, 121.0111392 14.597305, 121.0111532 14.5973268, 121.0111689 14.5973474, 121.0111862 14.5973667, 121.0112051 14.5973846, 121.0112254 14.5974011, 121.0112469 14.5974159, 121.0112696 14.5974291, 121.0112933 14.5974405, 121.0113179 14.59745, 121.0113432 14.5974576)</data>
+  <data key="d16">-0.016</data>
+  <data key="d17">0.016</data>
+</edge>
+<edge source="9009028327" target="9009028325" id="0">
+  <data key="d9">973392353</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">6.103</data>
+  <data key="d16">-0.023</data>
+  <data key="d17">0.023</data>
+</edge>
+<edge source="9009028327" target="9008787005" id="0">
+  <data key="d9">973392355</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">11.968</data>
+  <data key="d16">0.02</data>
+  <data key="d17">0.02</data>
+</edge>
+<edge source="9009028327" target="9008898525" id="0">
+  <data key="d9">561444290</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">49.278999999999996</data>
+  <data key="d15">LINESTRING (121.0111623 14.5970729, 121.0111832 14.5970199, 121.011214 14.5969735, 121.0112539 14.596934, 121.0113011 14.5969031, 121.0113539 14.596882, 121.01141 14.5968717, 121.011467 14.5968726, 121.0115227 14.5968846)</data>
+  <data key="d16">0.051</data>
+  <data key="d17">0.051</data>
+</edge>
+<edge source="9009028327" target="5413764018" id="0">
+  <data key="d9">561444290</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">47.14999999999999</data>
+  <data key="d15">LINESTRING (121.0111623 14.5970729, 121.0111528 14.5971417, 121.0111621 14.5972121, 121.0111898 14.5972777, 121.0112341 14.5973342, 121.0112919 14.5973777, 121.0113595 14.5974053)</data>
+  <data key="d16">-0.022</data>
+  <data key="d17">0.022</data>
+</edge>
+<edge source="3377719920" target="5413764018" id="0">
+  <data key="d9">973369336</data>
+  <data key="d11">footway</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">6.074</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="3377719920" target="9009028325" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">56.61600000000001</data>
+  <data key="d15">LINESTRING (121.0113432 14.5974576, 121.0113179 14.59745, 121.0112933 14.5974405, 121.0112696 14.5974291, 121.0112469 14.5974159, 121.0112254 14.5974011, 121.0112051 14.5973846, 121.0111862 14.5973667, 121.0111689 14.5973474, 121.0111532 14.5973268, 121.0111392 14.597305, 121.011127 14.5972823, 121.0111167 14.5972587, 121.0111084 14.5972344, 121.0111021 14.5972095, 121.0110979 14.5971842, 121.0110957 14.5971587, 121.0110956 14.5971331, 121.0110976 14.5971076, 121.0111017 14.5970823, 121.0111071 14.5970603)</data>
+  <data key="d16">0.016</data>
+  <data key="d17">0.016</data>
+</edge>
+<edge source="3377719920" target="5413763998" id="0">
+  <data key="d9">176463923</data>
+  <data key="d10">Interfaith Chapel Road</data>
+  <data key="d11">service</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">27.544</data>
+  <data key="d15">LINESTRING (121.0113432 14.5974576, 121.0114063 14.5974679, 121.0114703 14.5974664, 121.0115328 14.5974531, 121.0115915 14.5974285)</data>
+  <data key="d16">0.012</data>
+  <data key="d17">0.012</data>
+</edge>
+</graph></graphml>

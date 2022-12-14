@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="length" attr.type="string"/>
+<key id="d16" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d15" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d14" for="edge" attr.name="width" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="highway" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:37:47</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="68076078">
+  <data key="d4">14.6075129</data>
+  <data key="d5">120.9927232</data>
+  <data key="d6">4</data>
+  <data key="d7">2.146</data>
+</node>
+<node id="191591251">
+  <data key="d4">14.6064547</data>
+  <data key="d5">120.9937532</data>
+  <data key="d6">4</data>
+  <data key="d7">2.824</data>
+</node>
+<node id="191591928">
+  <data key="d4">14.6069878</data>
+  <data key="d5">120.9932262</data>
+  <data key="d8">traffic_signals</data>
+  <data key="d6">4</data>
+  <data key="d7">2.445</data>
+</node>
+<node id="1982372276">
+  <data key="d4">14.6077088</data>
+  <data key="d5">120.9929266</data>
+  <data key="d6">3</data>
+  <data key="d7">1.89</data>
+</node>
+<node id="7789263044">
+  <data key="d4">14.6084719</data>
+  <data key="d5">120.9928315</data>
+  <data key="d6">3</data>
+  <data key="d7">2.666</data>
+</node>
+<edge source="68076078" target="1982372276" id="0">
+  <data key="d9">825090438</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+  <data key="d16">True</data>
+  <data key="d17">30.879</data>
+  <data key="d18">-0.008</data>
+  <data key="d19">0.008</data>
+</edge>
+<edge source="68076078" target="191591928" id="0">
+  <data key="d9">825090439</data>
+  <data key="d10">2</data>
+  <data key="d11">Florentino Cayco Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d15">False</data>
+  <data key="d16">False</data>
+  <data key="d17">79.61500000000001</data>
+  <data key="d20">LINESTRING (120.9927232 14.6075129, 120.9929279 14.6072992, 120.9932262 14.6069878)</data>
+  <data key="d18">0.004</data>
+  <data key="d19">0.004</data>
+</edge>
+<edge source="191591251" target="191591928" id="0">
+  <data key="d9">256019246</data>
+  <data key="d10">2</data>
+  <data key="d11">Florentino Cayco Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d15">False</data>
+  <data key="d16">True</data>
+  <data key="d17">82.03399999999999</data>
+  <data key="d20">LINESTRING (120.9937532 14.6064547, 120.9935239 14.6066866, 120.9932262 14.6069878)</data>
+  <data key="d18">-0.005</data>
+  <data key="d19">0.005</data>
+</edge>
+<edge source="191591928" target="191591251" id="0">
+  <data key="d9">256019246</data>
+  <data key="d10">2</data>
+  <data key="d11">Florentino Cayco Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d15">False</data>
+  <data key="d16">False</data>
+  <data key="d17">82.03399999999999</data>
+  <data key="d20">LINESTRING (120.9932262 14.6069878, 120.9935239 14.6066866, 120.9937532 14.6064547)</data>
+  <data key="d18">0.005</data>
+  <data key="d19">0.005</data>
+</edge>
+<edge source="191591928" target="68076078" id="0">
+  <data key="d9">825090439</data>
+  <data key="d10">2</data>
+  <data key="d11">Florentino Cayco Street</data>
+  <data key="d12">tertiary</data>
+  <data key="d13">40</data>
+  <data key="d15">False</data>
+  <data key="d16">True</data>
+  <data key="d17">79.61500000000001</data>
+  <data key="d20">LINESTRING (120.9932262 14.6069878, 120.9929279 14.6072992, 120.9927232 14.6075129)</data>
+  <data key="d18">-0.004</data>
+  <data key="d19">0.004</data>
+</edge>
+<edge source="1982372276" target="68076078" id="0">
+  <data key="d9">825090438</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+  <data key="d16">False</data>
+  <data key="d17">30.879</data>
+  <data key="d18">0.008</data>
+  <data key="d19">0.008</data>
+</edge>
+<edge source="1982372276" target="7789263044" id="0">
+  <data key="d9">187593389</data>
+  <data key="d11">Valencia Street</data>
+  <data key="d12">residential</data>
+  <data key="d15">False</data>
+  <data key="d16">False</data>
+  <data key="d17">92.566</data>
+  <data key="d20">LINESTRING (120.9929266 14.6077088, 120.9928817 14.6077656, 120.9928303 14.6078305, 120.9927551 14.6084062, 120.9928315 14.6084719)</data>
+  <data key="d18">0.008</data>
+  <data key="d19">0.008</data>
+</edge>
+<edge source="7789263044" target="1982372276" id="0">
+  <data key="d9">187593389</data>
+  <data key="d11">Valencia Street</data>
+  <data key="d12">residential</data>
+  <data key="d15">False</data>
+  <data key="d16">True</data>
+  <data key="d17">92.566</data>
+  <data key="d20">LINESTRING (120.9928315 14.6084719, 120.9927551 14.6084062, 120.9928303 14.6078305, 120.9928817 14.6077656, 120.9929266 14.6077088)</data>
+  <data key="d18">-0.008</data>
+  <data key="d19">0.008</data>
+</edge>
+</graph></graphml>

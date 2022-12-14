@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="width" attr.type="string"/>
+<key id="d18" for="edge" attr.name="bridge" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 06:47:57</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="158220847">
+  <data key="d4">14.5793158</data>
+  <data key="d5">121.003891</data>
+  <data key="d6">3</data>
+  <data key="d7">3.619</data>
+</node>
+<node id="158220941">
+  <data key="d4">14.579228</data>
+  <data key="d5">121.0035201</data>
+  <data key="d6">3</data>
+  <data key="d7">3.459</data>
+</node>
+<node id="2817896802">
+  <data key="d4">14.5793872</data>
+  <data key="d5">121.0041929</data>
+  <data key="d6">3</data>
+  <data key="d7">3.987</data>
+</node>
+<node id="2817896804">
+  <data key="d4">14.5794218</data>
+  <data key="d5">121.0043376</data>
+  <data key="d6">3</data>
+  <data key="d7">4.189</data>
+</node>
+<node id="9791193834">
+  <data key="d4">14.5793302</data>
+  <data key="d5">121.0035009</data>
+  <data key="d6">1</data>
+  <data key="d7">3.582</data>
+</node>
+<edge source="158220847" target="2817896802" id="0">
+  <data key="d8">28724490</data>
+  <data key="d9">4</data>
+  <data key="d10">Pedro Gil Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">33.445</data>
+  <data key="d16">0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="158220847" target="158220941" id="0">
+  <data key="d8">28724490</data>
+  <data key="d9">4</data>
+  <data key="d10">Pedro Gil Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">41.091</data>
+  <data key="d16">-0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+<edge source="158220941" target="158220847" id="0">
+  <data key="d8">28724490</data>
+  <data key="d9">4</data>
+  <data key="d10">Pedro Gil Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">41.091</data>
+  <data key="d16">0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+<edge source="158220941" target="9791193834" id="0">
+  <data key="d8">1078021151</data>
+  <data key="d9">2</data>
+  <data key="d10">La Purisima Concepcion Road</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">11.55</data>
+  <data key="d16">0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="2817896802" target="158220847" id="0">
+  <data key="d8">28724490</data>
+  <data key="d9">4</data>
+  <data key="d10">Pedro Gil Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">33.445</data>
+  <data key="d16">-0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="2817896802" target="2817896804" id="0">
+  <data key="d8">[769178984, 28724490, 154422838]</data>
+  <data key="d9">4</data>
+  <data key="d10">Pedro Gil Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">16.041</data>
+  <data key="d18">yes</data>
+  <data key="d19">11</data>
+  <data key="d20">LINESTRING (121.0041929 14.5793872, 121.0042138 14.5793922, 121.0043204 14.5794174, 121.0043376 14.5794218)</data>
+  <data key="d16">0.013</data>
+  <data key="d17">0.013</data>
+</edge>
+<edge source="2817896804" target="2817896802" id="0">
+  <data key="d8">[769178984, 28724490, 154422838]</data>
+  <data key="d9">4</data>
+  <data key="d10">Pedro Gil Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">50</data>
+  <data key="d19">11</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">16.041</data>
+  <data key="d18">yes</data>
+  <data key="d20">LINESTRING (121.0043376 14.5794218, 121.0043204 14.5794174, 121.0042138 14.5793922, 121.0041929 14.5793872)</data>
+  <data key="d16">-0.013</data>
+  <data key="d17">0.013</data>
+</edge>
+<edge source="9791193834" target="158220941" id="0">
+  <data key="d8">1078021151</data>
+  <data key="d9">2</data>
+  <data key="d10">La Purisima Concepcion Road</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">11.55</data>
+  <data key="d16">-0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+</graph></graphml>

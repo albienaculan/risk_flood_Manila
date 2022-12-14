@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="bridge" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:22:18</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="168153393">
+  <data key="d4">14.5912642</data>
+  <data key="d5">120.980517</data>
+  <data key="d6">3</data>
+  <data key="d7">1.757</data>
+</node>
+<node id="299920967">
+  <data key="d4">14.5924296</data>
+  <data key="d5">120.9801923</data>
+  <data key="d6">3</data>
+  <data key="d7">1.46</data>
+</node>
+<node id="333595955">
+  <data key="d4">14.5938065</data>
+  <data key="d5">120.9812172</data>
+  <data key="d6">1</data>
+  <data key="d7">3.702</data>
+</node>
+<node id="667623648">
+  <data key="d4">14.5914827</data>
+  <data key="d5">120.9818694</data>
+  <data key="d6">3</data>
+  <data key="d7">3.477</data>
+</node>
+<node id="6251037104">
+  <data key="d4">14.5954167</data>
+  <data key="d5">120.9802184</data>
+  <data key="d6">3</data>
+  <data key="d7">2.268</data>
+</node>
+<node id="9786870681">
+  <data key="d4">14.5914701</data>
+  <data key="d5">120.9804894</data>
+  <data key="d6">3</data>
+  <data key="d7">1.506</data>
+</node>
+<edge source="168153393" target="9786870681" id="0">
+  <data key="d8">1112806208</data>
+  <data key="d9">True</data>
+  <data key="d10">4</data>
+  <data key="d11">150;170</data>
+  <data key="d12">Padre Burgos Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">23.087</data>
+  <data key="d17">-0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="299920967" target="6251037104" id="0">
+  <data key="d8">[55208384, 16268754, 89527835]</data>
+  <data key="d9">True</data>
+  <data key="d10">['2', '3']</data>
+  <data key="d11">150</data>
+  <data key="d12">Liwasang Bonifacio East Overpass</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">343.11299999999994</data>
+  <data key="d19">yes</data>
+  <data key="d20">LINESTRING (120.9801923 14.5924296, 120.9800399 14.5927518, 120.9798711 14.5933576, 120.9798334 14.5935042, 120.9798307 14.5935823, 120.9798316 14.5936704, 120.9798465 14.593784, 120.9801082 14.5948993, 120.9801615 14.5951272, 120.9801928 14.5952757, 120.9802184 14.5954167)</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="333595955" target="667623648" id="0">
+  <data key="d8">[1112806203, 795463274, 4637643]</data>
+  <data key="d10">['2', '4']</data>
+  <data key="d12">A. Villegas Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">40</data>
+  <data key="d9">False</data>
+  <data key="d15">True</data>
+  <data key="d16">287.65100000000007</data>
+  <data key="d20">LINESTRING (120.9812172 14.5938065, 120.9812677 14.5936364, 120.9813134 14.593484, 120.9814782 14.5933979, 120.9815506 14.593372, 120.9816473 14.5933158, 120.9816619 14.5932909, 120.9817222 14.5931299, 120.9818175 14.5927899, 120.9818955 14.5925863, 120.9819267 14.5924405, 120.9819404 14.5923431, 120.9819202 14.5922508, 120.98188 14.592115, 120.9818576 14.5919587, 120.9818586 14.5917024, 120.9818694 14.5914827)</data>
+  <data key="d17">-0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="667623648" target="9786870681" id="0">
+  <data key="d8">[52541182, 1112806207]</data>
+  <data key="d9">True</data>
+  <data key="d10">2</data>
+  <data key="d12">Cecilia Muñoz-Palma Street</data>
+  <data key="d13">unclassified</data>
+  <data key="d14">30</data>
+  <data key="d15">False</data>
+  <data key="d16">148.507</data>
+  <data key="d20">LINESTRING (120.9818694 14.5914827, 120.9813313 14.5914778, 120.9804894 14.5914701)</data>
+  <data key="d17">-0.013</data>
+  <data key="d18">0.013</data>
+</edge>
+<edge source="667623648" target="333595955" id="0">
+  <data key="d8">[795463274, 1112806203, 4637643]</data>
+  <data key="d10">['2', '4']</data>
+  <data key="d12">A. Villegas Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">40</data>
+  <data key="d9">False</data>
+  <data key="d15">False</data>
+  <data key="d16">287.65099999999995</data>
+  <data key="d20">LINESTRING (120.9818694 14.5914827, 120.9818586 14.5917024, 120.9818576 14.5919587, 120.98188 14.592115, 120.9819202 14.5922508, 120.9819404 14.5923431, 120.9819267 14.5924405, 120.9818955 14.5925863, 120.9818175 14.5927899, 120.9817222 14.5931299, 120.9816619 14.5932909, 120.9816473 14.5933158, 120.9815506 14.593372, 120.9814782 14.5933979, 120.9813134 14.593484, 120.9812677 14.5936364, 120.9812172 14.5938065)</data>
+  <data key="d17">0.001</data>
+  <data key="d18">0.001</data>
+</edge>
+<edge source="9786870681" target="299920967" id="0">
+  <data key="d8">158627305</data>
+  <data key="d9">True</data>
+  <data key="d10">4</data>
+  <data key="d11">150;170</data>
+  <data key="d12">Padre Burgos Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">111.43199999999999</data>
+  <data key="d20">LINESTRING (120.9804894 14.5914701, 120.980398 14.5918149, 120.9803162 14.5920689, 120.9802471 14.5922742, 120.9802074 14.5923881, 120.9801923 14.5924296)</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+</graph></graphml>

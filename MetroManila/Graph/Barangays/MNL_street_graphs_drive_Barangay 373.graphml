@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d17" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:08:09</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="134250310">
+  <data key="d4">14.6290066</data>
+  <data key="d5">120.9793843</data>
+  <data key="d6">3</data>
+  <data key="d7">2.724</data>
+</node>
+<node id="225946195">
+  <data key="d4">14.6304793</data>
+  <data key="d5">120.9798933</data>
+  <data key="d6">4</data>
+  <data key="d7">3.25</data>
+</node>
+<node id="243464123">
+  <data key="d4">14.6296236</data>
+  <data key="d5">120.9797273</data>
+  <data key="d6">3</data>
+  <data key="d7">3.438</data>
+</node>
+<node id="1479806375">
+  <data key="d4">14.6294257</data>
+  <data key="d5">120.9802934</data>
+  <data key="d6">3</data>
+  <data key="d7">2.841</data>
+</node>
+<node id="2500385543">
+  <data key="d4">14.630443</data>
+  <data key="d5">120.9800169</data>
+  <data key="d6">3</data>
+  <data key="d7">3.303</data>
+</node>
+<edge source="225946195" target="2500385543" id="0">
+  <data key="d8">242568956</data>
+  <data key="d9">Morong Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">13.897</data>
+  <data key="d14">0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="225946195" target="134250310" id="0">
+  <data key="d8">107064783</data>
+  <data key="d11">True</data>
+  <data key="d16">4</data>
+  <data key="d17">151</data>
+  <data key="d9">Abad Santos Avenue</data>
+  <data key="d10">secondary</data>
+  <data key="d18">50</data>
+  <data key="d12">False</data>
+  <data key="d13">172.672</data>
+  <data key="d19">LINESTRING (120.9798933 14.6304793, 120.9798753 14.6304305, 120.9793955 14.6290391, 120.9793843 14.6290066)</data>
+  <data key="d14">-0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="243464123" target="1479806375" id="0">
+  <data key="d8">150157973</data>
+  <data key="d16">2</data>
+  <data key="d9">Dinalupihan Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">64.76</data>
+  <data key="d14">-0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="243464123" target="2500385543" id="0">
+  <data key="d8">22749795</data>
+  <data key="d11">True</data>
+  <data key="d16">3</data>
+  <data key="d17">151</data>
+  <data key="d9">Abad Santos Avenue</data>
+  <data key="d10">secondary</data>
+  <data key="d18">50</data>
+  <data key="d12">False</data>
+  <data key="d13">96.294</data>
+  <data key="d19">LINESTRING (120.9797273 14.6296236, 120.9800036 14.6304051, 120.9800169 14.630443)</data>
+  <data key="d14">-0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+<edge source="1479806375" target="243464123" id="0">
+  <data key="d8">150157973</data>
+  <data key="d16">2</data>
+  <data key="d9">Dinalupihan Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">64.76</data>
+  <data key="d14">0.009</data>
+  <data key="d15">0.009</data>
+</edge>
+<edge source="2500385543" target="225946195" id="0">
+  <data key="d8">242568956</data>
+  <data key="d9">Morong Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">13.897</data>
+  <data key="d14">-0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+</graph></graphml>

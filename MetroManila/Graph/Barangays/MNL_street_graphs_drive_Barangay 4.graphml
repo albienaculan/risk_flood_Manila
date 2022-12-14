@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 04:09:35</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="244117639">
+  <data key="d4">14.606894</data>
+  <data key="d5">120.9654521</data>
+  <data key="d6">3</data>
+  <data key="d7">3.704</data>
+</node>
+<node id="1732972326">
+  <data key="d4">14.6064421</data>
+  <data key="d5">120.9649188</data>
+  <data key="d6">1</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1732972332">
+  <data key="d4">14.6068911</data>
+  <data key="d5">120.9649054</data>
+  <data key="d6">4</data>
+  <data key="d7">3.929</data>
+</node>
+<node id="1733946208">
+  <data key="d4">14.6068915</data>
+  <data key="d5">120.9646779</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="10023815587">
+  <data key="d4">14.6068921</data>
+  <data key="d5">120.9650952</data>
+  <data key="d6">3</data>
+  <data key="d7">3.988</data>
+</node>
+<edge source="244117639" target="10023815587" id="0">
+  <data key="d8">22750931</data>
+  <data key="d9">2</data>
+  <data key="d10">Sandico Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">38.403</data>
+  <data key="d15">0.007</data>
+  <data key="d16">0.007</data>
+</edge>
+<edge source="1732972326" target="1732972332" id="0">
+  <data key="d8">161306511</data>
+  <data key="d9">2</data>
+  <data key="d10">Camba Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">49.947</data>
+  <data key="d15">-0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="1732972332" target="1733946208" id="0">
+  <data key="d8">22750931</data>
+  <data key="d9">2</data>
+  <data key="d10">Sandico Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">24.479</data>
+  <data key="d15">0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="1732972332" target="10023815587" id="0">
+  <data key="d8">22750931</data>
+  <data key="d9">2</data>
+  <data key="d10">Sandico Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">20.423</data>
+  <data key="d15">0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="1732972332" target="1732972326" id="0">
+  <data key="d8">161306511</data>
+  <data key="d9">2</data>
+  <data key="d10">Camba Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">49.947</data>
+  <data key="d15">0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="1733946208" target="1732972332" id="0">
+  <data key="d8">22750931</data>
+  <data key="d9">2</data>
+  <data key="d10">Sandico Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">24.479</data>
+  <data key="d15">-0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="10023815587" target="1732972332" id="0">
+  <data key="d8">22750931</data>
+  <data key="d9">2</data>
+  <data key="d10">Sandico Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">20.423</data>
+  <data key="d15">-0.003</data>
+  <data key="d16">0.003</data>
+</edge>
+<edge source="10023815587" target="244117639" id="0">
+  <data key="d8">22750931</data>
+  <data key="d9">2</data>
+  <data key="d10">Sandico Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">38.403</data>
+  <data key="d15">-0.007</data>
+  <data key="d16">0.007</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="width" attr.type="string"/>
+<key id="d13" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:22:11</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="29663298">
+  <data key="d4">14.612086</data>
+  <data key="d5">120.9977733</data>
+  <data key="d6">4</data>
+  <data key="d7">3.031</data>
+</node>
+<node id="73007246">
+  <data key="d4">14.6115958</data>
+  <data key="d5">120.9972135</data>
+  <data key="d6">4</data>
+  <data key="d7">2.917</data>
+</node>
+<node id="73019162">
+  <data key="d4">14.6123147</data>
+  <data key="d5">120.9980351</data>
+  <data key="d6">4</data>
+  <data key="d7">3.233</data>
+</node>
+<node id="104973034">
+  <data key="d4">14.6118462</data>
+  <data key="d5">120.9974988</data>
+  <data key="d6">4</data>
+  <data key="d7">3.111</data>
+</node>
+<node id="4117945786">
+  <data key="d4">14.6117632</data>
+  <data key="d5">120.9972498</data>
+  <data key="d6">1</data>
+  <data key="d7">3.151</data>
+</node>
+<node id="4117945788">
+  <data key="d4">14.6118391</data>
+  <data key="d5">120.9973267</data>
+  <data key="d6">1</data>
+  <data key="d7">3.182</data>
+</node>
+<node id="8462557722">
+  <data key="d4">14.6116891</data>
+  <data key="d5">120.9973203</data>
+  <data key="d6">3</data>
+  <data key="d7">3.085</data>
+</node>
+<node id="8462557724">
+  <data key="d4">14.61176</data>
+  <data key="d5">120.9974006</data>
+  <data key="d6">3</data>
+  <data key="d7">3.315</data>
+</node>
+<edge source="29663298" target="73019162" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+  <data key="d16">37.95</data>
+  <data key="d17">0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="29663298" target="104973034" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">True</data>
+  <data key="d16">39.792</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="73007246" target="8462557722" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+  <data key="d16">15.482</data>
+  <data key="d17">0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="73019162" target="29663298" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">True</data>
+  <data key="d16">37.95</data>
+  <data key="d17">-0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="104973034" target="29663298" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+  <data key="d16">39.792</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="104973034" target="8462557724" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">True</data>
+  <data key="d16">14.266</data>
+  <data key="d17">0.014</data>
+  <data key="d18">0.014</data>
+</edge>
+<edge source="4117945786" target="8462557722" id="0">
+  <data key="d8">911394898</data>
+  <data key="d12">pedestrian</data>
+  <data key="d9">False</data>
+  <data key="d15">True</data>
+  <data key="d16">11.2</data>
+  <data key="d17">-0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="4117945788" target="8462557724" id="0">
+  <data key="d8">911394899</data>
+  <data key="d12">pedestrian</data>
+  <data key="d9">False</data>
+  <data key="d15">True</data>
+  <data key="d16">11.857</data>
+  <data key="d17">0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="8462557722" target="73007246" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">True</data>
+  <data key="d16">15.482</data>
+  <data key="d17">-0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="8462557722" target="4117945786" id="0">
+  <data key="d8">911394898</data>
+  <data key="d12">pedestrian</data>
+  <data key="d9">False</data>
+  <data key="d15">False</data>
+  <data key="d16">11.2</data>
+  <data key="d17">0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="8462557722" target="8462557724" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+  <data key="d16">11.696</data>
+  <data key="d19">LINESTRING (120.9973203 14.6116891, 120.997336 14.6117033, 120.9973608 14.6117251, 120.9974006 14.61176)</data>
+  <data key="d17">0.02</data>
+  <data key="d18">0.02</data>
+</edge>
+<edge source="8462557724" target="104973034" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+  <data key="d16">14.266</data>
+  <data key="d17">-0.014</data>
+  <data key="d18">0.014</data>
+</edge>
+<edge source="8462557724" target="4117945788" id="0">
+  <data key="d8">911394899</data>
+  <data key="d12">pedestrian</data>
+  <data key="d9">False</data>
+  <data key="d15">False</data>
+  <data key="d16">11.857</data>
+  <data key="d17">-0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="8462557724" target="8462557722" id="0">
+  <data key="d8">161271189</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Loyola Street</data>
+  <data key="d12">secondary</data>
+  <data key="d13">40</data>
+  <data key="d14">7</data>
+  <data key="d15">True</data>
+  <data key="d16">11.696</data>
+  <data key="d19">LINESTRING (120.9974006 14.61176, 120.9973608 14.6117251, 120.997336 14.6117033, 120.9973203 14.6116891)</data>
+  <data key="d17">-0.02</data>
+  <data key="d18">0.02</data>
+</edge>
+</graph></graphml>

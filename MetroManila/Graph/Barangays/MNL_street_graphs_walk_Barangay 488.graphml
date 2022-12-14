@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:39:00</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="68068067">
+  <data key="d4">14.6151257</data>
+  <data key="d5">120.9887553</data>
+  <data key="d6">4</data>
+  <data key="d7">3.328</data>
+</node>
+<node id="68070848">
+  <data key="d4">14.6156387</data>
+  <data key="d5">120.9882871</data>
+  <data key="d6">4</data>
+  <data key="d7">3.474</data>
+</node>
+<node id="72482689">
+  <data key="d4">14.6150437</data>
+  <data key="d5">120.9888337</data>
+  <data key="d6">4</data>
+  <data key="d7">2.89</data>
+</node>
+<edge source="68068067" target="68070848" id="0">
+  <data key="d8">32003315</data>
+  <data key="d9">Dos Castillas Street</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">76.104</data>
+  <data key="d14">0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="68068067" target="72482689" id="0">
+  <data key="d8">32003323</data>
+  <data key="d9">Dos Castillas Street</data>
+  <data key="d10">footway</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">12.422</data>
+  <data key="d14">-0.035</data>
+  <data key="d15">0.035</data>
+</edge>
+<edge source="68070848" target="68068067" id="0">
+  <data key="d8">32003315</data>
+  <data key="d9">Dos Castillas Street</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">76.104</data>
+  <data key="d14">-0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="72482689" target="68068067" id="0">
+  <data key="d8">32003323</data>
+  <data key="d9">Dos Castillas Street</data>
+  <data key="d10">footway</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">12.422</data>
+  <data key="d14">0.035</data>
+  <data key="d15">0.035</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:04:17</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="111049944">
+  <data key="d4">14.6018453</data>
+  <data key="d5">120.9936234</data>
+  <data key="d6">4</data>
+  <data key="d7">8.485</data>
+</node>
+<node id="410561432">
+  <data key="d4">14.6014346</data>
+  <data key="d5">120.9942202</data>
+  <data key="d6">3</data>
+  <data key="d7">8.528</data>
+</node>
+<node id="1217161314">
+  <data key="d4">14.6016084</data>
+  <data key="d5">120.9936015</data>
+  <data key="d6">3</data>
+  <data key="d7">8.136</data>
+</node>
+<node id="1353397449">
+  <data key="d4">14.6014151</data>
+  <data key="d5">120.9935407</data>
+  <data key="d6">3</data>
+  <data key="d7">7.946</data>
+</node>
+<node id="1501140399">
+  <data key="d4">14.6011429</data>
+  <data key="d5">120.9943847</data>
+  <data key="d6">3</data>
+  <data key="d7">8.378</data>
+</node>
+<node id="1501140416">
+  <data key="d4">14.6012295</data>
+  <data key="d5">120.9941522</data>
+  <data key="d6">3</data>
+  <data key="d7">8.293</data>
+</node>
+<node id="1933571616">
+  <data key="d4">14.6013709</data>
+  <data key="d5">120.9944626</data>
+  <data key="d6">4</data>
+  <data key="d7">8.75</data>
+</node>
+<node id="5656014910">
+  <data key="d4">14.6017364</data>
+  <data key="d5">120.9947898</data>
+  <data key="d6">3</data>
+  <data key="d7">9.141</data>
+</node>
+<edge source="111049944" target="5656014910" id="0">
+  <data key="d8">12255025</data>
+  <data key="d9">2</data>
+  <data key="d10">Lardizabal Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">126.092</data>
+  <data key="d16">0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="111049944" target="1217161314" id="0">
+  <data key="d8">126342423</data>
+  <data key="d9">2</data>
+  <data key="d10">Manrique Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">26.447</data>
+  <data key="d16">-0.013</data>
+  <data key="d17">0.013</data>
+</edge>
+<edge source="410561432" target="1217161314" id="0">
+  <data key="d8">105691112</data>
+  <data key="d10">Lavanderos Street</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">69.323</data>
+  <data key="d16">-0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="410561432" target="1933571616" id="0">
+  <data key="d8">105691112</data>
+  <data key="d10">Lavanderos Street</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">27.028</data>
+  <data key="d16">0.008</data>
+  <data key="d17">0.008</data>
+</edge>
+<edge source="410561432" target="1501140416" id="0">
+  <data key="d8">136822600</data>
+  <data key="d11">pedestrian</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">23.951</data>
+  <data key="d16">-0.01</data>
+  <data key="d17">0.01</data>
+</edge>
+<edge source="1217161314" target="410561432" id="0">
+  <data key="d8">105691112</data>
+  <data key="d10">Lavanderos Street</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">69.323</data>
+  <data key="d16">0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="1217161314" target="111049944" id="0">
+  <data key="d8">126342423</data>
+  <data key="d9">2</data>
+  <data key="d10">Manrique Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">26.447</data>
+  <data key="d16">0.013</data>
+  <data key="d17">0.013</data>
+</edge>
+<edge source="1217161314" target="1353397449" id="0">
+  <data key="d8">126342423</data>
+  <data key="d9">2</data>
+  <data key="d10">Manrique Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">22.468</data>
+  <data key="d16">-0.008</data>
+  <data key="d17">0.008</data>
+</edge>
+<edge source="1353397449" target="1217161314" id="0">
+  <data key="d8">126342423</data>
+  <data key="d9">2</data>
+  <data key="d10">Manrique Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">22.468</data>
+  <data key="d16">0.008</data>
+  <data key="d17">0.008</data>
+</edge>
+<edge source="1501140399" target="1501140416" id="0">
+  <data key="d8">119883577</data>
+  <data key="d13">True</data>
+  <data key="d9">2</data>
+  <data key="d18">180</data>
+  <data key="d10">Legarda Street</data>
+  <data key="d11">primary</data>
+  <data key="d12">60</data>
+  <data key="d14">False</data>
+  <data key="d15">26.807</data>
+  <data key="d16">-0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+<edge source="1501140399" target="1933571616" id="0">
+  <data key="d8">136822596</data>
+  <data key="d9">1</data>
+  <data key="d10">Lapidario Street</data>
+  <data key="d11">pedestrian</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">26.702</data>
+  <data key="d16">0.014</data>
+  <data key="d17">0.014</data>
+</edge>
+<edge source="1501140416" target="410561432" id="0">
+  <data key="d8">136822600</data>
+  <data key="d11">pedestrian</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">23.951</data>
+  <data key="d16">0.01</data>
+  <data key="d17">0.01</data>
+</edge>
+<edge source="1501140416" target="1353397449" id="0">
+  <data key="d8">119883577</data>
+  <data key="d13">True</data>
+  <data key="d9">2</data>
+  <data key="d18">180</data>
+  <data key="d10">Legarda Street</data>
+  <data key="d11">primary</data>
+  <data key="d12">60</data>
+  <data key="d14">False</data>
+  <data key="d15">68.96000000000001</data>
+  <data key="d19">LINESTRING (120.9941522 14.6012295, 120.9939195 14.6013001, 120.9935407 14.6014151)</data>
+  <data key="d16">-0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="1933571616" target="410561432" id="0">
+  <data key="d8">105691112</data>
+  <data key="d10">Lavanderos Street</data>
+  <data key="d11">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">27.028</data>
+  <data key="d16">-0.008</data>
+  <data key="d17">0.008</data>
+</edge>
+<edge source="1933571616" target="1501140399" id="0">
+  <data key="d8">136822596</data>
+  <data key="d9">1</data>
+  <data key="d10">Lapidario Street</data>
+  <data key="d11">pedestrian</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">26.702</data>
+  <data key="d16">-0.014</data>
+  <data key="d17">0.014</data>
+</edge>
+<edge source="1933571616" target="5656014910" id="0">
+  <data key="d8">182993318</data>
+  <data key="d9">1</data>
+  <data key="d10">Lapidario Street</data>
+  <data key="d11">pedestrian</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">67.826</data>
+  <data key="d19">LINESTRING (120.9944626 14.6013709, 120.9945478 14.6015897, 120.9947356 14.601553, 120.9947898 14.6017364)</data>
+  <data key="d16">0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="5656014910" target="111049944" id="0">
+  <data key="d8">12255025</data>
+  <data key="d9">2</data>
+  <data key="d10">Lardizabal Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">126.092</data>
+  <data key="d16">-0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="5656014910" target="1933571616" id="0">
+  <data key="d8">182993318</data>
+  <data key="d9">1</data>
+  <data key="d10">Lapidario Street</data>
+  <data key="d11">pedestrian</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">67.826</data>
+  <data key="d19">LINESTRING (120.9947898 14.6017364, 120.9947356 14.601553, 120.9945478 14.6015897, 120.9944626 14.6013709)</data>
+  <data key="d16">-0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+</graph></graphml>

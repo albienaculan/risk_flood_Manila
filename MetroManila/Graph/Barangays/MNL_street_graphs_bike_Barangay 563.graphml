@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="width" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:34:26</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="29487861">
+  <data key="d4">14.6087476</data>
+  <data key="d5">121.0037305</data>
+  <data key="d6">3</data>
+  <data key="d7">8.358</data>
+</node>
+<node id="130167367">
+  <data key="d4">14.609159</data>
+  <data key="d5">121.0038377</data>
+  <data key="d6">4</data>
+  <data key="d7">6.967</data>
+</node>
+<node id="130167689">
+  <data key="d4">14.6091464</data>
+  <data key="d5">121.0037018</data>
+  <data key="d6">3</data>
+  <data key="d7">7.255</data>
+</node>
+<node id="4887050228">
+  <data key="d4">14.6090288</data>
+  <data key="d5">121.003354</data>
+  <data key="d6">4</data>
+  <data key="d7">8.887</data>
+</node>
+<edge source="29487861" target="130167367" id="0">
+  <data key="d8">794884816</data>
+  <data key="d9">2</data>
+  <data key="d10">G. Tuazon Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">40</data>
+  <data key="d13">8</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">47.178</data>
+  <data key="d17">LINESTRING (121.0037305 14.6087476, 121.0038035 14.6090279, 121.0038377 14.609159)</data>
+  <data key="d18">-0.029</data>
+  <data key="d19">0.029</data>
+</edge>
+<edge source="130167367" target="130167689" id="0">
+  <data key="d8">29379374</data>
+  <data key="d9">2</data>
+  <data key="d10">Honradez Extension</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">14.69</data>
+  <data key="d18">0.02</data>
+  <data key="d19">0.02</data>
+</edge>
+<edge source="130167367" target="29487861" id="0">
+  <data key="d8">794884816</data>
+  <data key="d9">2</data>
+  <data key="d10">G. Tuazon Street</data>
+  <data key="d11">secondary</data>
+  <data key="d12">40</data>
+  <data key="d13">8</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">47.178</data>
+  <data key="d17">LINESTRING (121.0038377 14.609159, 121.0038035 14.6090279, 121.0037305 14.6087476)</data>
+  <data key="d18">0.029</data>
+  <data key="d19">0.029</data>
+</edge>
+<edge source="130167689" target="130167367" id="0">
+  <data key="d8">29379374</data>
+  <data key="d9">2</data>
+  <data key="d10">Honradez Extension</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">14.69</data>
+  <data key="d18">-0.02</data>
+  <data key="d19">0.02</data>
+</edge>
+<edge source="130167689" target="4887050228" id="0">
+  <data key="d8">29379374</data>
+  <data key="d9">2</data>
+  <data key="d10">Honradez Extension</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">39.642</data>
+  <data key="d18">0.041</data>
+  <data key="d19">0.041</data>
+</edge>
+<edge source="4887050228" target="130167689" id="0">
+  <data key="d8">29379374</data>
+  <data key="d9">2</data>
+  <data key="d10">Honradez Extension</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">39.642</data>
+  <data key="d18">-0.041</data>
+  <data key="d19">0.041</data>
+</edge>
+</graph></graphml>

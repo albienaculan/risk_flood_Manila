@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="service" attr.type="string"/>
+<key id="d16" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d15" for="edge" attr.name="name" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d13" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d12" for="edge" attr.name="length" attr.type="string"/>
+<key id="d11" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:55:41</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="1732972503">
+  <data key="d4">14.6127781</data>
+  <data key="d5">120.9639271</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733866222">
+  <data key="d4">14.6122389</data>
+  <data key="d5">120.9643614</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733866243">
+  <data key="d4">14.6127202</data>
+  <data key="d5">120.9642833</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733946541">
+  <data key="d4">14.6128144</data>
+  <data key="d5">120.9630614</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733946542">
+  <data key="d4">14.6128879</data>
+  <data key="d5">120.964286</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733946543">
+  <data key="d4">14.6129401</data>
+  <data key="d5">120.963924</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733946545">
+  <data key="d4">14.6129673</data>
+  <data key="d5">120.9630522</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="1733946553">
+  <data key="d4">14.6130699</data>
+  <data key="d5">120.9630454</data>
+  <data key="d6">4</data>
+  <data key="d7">3.997</data>
+</node>
+<node id="9965362924">
+  <data key="d4">14.6127366</data>
+  <data key="d5">120.9639298</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<edge source="1732972503" target="1733946543" id="0">
+  <data key="d8">161306491</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">18.017</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1732972503" target="9965362924" id="0">
+  <data key="d8">161306491</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">4.624</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1732972503" target="1733946541" id="0">
+  <data key="d8">161424039</data>
+  <data key="d9">footway</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">93.235</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733866222" target="1733866243" id="0">
+  <data key="d8">161306487</data>
+  <data key="d15">Madrid Extension Street</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">54.357</data>
+  <data key="d16">LINESTRING (120.9643614 14.6122389, 120.9642932 14.6125337, 120.9642833 14.6127202)</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733866243" target="1733946542" id="0">
+  <data key="d8">161306487</data>
+  <data key="d15">Madrid Extension Street</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">18.65</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733866243" target="9965362924" id="0">
+  <data key="d8">1087648605</data>
+  <data key="d9">footway</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">38.08</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733866243" target="1733866222" id="0">
+  <data key="d8">161306487</data>
+  <data key="d15">Madrid Extension Street</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">54.357</data>
+  <data key="d16">LINESTRING (120.9642833 14.6127202, 120.9642932 14.6125337, 120.9643614 14.6122389)</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946541" target="1733946545" id="0">
+  <data key="d8">161424015</data>
+  <data key="d9">service</data>
+  <data key="d17">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">17.031</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946541" target="1732972503" id="0">
+  <data key="d8">161424039</data>
+  <data key="d9">footway</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">93.235</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946542" target="1733866243" id="0">
+  <data key="d8">161306487</data>
+  <data key="d15">Madrid Extension Street</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">18.65</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946542" target="1733946543" id="0">
+  <data key="d8">161424061</data>
+  <data key="d15">Perla - C Street</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">39.381</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946543" target="1732972503" id="0">
+  <data key="d8">161306491</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">18.017</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946543" target="1733946542" id="0">
+  <data key="d8">161424061</data>
+  <data key="d15">Perla - C Street</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">39.381</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946543" target="1733946545" id="0">
+  <data key="d8">161424061</data>
+  <data key="d15">Perla - C Street</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">93.89699999999999</data>
+  <data key="d16">LINESTRING (120.963924 14.6129401, 120.9635268 14.6129653, 120.9630522 14.6129673)</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946545" target="1733946553" id="0">
+  <data key="d8">161424015</data>
+  <data key="d9">service</data>
+  <data key="d17">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">11.432</data>
+  <data key="d13">-0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946545" target="1733946541" id="0">
+  <data key="d8">161424015</data>
+  <data key="d9">service</data>
+  <data key="d17">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">17.031</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946545" target="1733946543" id="0">
+  <data key="d8">161424061</data>
+  <data key="d15">Perla - C Street</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">93.89699999999999</data>
+  <data key="d16">LINESTRING (120.9630522 14.6129673, 120.9635268 14.6129653, 120.963924 14.6129401)</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="1733946553" target="1733946545" id="0">
+  <data key="d8">161424015</data>
+  <data key="d9">service</data>
+  <data key="d17">alley</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">11.432</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="9965362924" target="1732972503" id="0">
+  <data key="d8">161306491</data>
+  <data key="d9">pedestrian</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">4.624</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+<edge source="9965362924" target="1733866243" id="0">
+  <data key="d8">1087648605</data>
+  <data key="d9">footway</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">38.08</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+</edge>
+</graph></graphml>

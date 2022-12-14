@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="bridge" attr.type="string"/>
+<key id="d18" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d17" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:11:34</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="244128182">
+  <data key="d4">14.6014139</data>
+  <data key="d5">121.0026984</data>
+  <data key="d6">3</data>
+  <data key="d7">6.409</data>
+</node>
+<node id="255996419">
+  <data key="d4">14.6014589</data>
+  <data key="d5">121.0031277</data>
+  <data key="d6">3</data>
+  <data key="d7">6.746</data>
+</node>
+<node id="594352237">
+  <data key="d4">14.6009323</data>
+  <data key="d5">121.0027231</data>
+  <data key="d6">3</data>
+  <data key="d7">7.756</data>
+</node>
+<node id="3397733579">
+  <data key="d4">14.6013678</data>
+  <data key="d5">121.0022631</data>
+  <data key="d6">3</data>
+  <data key="d7">7.947</data>
+</node>
+<edge source="244128182" target="594352237" id="0">
+  <data key="d8">48627096</data>
+  <data key="d9">2</data>
+  <data key="d10">De Dios Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">53.617</data>
+  <data key="d15">0.025</data>
+  <data key="d16">0.025</data>
+</edge>
+<edge source="244128182" target="255996419" id="0">
+  <data key="d8">136822580</data>
+  <data key="d12">True</data>
+  <data key="d9">3</data>
+  <data key="d17">180</data>
+  <data key="d10">Magsaysay Boulevard</data>
+  <data key="d11">primary</data>
+  <data key="d18">60</data>
+  <data key="d13">False</data>
+  <data key="d14">46.465</data>
+  <data key="d15">0.007</data>
+  <data key="d16">0.007</data>
+</edge>
+<edge source="594352237" target="244128182" id="0">
+  <data key="d8">48627096</data>
+  <data key="d9">2</data>
+  <data key="d10">De Dios Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">53.617</data>
+  <data key="d15">-0.025</data>
+  <data key="d16">0.025</data>
+</edge>
+<edge source="3397733579" target="244128182" id="0">
+  <data key="d8">[757990562, 136822580, 136822575]</data>
+  <data key="d12">True</data>
+  <data key="d9">3</data>
+  <data key="d17">180</data>
+  <data key="d10">Magsaysay Boulevard</data>
+  <data key="d11">primary</data>
+  <data key="d18">60</data>
+  <data key="d13">False</data>
+  <data key="d14">47.121</data>
+  <data key="d19">yes</data>
+  <data key="d20">LINESTRING (121.0022631 14.6013678, 121.0024178 14.6013832, 121.0025957 14.6014021, 121.0026984 14.6014139)</data>
+  <data key="d15">-0.033</data>
+  <data key="d16">0.033</data>
+</edge>
+</graph></graphml>

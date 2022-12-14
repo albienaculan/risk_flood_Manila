@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d17" for="edge" attr.name="length" attr.type="string"/>
+<key id="d16" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d15" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="name" attr.type="string"/>
+<key id="d12" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="highway" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:30:10</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="25353312">
+  <data key="d4">14.6030173</data>
+  <data key="d5">121.0158908</data>
+  <data key="d6">3</data>
+  <data key="d7">10.995</data>
+</node>
+<node id="61091677">
+  <data key="d4">14.6028723</data>
+  <data key="d5">121.0159493</data>
+  <data key="d8">traffic_signals</data>
+  <data key="d6">4</data>
+  <data key="d7">10.72</data>
+</node>
+<node id="61677561">
+  <data key="d4">14.6024327</data>
+  <data key="d5">121.0161055</data>
+  <data key="d6">3</data>
+  <data key="d7">9.846</data>
+</node>
+<node id="61677582">
+  <data key="d4">14.6024596</data>
+  <data key="d5">121.016301</data>
+  <data key="d6">3</data>
+  <data key="d7">9.613</data>
+</node>
+<node id="130166664">
+  <data key="d4">14.6028102</data>
+  <data key="d5">121.0158621</data>
+  <data key="d6">4</data>
+  <data key="d7">10.763</data>
+</node>
+<node id="266525514">
+  <data key="d4">14.6023715</data>
+  <data key="d5">121.0168108</data>
+  <data key="d6">3</data>
+  <data key="d7">8.617</data>
+</node>
+<node id="323109753">
+  <data key="d4">14.602675</data>
+  <data key="d5">121.0155428</data>
+  <data key="d6">3</data>
+  <data key="d7">10.223</data>
+</node>
+<node id="481739579">
+  <data key="d4">14.6025428</data>
+  <data key="d5">121.0159508</data>
+  <data key="d6">3</data>
+  <data key="d7">10.239</data>
+</node>
+<node id="851244160">
+  <data key="d4">14.6029609</data>
+  <data key="d5">121.0158032</data>
+  <data key="d8">traffic_signals</data>
+  <data key="d6">3</data>
+  <data key="d7">11.066</data>
+</node>
+<node id="5429316199">
+  <data key="d4">14.6025086</data>
+  <data key="d5">121.0160854</data>
+  <data key="d6">3</data>
+  <data key="d7">9.992</data>
+</node>
+<node id="5429316210">
+  <data key="d4">14.6030504</data>
+  <data key="d5">121.0161638</data>
+  <data key="d6">3</data>
+  <data key="d7">10.546</data>
+</node>
+<edge source="25353312" target="851244160" id="0">
+  <data key="d9">4268387</data>
+  <data key="d10">True</data>
+  <data key="d11">4</data>
+  <data key="d12">180</data>
+  <data key="d13">Magsaysay Boulevard</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">11.322</data>
+  <data key="d18">0.006</data>
+  <data key="d19">0.006</data>
+</edge>
+<edge source="61091677" target="25353312" id="0">
+  <data key="d9">1121111715</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d12">183</data>
+  <data key="d13">Victorino Mapa Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">17.309</data>
+  <data key="d18">0.016</data>
+  <data key="d19">0.016</data>
+</edge>
+<edge source="61091677" target="5429316210" id="0">
+  <data key="d9">709096588</data>
+  <data key="d10">True</data>
+  <data key="d11">3</data>
+  <data key="d12">180</data>
+  <data key="d13">Magsaysay Boulevard</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">30.453000000000003</data>
+  <data key="d20">LINESTRING (121.0159493 14.6028723, 121.0160331 14.6029329, 121.0161638 14.6030504)</data>
+  <data key="d18">-0.006</data>
+  <data key="d19">0.006</data>
+</edge>
+<edge source="61677561" target="5429316199" id="0">
+  <data key="d9">107396682</data>
+  <data key="d10">True</data>
+  <data key="d11">3</data>
+  <data key="d12">183</data>
+  <data key="d13">Victorino Mapa Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">8.712</data>
+  <data key="d18">0.017</data>
+  <data key="d19">0.017</data>
+</edge>
+<edge source="61677561" target="61677582" id="0">
+  <data key="d9">107396684</data>
+  <data key="d11">2</data>
+  <data key="d13">Road 3</data>
+  <data key="d14">residential</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">21.248</data>
+  <data key="d18">-0.011</data>
+  <data key="d19">0.011</data>
+</edge>
+<edge source="61677582" target="266525514" id="0">
+  <data key="d9">107396684</data>
+  <data key="d11">2</data>
+  <data key="d13">Road 3</data>
+  <data key="d14">residential</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">55.724</data>
+  <data key="d18">-0.018</data>
+  <data key="d19">0.018</data>
+</edge>
+<edge source="61677582" target="61677561" id="0">
+  <data key="d9">107396684</data>
+  <data key="d11">2</data>
+  <data key="d13">Road 3</data>
+  <data key="d14">residential</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">21.248</data>
+  <data key="d18">0.011</data>
+  <data key="d19">0.011</data>
+</edge>
+<edge source="130166664" target="481739579" id="0">
+  <data key="d9">1121111713</data>
+  <data key="d10">True</data>
+  <data key="d11">3</data>
+  <data key="d12">183</data>
+  <data key="d13">Victorino Mapa Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">31.228</data>
+  <data key="d18">-0.017</data>
+  <data key="d19">0.017</data>
+</edge>
+<edge source="130166664" target="61091677" id="0">
+  <data key="d9">1121111714</data>
+  <data key="d10">True</data>
+  <data key="d11">3</data>
+  <data key="d12">180</data>
+  <data key="d13">Magsaysay Boulevard</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">11.65</data>
+  <data key="d18">-0.004</data>
+  <data key="d19">0.004</data>
+</edge>
+<edge source="266525514" target="61677582" id="0">
+  <data key="d9">107396684</data>
+  <data key="d11">2</data>
+  <data key="d13">Road 3</data>
+  <data key="d14">residential</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">55.724</data>
+  <data key="d18">0.018</data>
+  <data key="d19">0.018</data>
+</edge>
+<edge source="323109753" target="481739579" id="0">
+  <data key="d9">8652885</data>
+  <data key="d10">True</data>
+  <data key="d11">1</data>
+  <data key="d14">primary_link</data>
+  <data key="d16">False</data>
+  <data key="d17">48.222</data>
+  <data key="d20">LINESTRING (121.0155428 14.602675, 121.0156584 14.6026782, 121.0157145 14.6026755, 121.0157685 14.6026588, 121.0158149 14.6026395, 121.0158644 14.6026113, 121.0159508 14.6025428)</data>
+  <data key="d18">0.0</data>
+  <data key="d19">0.0</data>
+</edge>
+<edge source="323109753" target="130166664" id="0">
+  <data key="d9">820063581</data>
+  <data key="d10">True</data>
+  <data key="d11">3</data>
+  <data key="d12">180</data>
+  <data key="d13">Magsaysay Boulevard</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">37.524</data>
+  <data key="d20">LINESTRING (121.0155428 14.602675, 121.0157447 14.6027545, 121.0158621 14.6028102)</data>
+  <data key="d18">0.014</data>
+  <data key="d19">0.014</data>
+</edge>
+<edge source="851244160" target="130166664" id="0">
+  <data key="d9">820063580</data>
+  <data key="d10">True</data>
+  <data key="d11">3</data>
+  <data key="d12">183</data>
+  <data key="d13">Victorino Mapa Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">17.916</data>
+  <data key="d18">-0.017</data>
+  <data key="d19">0.017</data>
+</edge>
+<edge source="5429316199" target="61091677" id="0">
+  <data key="d9">709096589</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d12">183</data>
+  <data key="d13">Victorino Mapa Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">43.012</data>
+  <data key="d18">0.017</data>
+  <data key="d19">0.017</data>
+</edge>
+<edge source="5429316199" target="5429316210" id="0">
+  <data key="d9">563393493</data>
+  <data key="d10">True</data>
+  <data key="d11">1</data>
+  <data key="d14">primary_link</data>
+  <data key="d16">False</data>
+  <data key="d17">61.962</data>
+  <data key="d20">LINESTRING (121.0160854 14.6025086, 121.0160763 14.6026943, 121.0160771 14.6027962, 121.0160826 14.6028466, 121.0160967 14.6028958, 121.0161121 14.6029335, 121.0161638 14.6030504)</data>
+  <data key="d18">0.009</data>
+  <data key="d19">0.009</data>
+</edge>
+</graph></graphml>

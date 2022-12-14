@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d16" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d15" for="edge" attr.name="service" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d13" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d12" for="edge" attr.name="length" attr.type="string"/>
+<key id="d11" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:41:42</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="1733866072">
+  <data key="d4">14.6069318</data>
+  <data key="d5">120.9720235</data>
+  <data key="d6">3</data>
+  <data key="d7">3.107</data>
+</node>
+<node id="8314118559">
+  <data key="d4">14.6065161</data>
+  <data key="d5">120.9718255</data>
+  <data key="d6">3</data>
+  <data key="d7">3.46</data>
+</node>
+<node id="8314118560">
+  <data key="d4">14.6065191</data>
+  <data key="d5">120.9719625</data>
+  <data key="d6">3</data>
+  <data key="d7">3.44</data>
+</node>
+<node id="8314495769">
+  <data key="d4">14.6068146</data>
+  <data key="d5">120.9718765</data>
+  <data key="d6">3</data>
+  <data key="d7">3.484</data>
+</node>
+<node id="8314495772">
+  <data key="d4">14.6067778</data>
+  <data key="d5">120.9719953</data>
+  <data key="d6">4</data>
+  <data key="d7">3.355</data>
+</node>
+<node id="8601940959">
+  <data key="d4">14.6068674</data>
+  <data key="d5">120.9717308</data>
+  <data key="d6">3</data>
+  <data key="d7">3.31</data>
+</node>
+<node id="8601940965">
+  <data key="d4">14.6065271</data>
+  <data key="d5">120.9716626</data>
+  <data key="d6">3</data>
+  <data key="d7">3.449</data>
+</node>
+<edge source="1733866072" target="8314495772" id="0">
+  <data key="d8">894499560</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">17.391</data>
+  <data key="d13">0.014</data>
+  <data key="d14">0.014</data>
+</edge>
+<edge source="8314118559" target="8314118560" id="0">
+  <data key="d8">894499560</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">14.745</data>
+  <data key="d13">-0.001</data>
+  <data key="d14">0.001</data>
+</edge>
+<edge source="8314118559" target="8601940965" id="0">
+  <data key="d8">927088448</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">17.571</data>
+  <data key="d13">-0.001</data>
+  <data key="d14">0.001</data>
+</edge>
+<edge source="8314118559" target="8314495769" id="0">
+  <data key="d8">927146651</data>
+  <data key="d9">service</data>
+  <data key="d15">parking_aisle</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">33.644000000000005</data>
+  <data key="d16">LINESTRING (120.9718255 14.6065161, 120.9718551 14.6066977, 120.9718765 14.6068146)</data>
+  <data key="d13">0.001</data>
+  <data key="d14">0.001</data>
+</edge>
+<edge source="8314118560" target="8314118559" id="0">
+  <data key="d8">894499560</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">14.745</data>
+  <data key="d13">0.001</data>
+  <data key="d14">0.001</data>
+</edge>
+<edge source="8314118560" target="8314495772" id="0">
+  <data key="d8">894499560</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">28.982</data>
+  <data key="d16">LINESTRING (120.9719625 14.6065191, 120.9719811 14.6066621, 120.9719953 14.6067778)</data>
+  <data key="d13">-0.003</data>
+  <data key="d14">0.003</data>
+</edge>
+<edge source="8314495769" target="8601940959" id="0">
+  <data key="d8">902896443</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">16.741</data>
+  <data key="d13">-0.01</data>
+  <data key="d14">0.01</data>
+</edge>
+<edge source="8314495769" target="8314495772" id="0">
+  <data key="d8">1086936575</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">13.422</data>
+  <data key="d13">-0.01</data>
+  <data key="d14">0.01</data>
+</edge>
+<edge source="8314495769" target="8314118559" id="0">
+  <data key="d8">927146651</data>
+  <data key="d9">service</data>
+  <data key="d15">parking_aisle</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">33.644000000000005</data>
+  <data key="d16">LINESTRING (120.9718765 14.6068146, 120.9718551 14.6066977, 120.9718255 14.6065161)</data>
+  <data key="d13">-0.001</data>
+  <data key="d14">0.001</data>
+</edge>
+<edge source="8314495772" target="1733866072" id="0">
+  <data key="d8">894499560</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">17.391</data>
+  <data key="d13">-0.014</data>
+  <data key="d14">0.014</data>
+</edge>
+<edge source="8314495772" target="8314495769" id="0">
+  <data key="d8">1086936575</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">13.422</data>
+  <data key="d13">0.01</data>
+  <data key="d14">0.01</data>
+</edge>
+<edge source="8314495772" target="8314118560" id="0">
+  <data key="d8">894499560</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">28.982</data>
+  <data key="d16">LINESTRING (120.9719953 14.6067778, 120.9719811 14.6066621, 120.9719625 14.6065191)</data>
+  <data key="d13">0.003</data>
+  <data key="d14">0.003</data>
+</edge>
+<edge source="8601940959" target="8314495769" id="0">
+  <data key="d8">902896443</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">16.741</data>
+  <data key="d13">0.01</data>
+  <data key="d14">0.01</data>
+</edge>
+<edge source="8601940959" target="8601940965" id="0">
+  <data key="d8">927088447</data>
+  <data key="d9">service</data>
+  <data key="d15">parking_aisle</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">38.545</data>
+  <data key="d13">0.004</data>
+  <data key="d14">0.004</data>
+</edge>
+<edge source="8601940965" target="8601940959" id="0">
+  <data key="d8">927088447</data>
+  <data key="d9">service</data>
+  <data key="d15">parking_aisle</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">38.545</data>
+  <data key="d13">-0.004</data>
+  <data key="d14">0.004</data>
+</edge>
+<edge source="8601940965" target="8314118559" id="0">
+  <data key="d8">927088448</data>
+  <data key="d9">service</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">17.571</data>
+  <data key="d13">0.001</data>
+  <data key="d14">0.001</data>
+</edge>
+</graph></graphml>

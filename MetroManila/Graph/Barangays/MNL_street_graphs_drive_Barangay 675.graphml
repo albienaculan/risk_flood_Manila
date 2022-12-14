@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="width" attr.type="string"/>
+<key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:31:58</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="33957031">
+  <data key="d4">14.5786858</data>
+  <data key="d5">120.9868484</data>
+  <data key="d6">3</data>
+  <data key="d7">3.141</data>
+</node>
+<node id="33957032">
+  <data key="d4">14.5791174</data>
+  <data key="d5">120.9876506</data>
+  <data key="d6">4</data>
+  <data key="d7">3.241</data>
+</node>
+<node id="33957033">
+  <data key="d4">14.5794524</data>
+  <data key="d5">120.9882569</data>
+  <data key="d6">4</data>
+  <data key="d7">3.242</data>
+</node>
+<node id="33957034">
+  <data key="d4">14.5797835</data>
+  <data key="d5">120.9889092</data>
+  <data key="d6">4</data>
+  <data key="d7">3.265</data>
+</node>
+<node id="33957035">
+  <data key="d4">14.5800208</data>
+  <data key="d5">120.9895745</data>
+  <data key="d6">4</data>
+  <data key="d7">3.401</data>
+</node>
+<node id="2517100673">
+  <data key="d4">14.5799307</data>
+  <data key="d5">120.9897512</data>
+  <data key="d6">3</data>
+  <data key="d7">3.369</data>
+</node>
+<edge source="33957032" target="33957033" id="0">
+  <data key="d8">5051364</data>
+  <data key="d9">4</data>
+  <data key="d10">G. Apacible Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">75.131</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+</edge>
+<edge source="33957032" target="33957031" id="0">
+  <data key="d8">820063550</data>
+  <data key="d13">True</data>
+  <data key="d9">4</data>
+  <data key="d10">G. Apacible Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d14">False</data>
+  <data key="d15">98.77199999999999</data>
+  <data key="d18">LINESTRING (120.9876506 14.5791174, 120.9868997 14.5787138, 120.9868484 14.5786858)</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="33957033" target="33957034" id="0">
+  <data key="d8">5051364</data>
+  <data key="d9">4</data>
+  <data key="d10">G. Apacible Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">79.266</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+</edge>
+<edge source="33957033" target="33957032" id="0">
+  <data key="d8">5051364</data>
+  <data key="d9">4</data>
+  <data key="d10">G. Apacible Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">75.131</data>
+  <data key="d16">-0.0</data>
+  <data key="d17">0.0</data>
+</edge>
+<edge source="33957034" target="33957033" id="0">
+  <data key="d8">5051364</data>
+  <data key="d9">4</data>
+  <data key="d10">G. Apacible Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">79.266</data>
+  <data key="d16">-0.0</data>
+  <data key="d17">0.0</data>
+</edge>
+<edge source="33957034" target="33957035" id="0">
+  <data key="d8">820063557</data>
+  <data key="d9">4</data>
+  <data key="d10">G. Apacible Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">76.303</data>
+  <data key="d16">0.002</data>
+  <data key="d17">0.002</data>
+</edge>
+<edge source="33957035" target="33957034" id="0">
+  <data key="d8">820063557</data>
+  <data key="d9">4</data>
+  <data key="d10">G. Apacible Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">76.303</data>
+  <data key="d16">-0.002</data>
+  <data key="d17">0.002</data>
+</edge>
+<edge source="2517100673" target="33957035" id="0">
+  <data key="d8">1065937126</data>
+  <data key="d13">True</data>
+  <data key="d9">3</data>
+  <data key="d10">General Luna Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d19">9</data>
+  <data key="d14">False</data>
+  <data key="d15">21.493</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+</graph></graphml>

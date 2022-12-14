@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="width" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:22:19</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="43098358">
+  <data key="d4">14.6241656</data>
+  <data key="d5">120.9857567</data>
+  <data key="d6">6</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="43101137">
+  <data key="d4">14.6241914</data>
+  <data key="d5">120.9849231</data>
+  <data key="d6">4</data>
+  <data key="d7">3.717</data>
+</node>
+<node id="43101713">
+  <data key="d4">14.6254514</data>
+  <data key="d5">120.9857758</data>
+  <data key="d6">4</data>
+  <data key="d7">3.283</data>
+</node>
+<node id="43102240">
+  <data key="d4">14.6237928</data>
+  <data key="d5">120.9849065</data>
+  <data key="d6">4</data>
+  <data key="d7">3.986</data>
+</node>
+<node id="8657725920">
+  <data key="d4">14.6241674</data>
+  <data key="d5">120.9856517</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="8657725921">
+  <data key="d4">14.624231</data>
+  <data key="d5">120.985755</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="8657725922">
+  <data key="d4">14.6240669</data>
+  <data key="d5">120.985474</data>
+  <data key="d6">3</data>
+  <data key="d7">3.756</data>
+</node>
+<edge source="43098358" target="8657725921" id="0">
+  <data key="d8">5720565</data>
+  <data key="d9">2</data>
+  <data key="d10">P. Guevarra Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">7.274</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="43098358" target="8657725920" id="0">
+  <data key="d8">135027263</data>
+  <data key="d14">True</data>
+  <data key="d9">4</data>
+  <data key="d10">Cavite Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d15">False</data>
+  <data key="d16">11.299</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="43101137" target="43102240" id="0">
+  <data key="d8">[5720579, 5720557]</data>
+  <data key="d9">2</data>
+  <data key="d10">Felix Huertas Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">44.363</data>
+  <data key="d19">LINESTRING (120.9849231 14.6241914, 120.9849171 14.6239757, 120.9849065 14.6237928)</data>
+  <data key="d17">0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="43101713" target="8657725921" id="0">
+  <data key="d8">5720565</data>
+  <data key="d9">2</data>
+  <data key="d10">P. Guevarra Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">135.721</data>
+  <data key="d17">0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="43102240" target="43101137" id="0">
+  <data key="d8">[5720579, 5720557]</data>
+  <data key="d9">2</data>
+  <data key="d10">Felix Huertas Street</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">30</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">44.363</data>
+  <data key="d19">LINESTRING (120.9849065 14.6237928, 120.9849171 14.6239757, 120.9849231 14.6241914)</data>
+  <data key="d17">-0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="43102240" target="8657725922" id="0">
+  <data key="d8">1037277293</data>
+  <data key="d9">4</data>
+  <data key="d20">160</data>
+  <data key="d10">Blumentritt Road</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">40</data>
+  <data key="d13">13.4</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">68.244</data>
+  <data key="d19">LINESTRING (120.9849065 14.6237928, 120.9853074 14.6239847, 120.985474 14.6240669)</data>
+  <data key="d17">-0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="8657725920" target="43101137" id="0">
+  <data key="d8">135027263</data>
+  <data key="d14">True</data>
+  <data key="d9">4</data>
+  <data key="d10">Cavite Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">30</data>
+  <data key="d15">False</data>
+  <data key="d16">78.438</data>
+  <data key="d19">LINESTRING (120.9856517 14.6241674, 120.9853332 14.6241789, 120.9849231 14.6241914)</data>
+  <data key="d17">-0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="8657725920" target="8657725922" id="0">
+  <data key="d8">1067917791</data>
+  <data key="d14">True</data>
+  <data key="d9">2</data>
+  <data key="d20">160</data>
+  <data key="d10">Blumentritt Road</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">40</data>
+  <data key="d13">13.4</data>
+  <data key="d15">False</data>
+  <data key="d16">22.195</data>
+  <data key="d19">LINESTRING (120.9856517 14.6241674, 120.9855069 14.6240917, 120.985474 14.6240669)</data>
+  <data key="d17">-0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="8657725921" target="43101713" id="0">
+  <data key="d8">5720565</data>
+  <data key="d9">2</data>
+  <data key="d10">P. Guevarra Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">135.721</data>
+  <data key="d17">-0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="8657725921" target="43098358" id="0">
+  <data key="d8">5720565</data>
+  <data key="d9">2</data>
+  <data key="d10">P. Guevarra Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">11</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">7.274</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="8657725921" target="8657725920" id="0">
+  <data key="d8">934137955</data>
+  <data key="d14">True</data>
+  <data key="d9">2</data>
+  <data key="d20">160</data>
+  <data key="d10">Blumentritt Road</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">13.4</data>
+  <data key="d15">False</data>
+  <data key="d16">13.174</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="8657725922" target="43098358" id="0">
+  <data key="d8">934137956</data>
+  <data key="d14">True</data>
+  <data key="d9">2</data>
+  <data key="d20">160</data>
+  <data key="d10">Blumentritt Road</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">40</data>
+  <data key="d13">13.4</data>
+  <data key="d15">False</data>
+  <data key="d16">32.414</data>
+  <data key="d19">LINESTRING (120.985474 14.6240669, 120.9856011 14.6241006, 120.9857567 14.6241656)</data>
+  <data key="d17">0.008</data>
+  <data key="d18">0.008</data>
+</edge>
+<edge source="8657725922" target="43102240" id="0">
+  <data key="d8">1037277293</data>
+  <data key="d9">4</data>
+  <data key="d20">160</data>
+  <data key="d10">Blumentritt Road</data>
+  <data key="d11">unclassified</data>
+  <data key="d12">40</data>
+  <data key="d13">13.4</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">68.244</data>
+  <data key="d19">LINESTRING (120.985474 14.6240669, 120.9853074 14.6239847, 120.9849065 14.6237928)</data>
+  <data key="d17">0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+</graph></graphml>

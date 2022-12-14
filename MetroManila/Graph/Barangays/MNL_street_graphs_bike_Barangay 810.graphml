@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d21" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d20" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d18" for="edge" attr.name="length" attr.type="string"/>
+<key id="d17" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d16" for="edge" attr.name="access" attr.type="string"/>
+<key id="d15" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="name" attr.type="string"/>
+<key id="d12" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d7" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d6" for="node" attr.name="highway" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 06:57:48</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="21717829">
+  <data key="d4">14.5770886</data>
+  <data key="d5">120.9969325</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">2.674</data>
+</node>
+<node id="25353227">
+  <data key="d4">14.5770567</data>
+  <data key="d5">120.9970958</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">3.611</data>
+</node>
+<node id="25353413">
+  <data key="d4">14.5769288</data>
+  <data key="d5">120.9970012</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">3.398</data>
+</node>
+<node id="151044909">
+  <data key="d4">14.576835</data>
+  <data key="d5">120.9967393</data>
+  <data key="d7">3</data>
+  <data key="d8">3.549</data>
+</node>
+<node id="151044950">
+  <data key="d4">14.577257</data>
+  <data key="d5">120.9966598</data>
+  <data key="d7">3</data>
+  <data key="d8">2.474</data>
+</node>
+<node id="358847320">
+  <data key="d4">14.5765499</data>
+  <data key="d5">120.9974045</data>
+  <data key="d7">3</data>
+  <data key="d8">4.122</data>
+</node>
+<node id="729234290">
+  <data key="d4">14.5774545</data>
+  <data key="d5">120.9974084</data>
+  <data key="d7">3</data>
+  <data key="d8">3.946</data>
+</node>
+<node id="1669636077">
+  <data key="d4">14.5768851</data>
+  <data key="d5">120.9966682</data>
+  <data key="d7">3</data>
+  <data key="d8">3.247</data>
+</node>
+<node id="1669636082">
+  <data key="d4">14.577588</data>
+  <data key="d5">120.9966581</data>
+  <data key="d7">3</data>
+  <data key="d8">2.971</data>
+</node>
+<edge source="21717829" target="25353413" id="0">
+  <data key="d9">4078786</data>
+  <data key="d10">True</data>
+  <data key="d11">3</data>
+  <data key="d12">145</data>
+  <data key="d13">Osmeña Highway</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">yes</data>
+  <data key="d17">False</data>
+  <data key="d18">19.246</data>
+  <data key="d19">0.038</data>
+  <data key="d20">0.038</data>
+</edge>
+<edge source="21717829" target="151044909" id="0">
+  <data key="d9">749749336</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d12">140</data>
+  <data key="d13">President Quirino Avenue</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d17">False</data>
+  <data key="d18">35.038</data>
+  <data key="d21">LINESTRING (120.9969325 14.5770886, 120.9968241 14.5769493, 120.9967393 14.576835)</data>
+  <data key="d19">0.025</data>
+  <data key="d20">0.025</data>
+</edge>
+<edge source="25353227" target="21717829" id="0">
+  <data key="d9">749749337</data>
+  <data key="d10">True</data>
+  <data key="d11">3</data>
+  <data key="d12">145</data>
+  <data key="d13">Osmeña Highway</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">yes</data>
+  <data key="d17">False</data>
+  <data key="d18">17.928</data>
+  <data key="d19">-0.052</data>
+  <data key="d20">0.052</data>
+</edge>
+<edge source="25353227" target="729234290" id="0">
+  <data key="d9">749749338</data>
+  <data key="d10">True</data>
+  <data key="d11">3</data>
+  <data key="d12">140</data>
+  <data key="d13">President Quirino Avenue</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d17">False</data>
+  <data key="d18">55.585</data>
+  <data key="d21">LINESTRING (120.9970958 14.5770567, 120.9971806 14.5771569, 120.9974084 14.5774545)</data>
+  <data key="d19">0.006</data>
+  <data key="d20">0.006</data>
+</edge>
+<edge source="25353413" target="25353227" id="0">
+  <data key="d9">748552792</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d12">140</data>
+  <data key="d13">President Quirino Avenue</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d17">False</data>
+  <data key="d18">17.496</data>
+  <data key="d21">LINESTRING (120.9970012 14.5769288, 120.9970623 14.577008, 120.9970958 14.5770567)</data>
+  <data key="d19">0.012</data>
+  <data key="d20">0.012</data>
+</edge>
+<edge source="151044909" target="1669636077" id="0">
+  <data key="d9">1072107012</data>
+  <data key="d11">2</data>
+  <data key="d13">Lanuza Street</data>
+  <data key="d14">residential</data>
+  <data key="d10">False</data>
+  <data key="d17">False</data>
+  <data key="d18">9.465</data>
+  <data key="d19">-0.032</data>
+  <data key="d20">0.032</data>
+</edge>
+<edge source="151044950" target="1669636082" id="0">
+  <data key="d9">15246682</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d13">Union Street</data>
+  <data key="d14">residential</data>
+  <data key="d17">False</data>
+  <data key="d18">36.806</data>
+  <data key="d19">0.014</data>
+  <data key="d20">0.014</data>
+</edge>
+<edge source="358847320" target="729234290" id="0">
+  <data key="d9">58855974</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d14">primary_link</data>
+  <data key="d17">False</data>
+  <data key="d18">104.54399999999998</data>
+  <data key="d21">LINESTRING (120.9974045 14.5765499, 120.9973221 14.5767988, 120.9973009 14.5768866, 120.9972917 14.5769951, 120.997297 14.5771067, 120.9973147 14.5772143, 120.9973461 14.5773444, 120.9974084 14.5774545)</data>
+  <data key="d19">-0.002</data>
+  <data key="d20">0.002</data>
+</edge>
+<edge source="358847320" target="25353227" id="0">
+  <data key="d9">154422856</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d12">145</data>
+  <data key="d13">Osmeña Highway</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">yes</data>
+  <data key="d17">False</data>
+  <data key="d18">65.428</data>
+  <data key="d21">LINESTRING (120.9974045 14.5765499, 120.9971416 14.5769888, 120.9970958 14.5770567)</data>
+  <data key="d19">-0.008</data>
+  <data key="d20">0.008</data>
+</edge>
+<edge source="1669636077" target="151044950" id="0">
+  <data key="d9">15246682</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d13">Union Street</data>
+  <data key="d14">residential</data>
+  <data key="d17">False</data>
+  <data key="d18">41.363</data>
+  <data key="d19">-0.019</data>
+  <data key="d20">0.019</data>
+</edge>
+<edge source="1669636077" target="151044909" id="0">
+  <data key="d9">1072107012</data>
+  <data key="d11">2</data>
+  <data key="d13">Lanuza Street</data>
+  <data key="d14">residential</data>
+  <data key="d10">False</data>
+  <data key="d17">True</data>
+  <data key="d18">9.465</data>
+  <data key="d19">0.032</data>
+  <data key="d20">0.032</data>
+</edge>
+</graph></graphml>

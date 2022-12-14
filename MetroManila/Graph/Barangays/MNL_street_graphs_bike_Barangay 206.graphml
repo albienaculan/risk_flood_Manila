@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:42:47</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="134250688">
+  <data key="d4">14.6297104</data>
+  <data key="d5">120.977219</data>
+  <data key="d6">4</data>
+  <data key="d7">2.872</data>
+</node>
+<node id="134251194">
+  <data key="d4">14.6286204</data>
+  <data key="d5">120.9768577</data>
+  <data key="d6">3</data>
+  <data key="d7">2.977</data>
+</node>
+<node id="134261563">
+  <data key="d4">14.6281471</data>
+  <data key="d5">120.9772938</data>
+  <data key="d6">4</data>
+  <data key="d7">2.572</data>
+</node>
+<node id="134261565">
+  <data key="d4">14.629523</data>
+  <data key="d5">120.9777775</data>
+  <data key="d6">4</data>
+  <data key="d7">2.959</data>
+</node>
+<node id="8313608527">
+  <data key="d4">14.6293547</data>
+  <data key="d5">120.9770982</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="9958465767">
+  <data key="d4">14.6288319</data>
+  <data key="d5">120.9766562</data>
+  <data key="d6">1</data>
+  <data key="d7">2.948</data>
+</node>
+<edge source="134250688" target="134261565" id="0">
+  <data key="d8">150157972</data>
+  <data key="d9">Corregidor Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">63.6</data>
+  <data key="d14">0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+<edge source="134250688" target="8313608527" id="0">
+  <data key="d8">150157980</data>
+  <data key="d9">Pilar Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">41.633</data>
+  <data key="d14">0.027</data>
+  <data key="d15">0.027</data>
+</edge>
+<edge source="134251194" target="9958465767" id="0">
+  <data key="d8">1086860617</data>
+  <data key="d16">2</data>
+  <data key="d9">T. Bugallon Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">31.986</data>
+  <data key="d14">-0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+<edge source="134251194" target="134261563" id="0">
+  <data key="d8">1086860617</data>
+  <data key="d16">2</data>
+  <data key="d9">T. Bugallon Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">70.507</data>
+  <data key="d14">-0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="134251194" target="8313608527" id="0">
+  <data key="d8">150157980</data>
+  <data key="d9">Pilar Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">85.661</data>
+  <data key="d17">LINESTRING (120.9768577 14.6286204, 120.9769456 14.6289054, 120.9770982 14.6293547)</data>
+  <data key="d14">0.012</data>
+  <data key="d15">0.012</data>
+</edge>
+<edge source="134261563" target="134261565" id="0">
+  <data key="d8">14096288</data>
+  <data key="d16">2</data>
+  <data key="d9">Molave Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">161.602</data>
+  <data key="d14">0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="134261563" target="134251194" id="0">
+  <data key="d8">1086860617</data>
+  <data key="d16">2</data>
+  <data key="d9">T. Bugallon Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">70.507</data>
+  <data key="d14">0.006</data>
+  <data key="d15">0.006</data>
+</edge>
+<edge source="134261565" target="134261563" id="0">
+  <data key="d8">14096288</data>
+  <data key="d16">2</data>
+  <data key="d9">Molave Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">161.602</data>
+  <data key="d14">-0.002</data>
+  <data key="d15">0.002</data>
+</edge>
+<edge source="134261565" target="134250688" id="0">
+  <data key="d8">150157972</data>
+  <data key="d9">Corregidor Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">63.6</data>
+  <data key="d14">-0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+<edge source="8313608527" target="134250688" id="0">
+  <data key="d8">150157980</data>
+  <data key="d9">Pilar Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">41.633</data>
+  <data key="d14">-0.027</data>
+  <data key="d15">0.027</data>
+</edge>
+<edge source="8313608527" target="134251194" id="0">
+  <data key="d8">150157980</data>
+  <data key="d9">Pilar Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">85.661</data>
+  <data key="d17">LINESTRING (120.9770982 14.6293547, 120.9769456 14.6289054, 120.9768577 14.6286204)</data>
+  <data key="d14">-0.012</data>
+  <data key="d15">0.012</data>
+</edge>
+<edge source="9958465767" target="134251194" id="0">
+  <data key="d8">1086860617</data>
+  <data key="d16">2</data>
+  <data key="d9">T. Bugallon Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">31.986</data>
+  <data key="d14">0.001</data>
+  <data key="d15">0.001</data>
+</edge>
+</graph></graphml>

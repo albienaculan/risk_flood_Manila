@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="service" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:28:00</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="34010588">
+  <data key="d4">14.5833402</data>
+  <data key="d5">120.9981263</data>
+  <data key="d6">3</data>
+  <data key="d7">3.384</data>
+</node>
+<node id="34010589">
+  <data key="d4">14.5837652</data>
+  <data key="d5">120.9985444</data>
+  <data key="d6">4</data>
+  <data key="d7">2.524</data>
+</node>
+<node id="8386007545">
+  <data key="d4">14.5835997</data>
+  <data key="d5">120.9986993</data>
+  <data key="d6">1</data>
+  <data key="d7">4.751</data>
+</node>
+<node id="8386678166">
+  <data key="d4">14.5832786</data>
+  <data key="d5">120.9981726</data>
+  <data key="d6">1</data>
+  <data key="d7">3.929</data>
+</node>
+<node id="9813540147">
+  <data key="d4">14.5834232</data>
+  <data key="d5">120.9986228</data>
+  <data key="d6">1</data>
+  <data key="d7">4.779</data>
+</node>
+<node id="9813540148">
+  <data key="d4">14.5836249</data>
+  <data key="d5">120.9984084</data>
+  <data key="d6">4</data>
+  <data key="d7">2.76</data>
+</node>
+<edge source="34010588" target="9813540148" id="0">
+  <data key="d8">5055419</data>
+  <data key="d9">2</data>
+  <data key="d10">West Zamora Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">43.861</data>
+  <data key="d16">-0.014</data>
+  <data key="d17">0.014</data>
+</edge>
+<edge source="34010588" target="8386678166" id="0">
+  <data key="d8">1076927941</data>
+  <data key="d11">service</data>
+  <data key="d18">alley</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">8.47</data>
+  <data key="d16">0.064</data>
+  <data key="d17">0.064</data>
+</edge>
+<edge source="34010589" target="9813540148" id="0">
+  <data key="d8">5055419</data>
+  <data key="d9">2</data>
+  <data key="d10">West Zamora Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">21.391</data>
+  <data key="d16">0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="34010589" target="8386007545" id="0">
+  <data key="d8">902898008</data>
+  <data key="d11">footway</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">25.724</data>
+  <data key="d19">LINESTRING (120.9985444 14.5837652, 120.9985742 14.5837392, 120.9985732 14.5837243, 120.9985739 14.5837132, 120.9985786 14.5837068, 120.9986376 14.5836587, 120.9986993 14.5835997)</data>
+  <data key="d16">0.087</data>
+  <data key="d17">0.087</data>
+</edge>
+<edge source="8386007545" target="34010589" id="0">
+  <data key="d8">902898008</data>
+  <data key="d11">footway</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">25.724000000000004</data>
+  <data key="d19">LINESTRING (120.9986993 14.5835997, 120.9986376 14.5836587, 120.9985786 14.5837068, 120.9985739 14.5837132, 120.9985732 14.5837243, 120.9985742 14.5837392, 120.9985444 14.5837652)</data>
+  <data key="d16">-0.087</data>
+  <data key="d17">0.087</data>
+</edge>
+<edge source="8386678166" target="34010588" id="0">
+  <data key="d8">1076927941</data>
+  <data key="d11">service</data>
+  <data key="d18">alley</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">8.47</data>
+  <data key="d16">-0.064</data>
+  <data key="d17">0.064</data>
+</edge>
+<edge source="9813540147" target="9813540148" id="0">
+  <data key="d8">1069110428</data>
+  <data key="d10">Interior 9</data>
+  <data key="d11">footway</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">32.177</data>
+  <data key="d16">-0.063</data>
+  <data key="d17">0.063</data>
+</edge>
+<edge source="9813540148" target="34010589" id="0">
+  <data key="d8">5055419</data>
+  <data key="d9">2</data>
+  <data key="d10">West Zamora Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">21.391</data>
+  <data key="d16">-0.011</data>
+  <data key="d17">0.011</data>
+</edge>
+<edge source="9813540148" target="34010588" id="0">
+  <data key="d8">5055419</data>
+  <data key="d9">2</data>
+  <data key="d10">West Zamora Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">43.861</data>
+  <data key="d16">0.014</data>
+  <data key="d17">0.014</data>
+</edge>
+<edge source="9813540148" target="9813540147" id="0">
+  <data key="d8">1069110428</data>
+  <data key="d10">Interior 9</data>
+  <data key="d11">footway</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">32.177</data>
+  <data key="d16">0.063</data>
+  <data key="d17">0.063</data>
+</edge>
+</graph></graphml>

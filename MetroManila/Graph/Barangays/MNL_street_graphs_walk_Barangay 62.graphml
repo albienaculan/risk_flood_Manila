@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:21:55</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="1733946471">
+  <data key="d4">14.6110997</data>
+  <data key="d5">120.965467</data>
+  <data key="d6">4</data>
+  <data key="d7">2.943</data>
+</node>
+<node id="1733946473">
+  <data key="d4">14.6111218</data>
+  <data key="d5">120.9652933</data>
+  <data key="d6">4</data>
+  <data key="d7">3.375</data>
+</node>
+<node id="8311157078">
+  <data key="d4">14.6116045</data>
+  <data key="d5">120.9652166</data>
+  <data key="d6">1</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="8311157080">
+  <data key="d4">14.6111362</data>
+  <data key="d5">120.9651634</data>
+  <data key="d6">3</data>
+  <data key="d7">3.411</data>
+</node>
+<node id="8314606160">
+  <data key="d4">14.6105987</data>
+  <data key="d5">120.966232</data>
+  <data key="d6">3</data>
+  <data key="d7">3.234</data>
+</node>
+<node id="8383634780">
+  <data key="d4">14.6105156</data>
+  <data key="d5">120.9655509</data>
+  <data key="d6">3</data>
+  <data key="d7">3.995</data>
+</node>
+<edge source="1733946471" target="8383634780" id="0">
+  <data key="d8">161424060</data>
+  <data key="d9">Santo Cristo Extension Street</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">65.573</data>
+  <data key="d14">0.016</data>
+  <data key="d15">0.016</data>
+</edge>
+<edge source="1733946471" target="1733946473" id="0">
+  <data key="d8">923234031</data>
+  <data key="d16">2</data>
+  <data key="d9">Concha Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">18.851</data>
+  <data key="d14">0.023</data>
+  <data key="d15">0.023</data>
+</edge>
+<edge source="1733946473" target="8311157080" id="0">
+  <data key="d8">923234031</data>
+  <data key="d16">2</data>
+  <data key="d9">Concha Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">14.069</data>
+  <data key="d14">0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="1733946473" target="1733946471" id="0">
+  <data key="d8">923234031</data>
+  <data key="d16">2</data>
+  <data key="d9">Concha Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">18.851</data>
+  <data key="d14">-0.023</data>
+  <data key="d15">0.023</data>
+</edge>
+<edge source="8311157078" target="8311157080" id="0">
+  <data key="d8">894215055</data>
+  <data key="d10">footway</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">52.46</data>
+  <data key="d17">LINESTRING (120.9652166 14.6116045, 120.9652046 14.6113852, 120.9651973 14.6113456, 120.9651634 14.6111362)</data>
+  <data key="d14">-0.011</data>
+  <data key="d15">0.011</data>
+</edge>
+<edge source="8311157080" target="1733946473" id="0">
+  <data key="d8">923234031</data>
+  <data key="d16">2</data>
+  <data key="d9">Concha Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">14.069</data>
+  <data key="d14">-0.003</data>
+  <data key="d15">0.003</data>
+</edge>
+<edge source="8311157080" target="8311157078" id="0">
+  <data key="d8">894215055</data>
+  <data key="d10">footway</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">52.46</data>
+  <data key="d17">LINESTRING (120.9651634 14.6111362, 120.9651973 14.6113456, 120.9652046 14.6113852, 120.9652166 14.6116045)</data>
+  <data key="d14">0.011</data>
+  <data key="d15">0.011</data>
+</edge>
+<edge source="8314606160" target="8383634780" id="0">
+  <data key="d8">894536744</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">73.90599999999999</data>
+  <data key="d17">LINESTRING (120.966232 14.6105987, 120.965948 14.6105571, 120.9657671 14.6105333, 120.9656561 14.6105211, 120.9655509 14.6105156)</data>
+  <data key="d14">0.01</data>
+  <data key="d15">0.01</data>
+</edge>
+<edge source="8383634780" target="1733946471" id="0">
+  <data key="d8">161424060</data>
+  <data key="d9">Santo Cristo Extension Street</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">65.573</data>
+  <data key="d14">-0.016</data>
+  <data key="d15">0.016</data>
+</edge>
+<edge source="8383634780" target="8314606160" id="0">
+  <data key="d8">894536744</data>
+  <data key="d10">pedestrian</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">73.906</data>
+  <data key="d17">LINESTRING (120.9655509 14.6105156, 120.9656561 14.6105211, 120.9657671 14.6105333, 120.965948 14.6105571, 120.966232 14.6105987)</data>
+  <data key="d14">-0.01</data>
+  <data key="d15">0.01</data>
+</edge>
+</graph></graphml>

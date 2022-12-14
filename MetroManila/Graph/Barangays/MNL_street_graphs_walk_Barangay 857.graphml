@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="highway" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:42:11</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="6053174360">
+  <data key="d4">14.5859865</data>
+  <data key="d5">121.001531</data>
+  <data key="d6">3</data>
+  <data key="d7">4.978</data>
+</node>
+<node id="6660359676">
+  <data key="d4">14.5858437</data>
+  <data key="d5">121.0013728</data>
+  <data key="d6">3</data>
+  <data key="d7">4.399</data>
+</node>
+<node id="6773538338">
+  <data key="d4">14.5858758</data>
+  <data key="d5">121.0014114</data>
+  <data key="d8">crossing</data>
+  <data key="d6">4</data>
+  <data key="d7">4.521</data>
+</node>
+<node id="8402116533">
+  <data key="d4">14.5859778</data>
+  <data key="d5">121.0015216</data>
+  <data key="d8">crossing</data>
+  <data key="d6">4</data>
+  <data key="d7">4.93</data>
+</node>
+<edge source="6053174360" target="8402116533" id="0">
+  <data key="d9">379389868</data>
+  <data key="d10">False</data>
+  <data key="d11">4</data>
+  <data key="d12">West Zamora Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">1.4</data>
+  <data key="d17">-0.034</data>
+  <data key="d18">0.034</data>
+</edge>
+<edge source="6660359676" target="6773538338" id="0">
+  <data key="d9">379389868</data>
+  <data key="d10">False</data>
+  <data key="d11">4</data>
+  <data key="d12">West Zamora Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">40</data>
+  <data key="d15">True</data>
+  <data key="d16">5.477</data>
+  <data key="d17">0.022</data>
+  <data key="d18">0.022</data>
+</edge>
+<edge source="6773538338" target="6660359676" id="0">
+  <data key="d9">379389868</data>
+  <data key="d10">False</data>
+  <data key="d11">4</data>
+  <data key="d12">West Zamora Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">5.477</data>
+  <data key="d17">-0.022</data>
+  <data key="d18">0.022</data>
+</edge>
+<edge source="6773538338" target="8402116533" id="0">
+  <data key="d9">379389868</data>
+  <data key="d10">False</data>
+  <data key="d11">4</data>
+  <data key="d12">West Zamora Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">40</data>
+  <data key="d15">True</data>
+  <data key="d16">16.409</data>
+  <data key="d17">0.025</data>
+  <data key="d18">0.025</data>
+</edge>
+<edge source="6773538338" target="8402116533" id="1">
+  <data key="d9">904726140</data>
+  <data key="d13">footway</data>
+  <data key="d10">False</data>
+  <data key="d15">False</data>
+  <data key="d16">32.028000000000006</data>
+  <data key="d19">LINESTRING (121.0014114 14.5858758, 121.001383 14.5859362, 121.0014915 14.5860433, 121.0015216 14.5859778)</data>
+  <data key="d17">0.013</data>
+  <data key="d18">0.013</data>
+</edge>
+<edge source="6773538338" target="8402116533" id="2">
+  <data key="d9">904726140</data>
+  <data key="d13">footway</data>
+  <data key="d10">False</data>
+  <data key="d15">True</data>
+  <data key="d16">33.128</data>
+  <data key="d19">LINESTRING (121.0014114 14.5858758, 121.00145 14.585809, 121.0015567 14.5859047, 121.0015216 14.5859778)</data>
+  <data key="d17">0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="8402116533" target="6773538338" id="0">
+  <data key="d9">379389868</data>
+  <data key="d10">False</data>
+  <data key="d11">4</data>
+  <data key="d12">West Zamora Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">16.409</data>
+  <data key="d17">-0.025</data>
+  <data key="d18">0.025</data>
+</edge>
+<edge source="8402116533" target="6773538338" id="1">
+  <data key="d9">904726140</data>
+  <data key="d13">footway</data>
+  <data key="d10">False</data>
+  <data key="d15">False</data>
+  <data key="d16">33.128</data>
+  <data key="d19">LINESTRING (121.0015216 14.5859778, 121.0015567 14.5859047, 121.00145 14.585809, 121.0014114 14.5858758)</data>
+  <data key="d17">-0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="8402116533" target="6773538338" id="2">
+  <data key="d9">904726140</data>
+  <data key="d13">footway</data>
+  <data key="d10">False</data>
+  <data key="d15">True</data>
+  <data key="d16">32.028</data>
+  <data key="d19">LINESTRING (121.0015216 14.5859778, 121.0014915 14.5860433, 121.001383 14.5859362, 121.0014114 14.5858758)</data>
+  <data key="d17">-0.013</data>
+  <data key="d18">0.013</data>
+</edge>
+<edge source="8402116533" target="6053174360" id="0">
+  <data key="d9">379389868</data>
+  <data key="d10">False</data>
+  <data key="d11">4</data>
+  <data key="d12">West Zamora Street</data>
+  <data key="d13">tertiary</data>
+  <data key="d14">40</data>
+  <data key="d15">True</data>
+  <data key="d16">1.4</data>
+  <data key="d17">0.034</data>
+  <data key="d18">0.034</data>
+</edge>
+</graph></graphml>

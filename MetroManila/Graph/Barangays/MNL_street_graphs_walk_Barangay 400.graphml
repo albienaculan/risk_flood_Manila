@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="service" attr.type="string"/>
+<key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="highway" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 05:20:54</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="59739000">
+  <data key="d4">14.6042628</data>
+  <data key="d5">120.9877589</data>
+  <data key="d6">3</data>
+  <data key="d7">4.931</data>
+</node>
+<node id="1933582585">
+  <data key="d4">14.6044901</data>
+  <data key="d5">120.9877332</data>
+  <data key="d6">3</data>
+  <data key="d7">4.609</data>
+</node>
+<node id="1934628920">
+  <data key="d4">14.6039596</data>
+  <data key="d5">120.9875934</data>
+  <data key="d6">3</data>
+  <data key="d7">5.064</data>
+</node>
+<node id="3598103872">
+  <data key="d4">14.6039962</data>
+  <data key="d5">120.9876033</data>
+  <data key="d8">traffic_signals</data>
+  <data key="d6">3</data>
+  <data key="d7">4.984</data>
+</node>
+<node id="3598103873">
+  <data key="d4">14.603975</data>
+  <data key="d5">120.9876828</data>
+  <data key="d8">traffic_signals</data>
+  <data key="d6">3</data>
+  <data key="d7">5.255</data>
+</node>
+<node id="3606282524">
+  <data key="d4">14.6037763</data>
+  <data key="d5">120.9882046</data>
+  <data key="d6">3</data>
+  <data key="d7">7.399</data>
+</node>
+<node id="4800121527">
+  <data key="d4">14.6041251</data>
+  <data key="d5">120.9876375</data>
+  <data key="d6">3</data>
+  <data key="d7">4.8</data>
+</node>
+<node id="4800121528">
+  <data key="d4">14.6041607</data>
+  <data key="d5">120.987534</data>
+  <data key="d6">3</data>
+  <data key="d7">4.459</data>
+</node>
+<node id="4800121532">
+  <data key="d4">14.6044078</data>
+  <data key="d5">120.9877122</data>
+  <data key="d6">3</data>
+  <data key="d7">4.625</data>
+</node>
+<edge source="59739000" target="3598103873" id="0">
+  <data key="d9">7980759</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">True</data>
+  <data key="d16">33.033</data>
+  <data key="d17">0.01</data>
+  <data key="d18">0.01</data>
+</edge>
+<edge source="59739000" target="3606282524" id="0">
+  <data key="d9">7980873</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">R. Papa Street</data>
+  <data key="d13">residential</data>
+  <data key="d14">30</data>
+  <data key="d15">True</data>
+  <data key="d16">72.294</data>
+  <data key="d17">0.034</data>
+  <data key="d18">0.034</data>
+</edge>
+<edge source="1933582585" target="4800121532" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">9.426</data>
+  <data key="d19">LINESTRING (120.9877332 14.6044901, 120.987724 14.604454, 120.9877186 14.6044328, 120.9877122 14.6044078)</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="1934628920" target="3598103872" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">True</data>
+  <data key="d16">4.207</data>
+  <data key="d17">-0.019</data>
+  <data key="d18">0.019</data>
+</edge>
+<edge source="3598103872" target="1934628920" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">4.207</data>
+  <data key="d17">0.019</data>
+  <data key="d18">0.019</data>
+</edge>
+<edge source="3598103872" target="4800121527" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">True</data>
+  <data key="d16">14.798</data>
+  <data key="d17">-0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="3598103872" target="3598103873" id="0">
+  <data key="d9">354013028</data>
+  <data key="d13">footway</data>
+  <data key="d10">False</data>
+  <data key="d15">False</data>
+  <data key="d16">8.881</data>
+  <data key="d19">LINESTRING (120.9876033 14.6039962, 120.9876138 14.6039937, 120.9876377 14.6039861, 120.9876634 14.6039805, 120.9876828 14.603975)</data>
+  <data key="d17">0.031</data>
+  <data key="d18">0.031</data>
+</edge>
+<edge source="3598103873" target="59739000" id="0">
+  <data key="d9">7980759</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">33.033</data>
+  <data key="d17">-0.01</data>
+  <data key="d18">0.01</data>
+</edge>
+<edge source="3598103873" target="3598103872" id="0">
+  <data key="d9">354013028</data>
+  <data key="d13">footway</data>
+  <data key="d10">False</data>
+  <data key="d15">True</data>
+  <data key="d16">8.881</data>
+  <data key="d19">LINESTRING (120.9876828 14.603975, 120.9876634 14.6039805, 120.9876377 14.6039861, 120.9876138 14.6039937, 120.9876033 14.6039962)</data>
+  <data key="d17">-0.031</data>
+  <data key="d18">0.031</data>
+</edge>
+<edge source="3606282524" target="59739000" id="0">
+  <data key="d9">7980873</data>
+  <data key="d10">False</data>
+  <data key="d11">2</data>
+  <data key="d12">R. Papa Street</data>
+  <data key="d13">residential</data>
+  <data key="d14">30</data>
+  <data key="d15">False</data>
+  <data key="d16">72.294</data>
+  <data key="d17">-0.034</data>
+  <data key="d18">0.034</data>
+</edge>
+<edge source="4800121527" target="3598103872" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">14.798</data>
+  <data key="d17">0.012</data>
+  <data key="d18">0.012</data>
+</edge>
+<edge source="4800121527" target="4800121532" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">True</data>
+  <data key="d16">32.446</data>
+  <data key="d17">-0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="4800121527" target="4800121528" id="0">
+  <data key="d9">[487556609, 487556605]</data>
+  <data key="d13">service</data>
+  <data key="d20">driveway</data>
+  <data key="d10">False</data>
+  <data key="d15">True</data>
+  <data key="d16">11.826</data>
+  <data key="d19">LINESTRING (120.9876375 14.6041251, 120.9875432 14.6041564, 120.987534 14.6041607)</data>
+  <data key="d17">-0.029</data>
+  <data key="d18">0.029</data>
+</edge>
+<edge source="4800121528" target="4800121527" id="0">
+  <data key="d9">[487556609, 487556605]</data>
+  <data key="d13">service</data>
+  <data key="d20">driveway</data>
+  <data key="d10">False</data>
+  <data key="d15">False</data>
+  <data key="d16">11.826</data>
+  <data key="d19">LINESTRING (120.987534 14.6041607, 120.9875432 14.6041564, 120.9876375 14.6041251)</data>
+  <data key="d17">0.029</data>
+  <data key="d18">0.029</data>
+</edge>
+<edge source="4800121528" target="4800121532" id="0">
+  <data key="d9">[487556609, 487556607]</data>
+  <data key="d13">service</data>
+  <data key="d20">driveway</data>
+  <data key="d10">False</data>
+  <data key="d15">True</data>
+  <data key="d16">39.973</data>
+  <data key="d19">LINESTRING (120.987534 14.6041607, 120.9875344 14.6042042, 120.9875868 14.6043909, 120.987606 14.6043933, 120.9877122 14.6044078)</data>
+  <data key="d17">0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+<edge source="4800121532" target="4800121527" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">False</data>
+  <data key="d16">32.446</data>
+  <data key="d17">0.005</data>
+  <data key="d18">0.005</data>
+</edge>
+<edge source="4800121532" target="1933582585" id="0">
+  <data key="d9">97073858</data>
+  <data key="d10">False</data>
+  <data key="d11">3</data>
+  <data key="d12">Nicanor Reyes Street</data>
+  <data key="d13">primary</data>
+  <data key="d14">40</data>
+  <data key="d15">True</data>
+  <data key="d16">9.426</data>
+  <data key="d19">LINESTRING (120.9877122 14.6044078, 120.9877186 14.6044328, 120.987724 14.604454, 120.9877332 14.6044901)</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="4800121532" target="4800121528" id="0">
+  <data key="d9">[487556609, 487556607]</data>
+  <data key="d13">service</data>
+  <data key="d20">driveway</data>
+  <data key="d10">False</data>
+  <data key="d15">False</data>
+  <data key="d16">39.973</data>
+  <data key="d19">LINESTRING (120.9877122 14.6044078, 120.987606 14.6043933, 120.9875868 14.6043909, 120.9875344 14.6042042, 120.987534 14.6041607)</data>
+  <data key="d17">-0.004</data>
+  <data key="d18">0.004</data>
+</edge>
+</graph></graphml>

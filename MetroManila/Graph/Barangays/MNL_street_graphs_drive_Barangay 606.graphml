@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:55:46</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="261682821">
+  <data key="d4">14.5950114</data>
+  <data key="d5">121.0198152</data>
+  <data key="d6">3</data>
+  <data key="d7">10.357</data>
+</node>
+<node id="261741016">
+  <data key="d4">14.5950287</data>
+  <data key="d5">121.0202054</data>
+  <data key="d6">3</data>
+  <data key="d7">10.553</data>
+</node>
+<node id="651134648">
+  <data key="d4">14.5949638</data>
+  <data key="d5">121.0213602</data>
+  <data key="d6">3</data>
+  <data key="d7">10.071</data>
+</node>
+<edge source="261682821" target="261741016" id="0">
+  <data key="d8">24158358</data>
+  <data key="d9">2</data>
+  <data key="d10">Bataan Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">45.405</data>
+  <data key="d15">LINESTRING (121.0198152 14.5950114, 121.0199764 14.5949535, 121.0200074 14.5949456, 121.0200376 14.5949473, 121.0202054 14.5950287)</data>
+  <data key="d16">0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+<edge source="261741016" target="261682821" id="0">
+  <data key="d8">24158358</data>
+  <data key="d9">2</data>
+  <data key="d10">Bataan Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">45.405</data>
+  <data key="d15">LINESTRING (121.0202054 14.5950287, 121.0200376 14.5949473, 121.0200074 14.5949456, 121.0199764 14.5949535, 121.0198152 14.5950114)</data>
+  <data key="d16">-0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+<edge source="261741016" target="651134648" id="0">
+  <data key="d8">563377895</data>
+  <data key="d9">2</data>
+  <data key="d10">Lingayen Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">136.535</data>
+  <data key="d15">LINESTRING (121.0202054 14.5950287, 121.020541 14.5952292, 121.0205698 14.5952374, 121.0205962 14.5952423, 121.0206278 14.595239, 121.0206571 14.5952302, 121.0213602 14.5949638)</data>
+  <data key="d16">-0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+<edge source="651134648" target="261741016" id="0">
+  <data key="d8">563377895</data>
+  <data key="d9">2</data>
+  <data key="d10">Lingayen Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">136.53500000000003</data>
+  <data key="d15">LINESTRING (121.0213602 14.5949638, 121.0206571 14.5952302, 121.0206278 14.595239, 121.0205962 14.5952423, 121.0205698 14.5952374, 121.020541 14.5952292, 121.0202054 14.5950287)</data>
+  <data key="d16">0.004</data>
+  <data key="d17">0.004</data>
+</edge>
+</graph></graphml>

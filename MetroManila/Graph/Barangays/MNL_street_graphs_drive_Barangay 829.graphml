@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="bridge" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:18:32</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="299922830">
+  <data key="d4">14.5891062</data>
+  <data key="d5">120.9935055</data>
+  <data key="d6">3</data>
+  <data key="d7">6.984</data>
+</node>
+<node id="3392190429">
+  <data key="d4">14.5906373</data>
+  <data key="d5">120.9948026</data>
+  <data key="d6">1</data>
+  <data key="d7">6.157</data>
+</node>
+<node id="6508798936">
+  <data key="d4">14.5896233</data>
+  <data key="d5">120.993463</data>
+  <data key="d6">1</data>
+  <data key="d7">6.321</data>
+</node>
+<node id="8313778237">
+  <data key="d4">14.5886621</data>
+  <data key="d5">120.9928031</data>
+  <data key="d6">1</data>
+  <data key="d7">5.744</data>
+</node>
+<node id="8313778241">
+  <data key="d4">14.5892163</data>
+  <data key="d5">120.9934949</data>
+  <data key="d6">3</data>
+  <data key="d7">6.991</data>
+</node>
+<node id="8313783720">
+  <data key="d4">14.5888749</data>
+  <data key="d5">120.9926288</data>
+  <data key="d6">1</data>
+  <data key="d7">5.172</data>
+</node>
+<node id="8313783724">
+  <data key="d4">14.5894992</data>
+  <data key="d5">120.9934758</data>
+  <data key="d6">3</data>
+  <data key="d7">6.554</data>
+</node>
+<edge source="299922830" target="8313778241" id="0">
+  <data key="d8">332100657</data>
+  <data key="d9">2</data>
+  <data key="d10">Cristobal Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">12.296</data>
+  <data key="d15">0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="299922830" target="3392190429" id="0">
+  <data key="d8">[332100659, 28596316, 1069105686, 332100660]</data>
+  <data key="d9">2</data>
+  <data key="d10">R. R. Road</data>
+  <data key="d11">['unclassified', 'residential']</data>
+  <data key="d12">False</data>
+  <data key="d13">[False, True]</data>
+  <data key="d14">220.49699999999996</data>
+  <data key="d17">yes</data>
+  <data key="d18">LINESTRING (120.9935055 14.5891062, 120.9937868 14.5894511, 120.9942614 14.59007, 120.9943514 14.5901808, 120.9943939 14.5902304, 120.9944463 14.5902836, 120.9944951 14.5903284, 120.9948026 14.5906373)</data>
+  <data key="d15">-0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="3392190429" target="299922830" id="0">
+  <data key="d8">[332100659, 332100660, 1069105686, 28596316]</data>
+  <data key="d10">R. R. Road</data>
+  <data key="d11">['unclassified', 'residential']</data>
+  <data key="d12">False</data>
+  <data key="d13">[False, True]</data>
+  <data key="d14">220.497</data>
+  <data key="d17">yes</data>
+  <data key="d9">2</data>
+  <data key="d18">LINESTRING (120.9948026 14.5906373, 120.9944951 14.5903284, 120.9944463 14.5902836, 120.9943939 14.5902304, 120.9943514 14.5901808, 120.9942614 14.59007, 120.9937868 14.5894511, 120.9935055 14.5891062)</data>
+  <data key="d15">0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="6508798936" target="8313783724" id="0">
+  <data key="d8">332100657</data>
+  <data key="d9">2</data>
+  <data key="d10">Cristobal Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">13.868</data>
+  <data key="d15">0.017</data>
+  <data key="d16">0.017</data>
+</edge>
+<edge source="8313778237" target="8313778241" id="0">
+  <data key="d8">894464233</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">96.643</data>
+  <data key="d18">LINESTRING (120.9928031 14.5886621, 120.9931102 14.5889061, 120.9932645 14.5890294, 120.993361 14.5891072, 120.9934949 14.5892163)</data>
+  <data key="d15">0.013</data>
+  <data key="d16">0.013</data>
+</edge>
+<edge source="8313778241" target="299922830" id="0">
+  <data key="d8">332100657</data>
+  <data key="d9">2</data>
+  <data key="d10">Cristobal Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">12.296</data>
+  <data key="d15">-0.001</data>
+  <data key="d16">0.001</data>
+</edge>
+<edge source="8313778241" target="8313783724" id="0">
+  <data key="d8">332100657</data>
+  <data key="d9">2</data>
+  <data key="d10">Cristobal Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">31.525</data>
+  <data key="d18">LINESTRING (120.9934949 14.5892163, 120.9934891 14.5893017, 120.9934758 14.5894992)</data>
+  <data key="d15">-0.014</data>
+  <data key="d16">0.014</data>
+</edge>
+<edge source="8313778241" target="8313778237" id="0">
+  <data key="d8">894464233</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">96.643</data>
+  <data key="d18">LINESTRING (120.9934949 14.5892163, 120.993361 14.5891072, 120.9932645 14.5890294, 120.9931102 14.5889061, 120.9928031 14.5886621)</data>
+  <data key="d15">-0.013</data>
+  <data key="d16">0.013</data>
+</edge>
+<edge source="8313783720" target="8313783724" id="0">
+  <data key="d8">894464256</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">114.58999999999999</data>
+  <data key="d18">LINESTRING (120.9926288 14.5888749, 120.9928568 14.5890501, 120.9930673 14.5892072, 120.9933336 14.5894018, 120.9934758 14.5894992)</data>
+  <data key="d15">0.012</data>
+  <data key="d16">0.012</data>
+</edge>
+<edge source="8313783724" target="6508798936" id="0">
+  <data key="d8">332100657</data>
+  <data key="d9">2</data>
+  <data key="d10">Cristobal Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">13.868</data>
+  <data key="d15">-0.017</data>
+  <data key="d16">0.017</data>
+</edge>
+<edge source="8313783724" target="8313778241" id="0">
+  <data key="d8">332100657</data>
+  <data key="d9">2</data>
+  <data key="d10">Cristobal Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">31.525</data>
+  <data key="d18">LINESTRING (120.9934758 14.5894992, 120.9934891 14.5893017, 120.9934949 14.5892163)</data>
+  <data key="d15">0.014</data>
+  <data key="d16">0.014</data>
+</edge>
+<edge source="8313783724" target="8313783720" id="0">
+  <data key="d8">894464256</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">114.59</data>
+  <data key="d18">LINESTRING (120.9934758 14.5894992, 120.9933336 14.5894018, 120.9930673 14.5892072, 120.9928568 14.5890501, 120.9926288 14.5888749)</data>
+  <data key="d15">-0.012</data>
+  <data key="d16">0.012</data>
+</edge>
+</graph></graphml>

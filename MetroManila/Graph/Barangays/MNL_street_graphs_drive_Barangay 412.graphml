@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d21" for="edge" attr.name="width" attr.type="string"/>
+<key id="d20" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d19" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d18" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d17" for="edge" attr.name="length" attr.type="string"/>
+<key id="d16" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d15" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="name" attr.type="string"/>
+<key id="d12" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d11" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d8" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d7" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d6" for="node" attr.name="highway" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:47:04</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="29663307">
+  <data key="d4">14.6015874</data>
+  <data key="d5">120.9926758</data>
+  <data key="d6">traffic_signals</data>
+  <data key="d7">4</data>
+  <data key="d8">7.468</data>
+</node>
+<node id="68083549">
+  <data key="d4">14.60129</data>
+  <data key="d5">120.9922595</data>
+  <data key="d7">3</data>
+  <data key="d8">7.585</data>
+</node>
+<node id="223618645">
+  <data key="d4">14.6015085</data>
+  <data key="d5">120.9926746</data>
+  <data key="d7">3</data>
+  <data key="d8">7.337</data>
+</node>
+<node id="6642567704">
+  <data key="d4">14.6013365</data>
+  <data key="d5">120.9922266</data>
+  <data key="d7">4</data>
+  <data key="d8">7.775</data>
+</node>
+<node id="6642567706">
+  <data key="d4">14.6010086</data>
+  <data key="d5">120.9916184</data>
+  <data key="d7">3</data>
+  <data key="d8">11.054</data>
+</node>
+<edge source="29663307" target="6642567704" id="0">
+  <data key="d9">5019952</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">55.956</data>
+  <data key="d18">LINESTRING (120.9926758 14.6015874, 120.9925188 14.601519, 120.9923785 14.6014276, 120.9922266 14.6013365)</data>
+  <data key="d19">0.005</data>
+  <data key="d20">0.005</data>
+</edge>
+<edge source="29663307" target="223618645" id="0">
+  <data key="d9">[310627473, 250174796]</data>
+  <data key="d11">4</data>
+  <data key="d13">Figueras Street</data>
+  <data key="d14">secondary</data>
+  <data key="d15">60</data>
+  <data key="d21">13</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">8.775</data>
+  <data key="d18">LINESTRING (120.9926758 14.6015874, 120.9926756 14.6015584, 120.9926746 14.6015085)</data>
+  <data key="d19">-0.015</data>
+  <data key="d20">0.015</data>
+</edge>
+<edge source="68083549" target="6642567704" id="0">
+  <data key="d9">136822601</data>
+  <data key="d13">Main Street</data>
+  <data key="d14">residential</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">6.266</data>
+  <data key="d19">0.03</data>
+  <data key="d20">0.03</data>
+</edge>
+<edge source="68083549" target="223618645" id="0">
+  <data key="d9">704746731</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">50.93</data>
+  <data key="d18">LINESTRING (120.9922595 14.60129, 120.9924226 14.6013738, 120.992557 14.6014571, 120.9926746 14.6015085)</data>
+  <data key="d19">-0.005</data>
+  <data key="d20">0.005</data>
+</edge>
+<edge source="223618645" target="29663307" id="0">
+  <data key="d9">[310627473, 250174796]</data>
+  <data key="d11">4</data>
+  <data key="d13">Figueras Street</data>
+  <data key="d14">secondary</data>
+  <data key="d15">60</data>
+  <data key="d21">13</data>
+  <data key="d10">False</data>
+  <data key="d16">False</data>
+  <data key="d17">8.775</data>
+  <data key="d18">LINESTRING (120.9926746 14.6015085, 120.9926756 14.6015584, 120.9926758 14.6015874)</data>
+  <data key="d19">0.015</data>
+  <data key="d20">0.015</data>
+</edge>
+<edge source="6642567704" target="68083549" id="0">
+  <data key="d9">136822601</data>
+  <data key="d13">Main Street</data>
+  <data key="d14">residential</data>
+  <data key="d10">False</data>
+  <data key="d16">True</data>
+  <data key="d17">6.266</data>
+  <data key="d19">-0.03</data>
+  <data key="d20">0.03</data>
+</edge>
+<edge source="6642567704" target="6642567706" id="0">
+  <data key="d9">5019952</data>
+  <data key="d10">True</data>
+  <data key="d11">2</data>
+  <data key="d12">180</data>
+  <data key="d13">Legarda Street</data>
+  <data key="d14">primary</data>
+  <data key="d15">60</data>
+  <data key="d16">False</data>
+  <data key="d17">74.922</data>
+  <data key="d18">LINESTRING (120.9922266 14.6013365, 120.9920859 14.601265, 120.9916184 14.6010086)</data>
+  <data key="d19">0.044</data>
+  <data key="d20">0.044</data>
+</edge>
+</graph></graphml>

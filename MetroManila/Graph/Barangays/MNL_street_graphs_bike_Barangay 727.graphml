@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d17" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:31:08</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="246782492">
+  <data key="d4">14.5666999</data>
+  <data key="d5">120.9932004</data>
+  <data key="d6">4</data>
+  <data key="d7">4.8</data>
+</node>
+<node id="246783137">
+  <data key="d4">14.5667411</data>
+  <data key="d5">120.9932853</data>
+  <data key="d6">3</data>
+  <data key="d7">4.8</data>
+</node>
+<node id="5867218527">
+  <data key="d4">14.5663891</data>
+  <data key="d5">120.9934536</data>
+  <data key="d6">3</data>
+  <data key="d7">4.799</data>
+</node>
+<node id="8635886240">
+  <data key="d4">14.5664545</data>
+  <data key="d5">120.9935765</data>
+  <data key="d6">1</data>
+  <data key="d7">4.8</data>
+</node>
+<edge source="246782492" target="246783137" id="0">
+  <data key="d8">184841933</data>
+  <data key="d9">Castro Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">10.221</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="246783137" target="246782492" id="0">
+  <data key="d8">184841933</data>
+  <data key="d9">Castro Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">10.221</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="5867218527" target="246783137" id="0">
+  <data key="d8">435985751</data>
+  <data key="d11">True</data>
+  <data key="d16">3</data>
+  <data key="d17">170</data>
+  <data key="d9">Taft Avenue</data>
+  <data key="d10">primary</data>
+  <data key="d18">60</data>
+  <data key="d12">False</data>
+  <data key="d13">43.128</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="5867218527" target="8635886240" id="0">
+  <data key="d8">621072459</data>
+  <data key="d10">service</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">15.097000000000001</data>
+  <data key="d19">LINESTRING (120.9934536 14.5663891, 120.9935354 14.5664311, 120.9935635 14.5664467, 120.9935765 14.5664545)</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="8635886240" target="5867218527" id="0">
+  <data key="d8">621072459</data>
+  <data key="d10">service</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">15.097</data>
+  <data key="d19">LINESTRING (120.9935765 14.5664545, 120.9935635 14.5664467, 120.9935354 14.5664311, 120.9934536 14.5663891)</data>
+  <data key="d14">-0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+</graph></graphml>

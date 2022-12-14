@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 06:13:57</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="67772938">
+  <data key="d4">14.6097775</data>
+  <data key="d5">120.9812894</data>
+  <data key="d6">4</data>
+  <data key="d7">2.439</data>
+</node>
+<node id="168189174">
+  <data key="d4">14.6098216</data>
+  <data key="d5">120.9806615</data>
+  <data key="d6">3</data>
+  <data key="d7">2.66</data>
+</node>
+<edge source="67772938" target="168189174" id="0">
+  <data key="d8">16267375</data>
+  <data key="d9">Remigio Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">30</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">67.74000000000001</data>
+  <data key="d15">LINESTRING (120.9812894 14.6097775, 120.9809875 14.6097987, 120.9806615 14.6098216)</data>
+  <data key="d16">0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+<edge source="168189174" target="67772938" id="0">
+  <data key="d8">16267375</data>
+  <data key="d9">Remigio Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">30</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">67.74000000000001</data>
+  <data key="d15">LINESTRING (120.9806615 14.6098216, 120.9809875 14.6097987, 120.9812894 14.6097775)</data>
+  <data key="d16">-0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+</graph></graphml>

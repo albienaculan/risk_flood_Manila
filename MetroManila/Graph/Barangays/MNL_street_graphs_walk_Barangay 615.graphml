@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="name" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:00:09</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="5423602333">
+  <data key="d4">14.5971672</data>
+  <data key="d5">121.0130802</data>
+  <data key="d6">3</data>
+  <data key="d7">8.238</data>
+</node>
+<edge source="5423602333" target="5423602333" id="0">
+  <data key="d8">[1074591035, 529323155, 1068385919]</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Anonas Street</data>
+  <data key="d12">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">268.496</data>
+  <data key="d15">LINESTRING (121.0130802 14.5971672, 121.0129954 14.5971334, 121.0129249 14.5971147, 121.0128747 14.5970931, 121.0127959 14.5970377, 121.0127044 14.5969694, 121.0126272 14.5968906, 121.0125356 14.5967641, 121.0123348 14.5963154, 121.0124013 14.5962503, 121.0124752 14.5964422, 121.0126254 14.5967313, 121.0126988 14.5968331, 121.0127931 14.596918, 121.0128956 14.597001, 121.0129818 14.5970585, 121.0130802 14.5971672)</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+</edge>
+<edge source="5423602333" target="5423602333" id="1">
+  <data key="d8">[1074591035, 529323155, 1068385919]</data>
+  <data key="d9">False</data>
+  <data key="d10">2</data>
+  <data key="d11">Anonas Street</data>
+  <data key="d12">residential</data>
+  <data key="d13">True</data>
+  <data key="d14">268.496</data>
+  <data key="d15">LINESTRING (121.0130802 14.5971672, 121.0129818 14.5970585, 121.0128956 14.597001, 121.0127931 14.596918, 121.0126988 14.5968331, 121.0126254 14.5967313, 121.0124752 14.5964422, 121.0124013 14.5962503, 121.0123348 14.5963154, 121.0125356 14.5967641, 121.0126272 14.5968906, 121.0127044 14.5969694, 121.0127959 14.5970377, 121.0128747 14.5970931, 121.0129249 14.5971147, 121.0129954 14.5971334, 121.0130802 14.5971672)</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="service" attr.type="string"/>
+<key id="d19" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d18" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d17" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:36:40</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="26032665">
+  <data key="d4">14.6012402</data>
+  <data key="d5">120.9621521</data>
+  <data key="d6">3</data>
+  <data key="d7">2.917</data>
+</node>
+<node id="26032719">
+  <data key="d4">14.6009672</data>
+  <data key="d5">120.9624278</data>
+  <data key="d6">3</data>
+  <data key="d7">2.897</data>
+</node>
+<node id="1933319720">
+  <data key="d4">14.6012813</data>
+  <data key="d5">120.9624258</data>
+  <data key="d6">3</data>
+  <data key="d7">3.733</data>
+</node>
+<node id="1933319721">
+  <data key="d4">14.6013119</data>
+  <data key="d5">120.9626611</data>
+  <data key="d6">3</data>
+  <data key="d7">3.862</data>
+</node>
+<node id="1933319727">
+  <data key="d4">14.6017448</data>
+  <data key="d5">120.9626067</data>
+  <data key="d6">1</data>
+  <data key="d7">3.068</data>
+</node>
+<node id="4398406891">
+  <data key="d4">14.6017342</data>
+  <data key="d5">120.9623835</data>
+  <data key="d6">1</data>
+  <data key="d7">3.076</data>
+</node>
+<edge source="26032665" target="1933319720" id="0">
+  <data key="d8">51761694</data>
+  <data key="d9">San Roque Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">29.804</data>
+  <data key="d14">0.027</data>
+  <data key="d15">0.027</data>
+</edge>
+<edge source="26032665" target="26032719" id="0">
+  <data key="d8">14342823</data>
+  <data key="d11">False</data>
+  <data key="d16">5</data>
+  <data key="d17">120</data>
+  <data key="d9">Mel Lopez Boulevard</data>
+  <data key="d10">trunk</data>
+  <data key="d18">60</data>
+  <data key="d12">True</data>
+  <data key="d13">42.494</data>
+  <data key="d19">LINESTRING (120.9621521 14.6012402, 120.9623077 14.6010732, 120.9624278 14.6009672)</data>
+  <data key="d14">-0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="26032719" target="26032665" id="0">
+  <data key="d8">14342823</data>
+  <data key="d11">False</data>
+  <data key="d16">5</data>
+  <data key="d17">120</data>
+  <data key="d9">Mel Lopez Boulevard</data>
+  <data key="d10">trunk</data>
+  <data key="d18">60</data>
+  <data key="d12">False</data>
+  <data key="d13">42.494</data>
+  <data key="d19">LINESTRING (120.9624278 14.6009672, 120.9623077 14.6010732, 120.9621521 14.6012402)</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+</edge>
+<edge source="1933319720" target="26032665" id="0">
+  <data key="d8">51761694</data>
+  <data key="d9">San Roque Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">29.804</data>
+  <data key="d14">-0.027</data>
+  <data key="d15">0.027</data>
+</edge>
+<edge source="1933319720" target="1933319721" id="0">
+  <data key="d8">51761694</data>
+  <data key="d9">San Roque Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">25.547</data>
+  <data key="d14">0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="1933319720" target="4398406891" id="0">
+  <data key="d8">182969145</data>
+  <data key="d9">San Fabian</data>
+  <data key="d10">service</data>
+  <data key="d20">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">50.566</data>
+  <data key="d14">-0.013</data>
+  <data key="d15">0.013</data>
+</edge>
+<edge source="1933319721" target="1933319720" id="0">
+  <data key="d8">51761694</data>
+  <data key="d9">San Roque Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">25.547</data>
+  <data key="d14">-0.005</data>
+  <data key="d15">0.005</data>
+</edge>
+<edge source="1933319721" target="1933319727" id="0">
+  <data key="d8">182969146</data>
+  <data key="d10">service</data>
+  <data key="d20">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">48.491</data>
+  <data key="d14">-0.016</data>
+  <data key="d15">0.016</data>
+</edge>
+<edge source="1933319727" target="1933319721" id="0">
+  <data key="d8">182969146</data>
+  <data key="d10">service</data>
+  <data key="d20">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">48.491</data>
+  <data key="d14">0.016</data>
+  <data key="d15">0.016</data>
+</edge>
+<edge source="4398406891" target="1933319720" id="0">
+  <data key="d8">182969145</data>
+  <data key="d9">San Fabian</data>
+  <data key="d10">service</data>
+  <data key="d20">alley</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">50.566</data>
+  <data key="d14">0.013</data>
+  <data key="d15">0.013</data>
+</edge>
+</graph></graphml>

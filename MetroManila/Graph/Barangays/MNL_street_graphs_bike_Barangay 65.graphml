@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="access" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d13" for="edge" attr.name="width" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 08:51:39</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="56110351">
+  <data key="d4">14.6128652</data>
+  <data key="d5">120.9663863</data>
+  <data key="d6">4</data>
+  <data key="d7">2.444</data>
+</node>
+<node id="244114782">
+  <data key="d4">14.6125129</data>
+  <data key="d5">120.9663961</data>
+  <data key="d6">3</data>
+  <data key="d7">2.378</data>
+</node>
+<node id="244114786">
+  <data key="d4">14.6127742</data>
+  <data key="d5">120.9667561</data>
+  <data key="d6">4</data>
+  <data key="d7">2.128</data>
+</node>
+<node id="244114787">
+  <data key="d4">14.6124174</data>
+  <data key="d5">120.9667215</data>
+  <data key="d6">4</data>
+  <data key="d7">2.131</data>
+</node>
+<node id="244115187">
+  <data key="d4">14.6120701</data>
+  <data key="d5">120.9666873</data>
+  <data key="d6">3</data>
+  <data key="d7">2.406</data>
+</node>
+<edge source="56110351" target="244114782" id="0">
+  <data key="d8">7715247</data>
+  <data key="d9">2</data>
+  <data key="d10">Velasquez Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">7</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">39.188</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="56110351" target="244114786" id="0">
+  <data key="d8">22750717</data>
+  <data key="d10">Pilapil Street</data>
+  <data key="d11">residential</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">41.056</data>
+  <data key="d17">-0.008</data>
+  <data key="d18">0.008</data>
+</edge>
+<edge source="244114782" target="56110351" id="0">
+  <data key="d8">7715247</data>
+  <data key="d9">2</data>
+  <data key="d10">Velasquez Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">7</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">39.188</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="244114782" target="244114787" id="0">
+  <data key="d8">677350304</data>
+  <data key="d9">2</data>
+  <data key="d10">Perla Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">7.3</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">36.587</data>
+  <data key="d17">-0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="244114786" target="244114787" id="0">
+  <data key="d8">7715272</data>
+  <data key="d9">2</data>
+  <data key="d10">Santa Maria Street</data>
+  <data key="d11">residential</data>
+  <data key="d19">yes</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">39.849</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="244114786" target="56110351" id="0">
+  <data key="d8">22750717</data>
+  <data key="d10">Pilapil Street</data>
+  <data key="d11">residential</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">41.056</data>
+  <data key="d17">0.008</data>
+  <data key="d18">0.008</data>
+</edge>
+<edge source="244114787" target="244114786" id="0">
+  <data key="d8">7715272</data>
+  <data key="d9">2</data>
+  <data key="d10">Santa Maria Street</data>
+  <data key="d11">residential</data>
+  <data key="d19">yes</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">39.849</data>
+  <data key="d17">-0.0</data>
+  <data key="d18">0.0</data>
+</edge>
+<edge source="244114787" target="244115187" id="0">
+  <data key="d8">677350303</data>
+  <data key="d9">2</data>
+  <data key="d10">Santa Maria Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">9</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">38.793</data>
+  <data key="d17">0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="244114787" target="244114782" id="0">
+  <data key="d8">677350304</data>
+  <data key="d9">2</data>
+  <data key="d10">Perla Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">7.3</data>
+  <data key="d14">False</data>
+  <data key="d15">False</data>
+  <data key="d16">36.587</data>
+  <data key="d17">0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+<edge source="244115187" target="244114787" id="0">
+  <data key="d8">677350303</data>
+  <data key="d9">2</data>
+  <data key="d10">Santa Maria Street</data>
+  <data key="d11">tertiary</data>
+  <data key="d12">40</data>
+  <data key="d13">9</data>
+  <data key="d14">False</data>
+  <data key="d15">True</data>
+  <data key="d16">38.793</data>
+  <data key="d17">-0.007</data>
+  <data key="d18">0.007</data>
+</edge>
+</graph></graphml>

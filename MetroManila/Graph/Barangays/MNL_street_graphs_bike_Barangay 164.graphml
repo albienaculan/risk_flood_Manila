@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d15" for="edge" attr.name="length" attr.type="string"/>
+<key id="d14" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:42:18</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="134294320">
+  <data key="d4">14.6241261</data>
+  <data key="d5">120.9718495</data>
+  <data key="d6">3</data>
+  <data key="d7">2.558</data>
+</node>
+<node id="1904012217">
+  <data key="d4">14.6243956</data>
+  <data key="d5">120.9719155</data>
+  <data key="d6">3</data>
+  <data key="d7">2.375</data>
+</node>
+<node id="1904012222">
+  <data key="d4">14.6244816</data>
+  <data key="d5">120.9713746</data>
+  <data key="d6">4</data>
+  <data key="d7">2.225</data>
+</node>
+<node id="1904012225">
+  <data key="d4">14.6245467</data>
+  <data key="d5">120.970857</data>
+  <data key="d6">4</data>
+  <data key="d7">2.255</data>
+</node>
+<node id="1904012227">
+  <data key="d4">14.6246299</data>
+  <data key="d5">120.9719671</data>
+  <data key="d6">3</data>
+  <data key="d7">2.237</data>
+</node>
+<node id="1904012245">
+  <data key="d4">14.6246988</data>
+  <data key="d5">120.9714195</data>
+  <data key="d6">4</data>
+  <data key="d7">2.194</data>
+</node>
+<node id="1904012251">
+  <data key="d4">14.624757</data>
+  <data key="d5">120.970899</data>
+  <data key="d6">4</data>
+  <data key="d7">2.242</data>
+</node>
+<node id="1904012253">
+  <data key="d4">14.624838</data>
+  <data key="d5">120.9720133</data>
+  <data key="d6">3</data>
+  <data key="d7">2.067</data>
+</node>
+<node id="1904012256">
+  <data key="d4">14.6249093</data>
+  <data key="d5">120.9714664</data>
+  <data key="d6">4</data>
+  <data key="d7">2.02</data>
+</node>
+<node id="1904012259">
+  <data key="d4">14.624979</data>
+  <data key="d5">120.9709398</data>
+  <data key="d6">4</data>
+  <data key="d7">2.084</data>
+</node>
+<edge source="134294320" target="1904012217" id="0">
+  <data key="d8">14116226</data>
+  <data key="d9">2</data>
+  <data key="d10">Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">30.797</data>
+  <data key="d16">-0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="1904012217" target="1904012227" id="0">
+  <data key="d8">14116226</data>
+  <data key="d9">2</data>
+  <data key="d10">Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">26.638</data>
+  <data key="d16">-0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="1904012217" target="134294320" id="0">
+  <data key="d8">14116226</data>
+  <data key="d9">2</data>
+  <data key="d10">Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">30.797</data>
+  <data key="d16">0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="1904012217" target="1904012222" id="0">
+  <data key="d8">179949256</data>
+  <data key="d10">Callejon E</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">58.977</data>
+  <data key="d16">-0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+<edge source="1904012222" target="1904012217" id="0">
+  <data key="d8">179949256</data>
+  <data key="d10">Callejon E</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">58.977</data>
+  <data key="d16">0.003</data>
+  <data key="d17">0.003</data>
+</edge>
+<edge source="1904012222" target="1904012225" id="0">
+  <data key="d8">179949256</data>
+  <data key="d10">Callejon E</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">56.158</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012222" target="1904012245" id="0">
+  <data key="d8">235771519</data>
+  <data key="d9">2</data>
+  <data key="d10">Tirso Cruz Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">24.63</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012225" target="1904012222" id="0">
+  <data key="d8">179949256</data>
+  <data key="d10">Callejon E</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">56.158</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012225" target="1904012251" id="0">
+  <data key="d8">833696344</data>
+  <data key="d9">2</data>
+  <data key="d10">R. Fernandez Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">23.817</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012227" target="1904012253" id="0">
+  <data key="d8">14116226</data>
+  <data key="d9">2</data>
+  <data key="d10">Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">23.668</data>
+  <data key="d16">-0.007</data>
+  <data key="d17">0.007</data>
+</edge>
+<edge source="1904012227" target="1904012217" id="0">
+  <data key="d8">14116226</data>
+  <data key="d9">2</data>
+  <data key="d10">Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">26.638</data>
+  <data key="d16">0.005</data>
+  <data key="d17">0.005</data>
+</edge>
+<edge source="1904012227" target="1904012245" id="0">
+  <data key="d8">179949261</data>
+  <data key="d10">Callejon F</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">59.414</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012245" target="1904012251" id="0">
+  <data key="d8">179949261</data>
+  <data key="d10">Callejon F</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">56.375</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012245" target="1904012227" id="0">
+  <data key="d8">179949261</data>
+  <data key="d10">Callejon F</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">59.414</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012245" target="1904012222" id="0">
+  <data key="d8">235771519</data>
+  <data key="d9">2</data>
+  <data key="d10">Tirso Cruz Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">24.63</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012245" target="1904012256" id="0">
+  <data key="d8">235771519</data>
+  <data key="d9">2</data>
+  <data key="d10">Tirso Cruz Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">23.944</data>
+  <data key="d16">-0.007</data>
+  <data key="d17">0.007</data>
+</edge>
+<edge source="1904012251" target="1904012245" id="0">
+  <data key="d8">179949261</data>
+  <data key="d10">Callejon F</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">56.375</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012251" target="1904012259" id="0">
+  <data key="d8">833696344</data>
+  <data key="d9">2</data>
+  <data key="d10">R. Fernandez Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">25.073</data>
+  <data key="d16">-0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+<edge source="1904012251" target="1904012225" id="0">
+  <data key="d8">833696344</data>
+  <data key="d9">2</data>
+  <data key="d10">R. Fernandez Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">23.817</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012253" target="1904012227" id="0">
+  <data key="d8">14116226</data>
+  <data key="d9">2</data>
+  <data key="d10">Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">23.668</data>
+  <data key="d16">0.007</data>
+  <data key="d17">0.007</data>
+</edge>
+<edge source="1904012253" target="1904012256" id="0">
+  <data key="d8">179949257</data>
+  <data key="d10">Callejon G</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">59.374</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012256" target="1904012259" id="0">
+  <data key="d8">179949257</data>
+  <data key="d10">Callejon G</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">57.186</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012256" target="1904012253" id="0">
+  <data key="d8">179949257</data>
+  <data key="d10">Callejon G</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">59.374</data>
+  <data key="d16">0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012256" target="1904012245" id="0">
+  <data key="d8">235771519</data>
+  <data key="d9">2</data>
+  <data key="d10">Tirso Cruz Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">False</data>
+  <data key="d15">23.944</data>
+  <data key="d16">0.007</data>
+  <data key="d17">0.007</data>
+</edge>
+<edge source="1904012259" target="1904012256" id="0">
+  <data key="d8">179949257</data>
+  <data key="d10">Callejon G</data>
+  <data key="d11">pedestrian</data>
+  <data key="d12">20</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">57.186</data>
+  <data key="d16">-0.001</data>
+  <data key="d17">0.001</data>
+</edge>
+<edge source="1904012259" target="1904012251" id="0">
+  <data key="d8">833696344</data>
+  <data key="d9">2</data>
+  <data key="d10">R. Fernandez Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">30</data>
+  <data key="d13">False</data>
+  <data key="d14">True</data>
+  <data key="d15">25.073</data>
+  <data key="d16">0.006</data>
+  <data key="d17">0.006</data>
+</edge>
+</graph></graphml>

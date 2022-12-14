@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="name" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d13" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d12" for="edge" attr.name="length" attr.type="string"/>
+<key id="d11" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:29:19</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="244456530">
+  <data key="d4">14.6340562</data>
+  <data key="d5">120.9753649</data>
+  <data key="d6">3</data>
+  <data key="d7">3.06</data>
+</node>
+<node id="244456532">
+  <data key="d4">14.6345723</data>
+  <data key="d5">120.9762889</data>
+  <data key="d6">3</data>
+  <data key="d7">2.67</data>
+</node>
+<node id="244456536">
+  <data key="d4">14.6342384</data>
+  <data key="d5">120.9762401</data>
+  <data key="d6">3</data>
+  <data key="d7">2.835</data>
+</node>
+<node id="244456593">
+  <data key="d4">14.6343826</data>
+  <data key="d5">120.9754363</data>
+  <data key="d6">3</data>
+  <data key="d7">2.707</data>
+</node>
+<edge source="244456530" target="244456593" id="0">
+  <data key="d8">22771089</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">37.098</data>
+  <data key="d13">-0.01</data>
+  <data key="d14">0.01</data>
+</edge>
+<edge source="244456532" target="244456536" id="0">
+  <data key="d8">22771082</data>
+  <data key="d15">Dagupan Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">37.497</data>
+  <data key="d13">0.004</data>
+  <data key="d14">0.004</data>
+</edge>
+<edge source="244456536" target="244456532" id="0">
+  <data key="d8">22771082</data>
+  <data key="d15">Dagupan Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">37.497</data>
+  <data key="d13">-0.004</data>
+  <data key="d14">0.004</data>
+</edge>
+<edge source="244456536" target="244456593" id="0">
+  <data key="d8">22771107</data>
+  <data key="d15">Lakambini Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">87.953</data>
+  <data key="d13">-0.001</data>
+  <data key="d14">0.001</data>
+</edge>
+<edge source="244456593" target="244456530" id="0">
+  <data key="d8">22771089</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">37.098</data>
+  <data key="d13">0.01</data>
+  <data key="d14">0.01</data>
+</edge>
+<edge source="244456593" target="244456536" id="0">
+  <data key="d8">22771107</data>
+  <data key="d15">Lakambini Street</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">87.953</data>
+  <data key="d13">0.001</data>
+  <data key="d14">0.001</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d19" for="edge" attr.name="width" attr.type="string"/>
+<key id="d18" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d17" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d15" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d13" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d12" for="edge" attr.name="name" attr.type="string"/>
+<key id="d11" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d10" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 09:40:22</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="159476777">
+  <data key="d4">14.6036057</data>
+  <data key="d5">120.9684603</data>
+  <data key="d6">4</data>
+  <data key="d7">2.341</data>
+</node>
+<node id="159480930">
+  <data key="d4">14.6031628</data>
+  <data key="d5">120.968041</data>
+  <data key="d6">4</data>
+  <data key="d7">2.458</data>
+</node>
+<node id="159496007">
+  <data key="d4">14.6040548</data>
+  <data key="d5">120.9688478</data>
+  <data key="d6">3</data>
+  <data key="d7">2.555</data>
+</node>
+<node id="161609301">
+  <data key="d4">14.6037527</data>
+  <data key="d5">120.9683075</data>
+  <data key="d6">4</data>
+  <data key="d7">2.295</data>
+</node>
+<node id="244117844">
+  <data key="d4">14.6033038</data>
+  <data key="d5">120.9678866</data>
+  <data key="d6">4</data>
+  <data key="d7">2.72</data>
+</node>
+<node id="1732972258">
+  <data key="d4">14.6040213</data>
+  <data key="d5">120.9680193</data>
+  <data key="d6">3</data>
+  <data key="d7">3.764</data>
+</node>
+<node id="9958412399">
+  <data key="d4">14.6027457</data>
+  <data key="d5">120.9676673</data>
+  <data key="d6">3</data>
+  <data key="d7">3.29</data>
+</node>
+<edge source="159476777" target="159496007" id="0">
+  <data key="d8">180784925</data>
+  <data key="d9">False</data>
+  <data key="d10">4</data>
+  <data key="d11">145</data>
+  <data key="d12">C. M. Recto Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">65.056</data>
+  <data key="d17">0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="159476777" target="159480930" id="0">
+  <data key="d8">180784925</data>
+  <data key="d9">False</data>
+  <data key="d10">4</data>
+  <data key="d11">145</data>
+  <data key="d12">C. M. Recto Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">True</data>
+  <data key="d16">66.791</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="159476777" target="161609301" id="0">
+  <data key="d8">653307777</data>
+  <data key="d10">2</data>
+  <data key="d12">Santo Cristo Street</data>
+  <data key="d13">path</data>
+  <data key="d14">40</data>
+  <data key="d19">8</data>
+  <data key="d9">False</data>
+  <data key="d15">False</data>
+  <data key="d16">23.185</data>
+  <data key="d20">LINESTRING (120.9684603 14.6036057, 120.9683482 14.6037125, 120.9683075 14.6037527)</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="159480930" target="159476777" id="0">
+  <data key="d8">180784925</data>
+  <data key="d9">False</data>
+  <data key="d10">4</data>
+  <data key="d11">145</data>
+  <data key="d12">C. M. Recto Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">66.791</data>
+  <data key="d17">-0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="159480930" target="9958412399" id="0">
+  <data key="d8">180784925</data>
+  <data key="d9">False</data>
+  <data key="d10">4</data>
+  <data key="d11">145</data>
+  <data key="d12">C. M. Recto Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">True</data>
+  <data key="d16">61.384</data>
+  <data key="d17">0.014</data>
+  <data key="d18">0.014</data>
+</edge>
+<edge source="159480930" target="244117844" id="0">
+  <data key="d8">933793102</data>
+  <data key="d12">Elcano Street</data>
+  <data key="d13">path</data>
+  <data key="d9">False</data>
+  <data key="d15">False</data>
+  <data key="d16">22.844</data>
+  <data key="d17">0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="159496007" target="159476777" id="0">
+  <data key="d8">180784925</data>
+  <data key="d9">False</data>
+  <data key="d10">4</data>
+  <data key="d11">145</data>
+  <data key="d12">C. M. Recto Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">True</data>
+  <data key="d16">65.056</data>
+  <data key="d17">-0.003</data>
+  <data key="d18">0.003</data>
+</edge>
+<edge source="161609301" target="244117844" id="0">
+  <data key="d8">424276547</data>
+  <data key="d9">False</data>
+  <data key="d10">5</data>
+  <data key="d11">145</data>
+  <data key="d12">C. M. Recto Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">67.4</data>
+  <data key="d17">0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="161609301" target="1732972258" id="0">
+  <data key="d8">161306400</data>
+  <data key="d10">2</data>
+  <data key="d12">Santo Cristo Street</data>
+  <data key="d13">residential</data>
+  <data key="d14">30</data>
+  <data key="d9">False</data>
+  <data key="d15">False</data>
+  <data key="d16">43.089</data>
+  <data key="d20">LINESTRING (120.9683075 14.6037527, 120.9681833 14.603858, 120.9680193 14.6040213)</data>
+  <data key="d17">0.034</data>
+  <data key="d18">0.034</data>
+</edge>
+<edge source="161609301" target="159476777" id="0">
+  <data key="d8">653307777</data>
+  <data key="d10">2</data>
+  <data key="d12">Santo Cristo Street</data>
+  <data key="d13">path</data>
+  <data key="d14">40</data>
+  <data key="d19">8</data>
+  <data key="d9">False</data>
+  <data key="d15">True</data>
+  <data key="d16">23.185</data>
+  <data key="d20">LINESTRING (120.9683075 14.6037527, 120.9683482 14.6037125, 120.9684603 14.6036057)</data>
+  <data key="d17">0.002</data>
+  <data key="d18">0.002</data>
+</edge>
+<edge source="244117844" target="161609301" id="0">
+  <data key="d8">424276547</data>
+  <data key="d9">False</data>
+  <data key="d10">5</data>
+  <data key="d11">145</data>
+  <data key="d12">C. M. Recto Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">True</data>
+  <data key="d16">67.4</data>
+  <data key="d17">-0.006</data>
+  <data key="d18">0.006</data>
+</edge>
+<edge source="244117844" target="159480930" id="0">
+  <data key="d8">933793102</data>
+  <data key="d12">Elcano Street</data>
+  <data key="d13">path</data>
+  <data key="d9">False</data>
+  <data key="d15">True</data>
+  <data key="d16">22.844</data>
+  <data key="d17">-0.011</data>
+  <data key="d18">0.011</data>
+</edge>
+<edge source="1732972258" target="161609301" id="0">
+  <data key="d8">161306400</data>
+  <data key="d10">2</data>
+  <data key="d12">Santo Cristo Street</data>
+  <data key="d13">residential</data>
+  <data key="d14">30</data>
+  <data key="d9">False</data>
+  <data key="d15">True</data>
+  <data key="d16">43.089</data>
+  <data key="d20">LINESTRING (120.9680193 14.6040213, 120.9681833 14.603858, 120.9683075 14.6037527)</data>
+  <data key="d17">-0.034</data>
+  <data key="d18">0.034</data>
+</edge>
+<edge source="9958412399" target="159480930" id="0">
+  <data key="d8">180784925</data>
+  <data key="d9">False</data>
+  <data key="d10">4</data>
+  <data key="d11">145</data>
+  <data key="d12">C. M. Recto Avenue</data>
+  <data key="d13">primary</data>
+  <data key="d14">60</data>
+  <data key="d15">False</data>
+  <data key="d16">61.384</data>
+  <data key="d17">-0.014</data>
+  <data key="d18">0.014</data>
+</edge>
+</graph></graphml>

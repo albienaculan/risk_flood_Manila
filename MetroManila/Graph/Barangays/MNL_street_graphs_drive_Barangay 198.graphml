@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 07:13:29</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="134567430">
+  <data key="d4">14.6305012</data>
+  <data key="d5">120.9742869</data>
+  <data key="d6">4</data>
+  <data key="d7">3.549</data>
+</node>
+<node id="244092926">
+  <data key="d4">14.6312601</data>
+  <data key="d5">120.9734756</data>
+  <data key="d6">4</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="244092928">
+  <data key="d4">14.6311803</data>
+  <data key="d5">120.9740735</data>
+  <data key="d6">3</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="257533053">
+  <data key="d4">14.6306677</data>
+  <data key="d5">120.9733668</data>
+  <data key="d6">4</data>
+  <data key="d7">3.856</data>
+</node>
+<node id="257533054">
+  <data key="d4">14.6298993</data>
+  <data key="d5">120.9732183</data>
+  <data key="d6">3</data>
+  <data key="d7">3.823</data>
+</node>
+<node id="257533056">
+  <data key="d4">14.6298471</data>
+  <data key="d5">120.9734954</data>
+  <data key="d6">1</data>
+  <data key="d7">4.0</data>
+</node>
+<node id="257533060">
+  <data key="d4">14.6305772</data>
+  <data key="d5">120.9739318</data>
+  <data key="d6">4</data>
+  <data key="d7">3.725</data>
+</node>
+<node id="2438353352">
+  <data key="d4">14.6307577</data>
+  <data key="d5">120.9729033</data>
+  <data key="d6">3</data>
+  <data key="d7">3.868</data>
+</node>
+<node id="2438353354">
+  <data key="d4">14.6300949</data>
+  <data key="d5">120.9738471</data>
+  <data key="d6">1</data>
+  <data key="d7">4.0</data>
+</node>
+<edge source="134567430" target="257533060" id="0">
+  <data key="d8">14115904</data>
+  <data key="d9">2</data>
+  <data key="d10">Benita Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">39.129</data>
+  <data key="d15">0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="244092926" target="257533053" id="0">
+  <data key="d8">23769422</data>
+  <data key="d9">2</data>
+  <data key="d10">General Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">66.904</data>
+  <data key="d15">-0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="244092926" target="244092928" id="0">
+  <data key="d8">14116005</data>
+  <data key="d9">2</data>
+  <data key="d10">Pag-asa Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">64.96</data>
+  <data key="d17">LINESTRING (120.9734756 14.6312601, 120.973799 14.6312091, 120.9740512 14.6311826, 120.9740735 14.6311803)</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="244092928" target="257533060" id="0">
+  <data key="d8">23769426</data>
+  <data key="d10">Rosalina Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">68.773</data>
+  <data key="d15">-0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="244092928" target="244092926" id="0">
+  <data key="d8">14116005</data>
+  <data key="d9">2</data>
+  <data key="d10">Pag-asa Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">64.96000000000001</data>
+  <data key="d17">LINESTRING (120.9740735 14.6311803, 120.9740512 14.6311826, 120.973799 14.6312091, 120.9734756 14.6312601)</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="257533053" target="244092926" id="0">
+  <data key="d8">23769422</data>
+  <data key="d9">2</data>
+  <data key="d10">General Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">66.904</data>
+  <data key="d15">0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="257533053" target="2438353352" id="0">
+  <data key="d8">235770955</data>
+  <data key="d9">2</data>
+  <data key="d10">Benita Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">50.862</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="257533053" target="257533054" id="0">
+  <data key="d8">23769422</data>
+  <data key="d9">2</data>
+  <data key="d10">General Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">86.92699999999999</data>
+  <data key="d17">LINESTRING (120.9733668 14.6306677, 120.9733203 14.6304303, 120.9733107 14.6303827, 120.9732577 14.6301201, 120.973256 14.6301107, 120.9732183 14.6298993)</data>
+  <data key="d15">-0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="257533053" target="257533060" id="0">
+  <data key="d8">235770955</data>
+  <data key="d9">2</data>
+  <data key="d10">Benita Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">61.618</data>
+  <data key="d17">LINESTRING (120.9733668 14.6306677, 120.9736615 14.630618, 120.9739318 14.6305772)</data>
+  <data key="d15">-0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="257533054" target="257533056" id="0">
+  <data key="d8">235770954</data>
+  <data key="d9">2</data>
+  <data key="d10">Manotoc Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">30.373</data>
+  <data key="d15">0.006</data>
+  <data key="d16">0.006</data>
+</edge>
+<edge source="257533054" target="257533053" id="0">
+  <data key="d8">23769422</data>
+  <data key="d9">2</data>
+  <data key="d10">General Lukban Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">86.92699999999999</data>
+  <data key="d17">LINESTRING (120.9732183 14.6298993, 120.973256 14.6301107, 120.9732577 14.6301201, 120.9733107 14.6303827, 120.9733203 14.6304303, 120.9733668 14.6306677)</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="257533054" target="2438353352" id="0">
+  <data key="d8">[235770953, 235770954]</data>
+  <data key="d9">2</data>
+  <data key="d10">['Manotoc Street', 'Francisco Street']</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">130.73700000000002</data>
+  <data key="d17">LINESTRING (120.9732183 14.6298993, 120.9728289 14.6299683, 120.9728472 14.6301719, 120.9728621 14.6303056, 120.9728762 14.6304602, 120.9729033 14.6307577)</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="257533056" target="257533054" id="0">
+  <data key="d8">235770954</data>
+  <data key="d9">2</data>
+  <data key="d10">Manotoc Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">30.373</data>
+  <data key="d15">-0.006</data>
+  <data key="d16">0.006</data>
+</edge>
+<edge source="257533060" target="134567430" id="0">
+  <data key="d8">14115904</data>
+  <data key="d9">2</data>
+  <data key="d10">Benita Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">39.129</data>
+  <data key="d15">-0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="257533060" target="2438353354" id="0">
+  <data key="d8">23769426</data>
+  <data key="d10">Rosalina Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">54.398</data>
+  <data key="d15">0.005</data>
+  <data key="d16">0.005</data>
+</edge>
+<edge source="257533060" target="244092928" id="0">
+  <data key="d8">23769426</data>
+  <data key="d10">Rosalina Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">68.773</data>
+  <data key="d15">0.004</data>
+  <data key="d16">0.004</data>
+</edge>
+<edge source="257533060" target="257533053" id="0">
+  <data key="d8">235770955</data>
+  <data key="d9">2</data>
+  <data key="d10">Benita Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">61.618</data>
+  <data key="d17">LINESTRING (120.9739318 14.6305772, 120.9736615 14.630618, 120.9733668 14.6306677)</data>
+  <data key="d15">0.002</data>
+  <data key="d16">0.002</data>
+</edge>
+<edge source="2438353352" target="257533053" id="0">
+  <data key="d8">235770955</data>
+  <data key="d9">2</data>
+  <data key="d10">Benita Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">50.862</data>
+  <data key="d15">-0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="2438353352" target="257533054" id="0">
+  <data key="d8">[235770953, 235770954]</data>
+  <data key="d9">2</data>
+  <data key="d10">['Manotoc Street', 'Francisco Street']</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">130.73700000000002</data>
+  <data key="d17">LINESTRING (120.9729033 14.6307577, 120.9728762 14.6304602, 120.9728621 14.6303056, 120.9728472 14.6301719, 120.9728289 14.6299683, 120.9732183 14.6298993)</data>
+  <data key="d15">-0.0</data>
+  <data key="d16">0.0</data>
+</edge>
+<edge source="2438353354" target="257533060" id="0">
+  <data key="d8">23769426</data>
+  <data key="d10">Rosalina Street</data>
+  <data key="d11">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">54.398</data>
+  <data key="d15">-0.005</data>
+  <data key="d16">0.005</data>
+</edge>
+</graph></graphml>

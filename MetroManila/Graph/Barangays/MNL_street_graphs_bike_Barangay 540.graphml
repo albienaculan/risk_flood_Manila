@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d16" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d15" for="edge" attr.name="grade_abs" attr.type="string"/>
+<key id="d14" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d13" for="edge" attr.name="length" attr.type="string"/>
+<key id="d12" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d11" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="elevation" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-12-14 04:26:19</data>
+<data key="d1">OSMnx 1.2.2</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="61090963">
+  <data key="d4">14.6123794</data>
+  <data key="d5">121.0020149</data>
+  <data key="d6">4</data>
+  <data key="d7">8.208</data>
+</node>
+<node id="322497854">
+  <data key="d4">14.6124632</data>
+  <data key="d5">121.0023434</data>
+  <data key="d6">4</data>
+  <data key="d7">7.642</data>
+</node>
+<node id="322497863">
+  <data key="d4">14.6133276</data>
+  <data key="d5">121.0017779</data>
+  <data key="d6">3</data>
+  <data key="d7">8.662</data>
+</node>
+<node id="9924532869">
+  <data key="d4">14.6123086</data>
+  <data key="d5">121.0017307</data>
+  <data key="d6">4</data>
+  <data key="d7">8.696</data>
+</node>
+<edge source="61090963" target="322497854" id="0">
+  <data key="d8">8598580</data>
+  <data key="d9">J. Fajardo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">36.554</data>
+  <data key="d14">-0.015</data>
+  <data key="d15">0.015</data>
+</edge>
+<edge source="61090963" target="9924532869" id="0">
+  <data key="d8">8598580</data>
+  <data key="d9">J. Fajardo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">31.577</data>
+  <data key="d14">0.015</data>
+  <data key="d15">0.015</data>
+</edge>
+<edge source="61090963" target="322497863" id="0">
+  <data key="d8">29312388</data>
+  <data key="d9">V. Alindada Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">108.478</data>
+  <data key="d16">LINESTRING (121.0020149 14.6123794, 121.0019878 14.6124785, 121.0017779 14.6133276)</data>
+  <data key="d14">0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="322497854" target="61090963" id="0">
+  <data key="d8">8598580</data>
+  <data key="d9">J. Fajardo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">36.554</data>
+  <data key="d14">0.015</data>
+  <data key="d15">0.015</data>
+</edge>
+<edge source="322497863" target="61090963" id="0">
+  <data key="d8">29312388</data>
+  <data key="d9">V. Alindada Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">True</data>
+  <data key="d13">108.478</data>
+  <data key="d16">LINESTRING (121.0017779 14.6133276, 121.0019878 14.6124785, 121.0020149 14.6123794)</data>
+  <data key="d14">-0.004</data>
+  <data key="d15">0.004</data>
+</edge>
+<edge source="9924532869" target="61090963" id="0">
+  <data key="d8">8598580</data>
+  <data key="d9">J. Fajardo Street</data>
+  <data key="d10">residential</data>
+  <data key="d11">False</data>
+  <data key="d12">False</data>
+  <data key="d13">31.577</data>
+  <data key="d14">-0.015</data>
+  <data key="d15">0.015</data>
+</edge>
+</graph></graphml>
